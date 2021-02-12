@@ -1,3 +1,4 @@
+import csv
 import time
 import jinja2
 import requests
@@ -11,6 +12,7 @@ template = """<html>
 <h1>BCLDB Wholesale Cannabis Price List</h1>
 <h2><a href="https://github.com/sasquatch-jr/bcldb_wholesale_cannabis_price_list/blob/main/README.md">FAQ</a>
 <a href="https://github.com/sasquatch-jr/bcldb_wholesale_cannabis_price_list/blob/main/bccs_dump.py">Source Code</a>
+<a href="https://github.com/sasquatch-jr/bcldb_wholesale_cannabis_price_list/blob/main/dump.csv">CSV</a>
 </h2>
 <h3>Generated {{now}} UTC</h3>
 <table>
@@ -141,6 +143,12 @@ def main():
     prods = sorted(products, key=lambda k: k['created'], reverse=True)
     t = jinja2.Template(template)
     open('index' + '.html', 'w').write(t.render(products=prods, now=datetime.now()))
+    with open('dump.csv', 'w', newline='') as csvfile:
+        csvwriter = csv.writer(csvfile, delimiter=',')
+        csvwriter.writerow(["name", "lp", "brand", "size", "price", "price_per_item", "in_stock", "retail_price", "retail_markup"])
+        for p in prods:
+            for s in p['sizes']:
+                csvwriter.writerow([p["name"], p["lp"], p["brand"], s["name"], s["price"], s["price_per_item"], s["in_stock"], s["retail_price"], s["retail_markup"]])
 
 
 if __name__ == '__main__':
