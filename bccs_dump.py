@@ -12,7 +12,7 @@ template = """<html>
 <h1>BCLDB Wholesale Cannabis Price List</h1>
 <h2><a href="https://github.com/sasquatch-jr/bcldb_wholesale_cannabis_price_list/blob/main/README.md">FAQ</a>
 <a href="https://github.com/sasquatch-jr/bcldb_wholesale_cannabis_price_list/blob/main/bccs_dump.py">Source Code</a>
-<a href="https://github.com/sasquatch-jr/bcldb_wholesale_cannabis_price_list/blob/main/dump.csv">CSV</a>
+<a href="https://raw.githubusercontent.com/sasquatch-jr/bcldb_wholesale_cannabis_price_list/main/dump.csv">CSV</a>
 </h2>
 <h3>Generated {{now}} UTC</h3>
 <table>
