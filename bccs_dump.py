@@ -30,7 +30,14 @@ template = """<html>
         {% if size['retail_price'] %}
         <br />
         <a href=https://www.bccannabisstores.com/products/{{item['id']}}>Retail price ${{size['retail_price']}} ({{size['retail_markup']}}% markup)</a>
-        {% endif %}</td>
+        {% endif %}
+        {% if size['order_limit'] %}
+        <br />
+        Retailers may only purchase {{size['order_limit']}} of this item!
+        {% endif %}
+        <br />
+        LP cut: ${{size['lp_cut']}}, BCLDB Cut: ${{size['bcldb_cut']}}
+        </td>
     </tr>
     {% endfor %}
     </table></td>
@@ -71,10 +78,14 @@ def fetch_products_from_base_url(base_url):
         except IndexError:
             thumb = None
 
+        sku_order_limits = {}
         for tag in p['tags']:
             if tag.startswith('brand::'):
                 brand = tag.split('::')[-1]
-                break
+            elif tag.startswith('b2b_order_limit'):
+                for sku_limit in tag.split('::')[-1].split('|'):
+                    sku, limit = sku_limit.split('=')
+                    sku_order_limits[sku] = limit
 
         sizes = []
         for v in p['variants']:
@@ -89,11 +100,17 @@ def fetch_products_from_base_url(base_url):
             except:
                 items_per_pack = None
                 price_per_item = None
-                
+
+            lp_cut = '%0.2f' % round(float(v['price']) * 0.85, 2)
+            bcldb_cut = '%0.2f' % round(float(v['price']) * 0.15, 2)
+
             sizes.append({'name': v['title'],
                           'price': v['price'],
                           'in_stock':in_stock,
-                          'price_per_item': price_per_item})
+                          'price_per_item': price_per_item,
+                          'order_limit': sku_order_limits.get(v['sku']),
+                          'lp_cut': lp_cut,
+                          'bcldb_cut': bcldb_cut})
 
         prods.append({'name': p['title'],
                       'lp': p['vendor'],
@@ -145,10 +162,10 @@ def main():
     open('index' + '.html', 'w').write(t.render(products=prods, now=datetime.now()))
     with open('dump.csv', 'w', newline='') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
-        csvwriter.writerow(["name", "lp", "brand", "size", "price", "price_per_item", "in_stock", "retail_price", "retail_markup"])
+        csvwriter.writerow(["name", "lp", "brand", "size", "price", "price_per_item", "in_stock", "retail_price", "retail_markup", "order_limit", "lp_cut", "bcldb_cut"])
         for p in prods:
             for s in p['sizes']:
-                csvwriter.writerow([p["name"], p["lp"], p["brand"], s["name"], s["price"], s["price_per_item"], s["in_stock"], s["retail_price"], s["retail_markup"]])
+                csvwriter.writerow([p["name"], p["lp"], p["brand"], s["name"], s["price"], s["price_per_item"], s["in_stock"], s["retail_price"], s["retail_markup"], s["order_limit"], s["lp_cut"], s["bcldb_cut"]])
 
 
 if __name__ == '__main__':
