@@ -14,7 +14,8 @@ template = """<html>
 <a href="https://github.com/sasquatch-jr/bcldb_wholesale_cannabis_price_list/blob/main/bccs_dump.py">Source Code</a>
 <a href="https://raw.githubusercontent.com/sasquatch-jr/bcldb_wholesale_cannabis_price_list/main/dump.csv">CSV</a>
 </h2>
-<h3>Generated {{now}} UTC</h3>
+<h4>The "last activity" on a SKU is the last time there was a sale or a restock of the item. I am actively working on new features as I find cool things that I can do with a growing archive of this data that I am collecting. I want this resource to help the legal cannabis industry and am happy to chat with people who have feature requests (unfortunately the public product API does not include stock levels) or wanted to share ideas. Feel free to email me at sasquatch__jr@outlook.com.</h4>
+<h3>Generated {{now}} PST - This page will be re-generated every 10 minutes.</h3>
 <table>
 {% for item in products %}
 <tr>
@@ -37,6 +38,8 @@ template = """<html>
         {% endif %}
         <br />
         LP cut: ${{size['lp_cut']}}, BCLDB Cut: ${{size['bcldb_cut']}}
+        <br />
+        Last activity on SKU: {{size['updated']}} PST
         </td>
     </tr>
     {% endfor %}
@@ -104,13 +107,15 @@ def fetch_products_from_base_url(base_url):
             lp_cut = '%0.2f' % round(float(v['price']) * 0.85, 2)
             bcldb_cut = '%0.2f' % round(float(v['price']) * 0.15, 2)
 
+            updated = datetime.fromisoformat(v['updated_at']).strftime("%b %d %Y %H:%M:%S")
             sizes.append({'name': v['title'],
                           'price': v['price'],
                           'in_stock':in_stock,
                           'price_per_item': price_per_item,
                           'order_limit': sku_order_limits.get(v['sku']),
                           'lp_cut': lp_cut,
-                          'bcldb_cut': bcldb_cut})
+                          'bcldb_cut': bcldb_cut,
+                          'updated': updated})
 
         prods.append({'name': p['title'],
                       'lp': p['vendor'],
@@ -162,10 +167,10 @@ def main():
     open('index' + '.html', 'w').write(t.render(products=prods, now=datetime.now()))
     with open('dump.csv', 'w', newline='') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
-        csvwriter.writerow(["name", "lp", "brand", "size", "price", "price_per_item", "in_stock", "retail_price", "retail_markup", "order_limit", "lp_cut", "bcldb_cut"])
+        csvwriter.writerow(["name", "lp", "brand", "size", "price", "price_per_item", "in_stock", "retail_price", "retail_markup", "order_limit", "lp_cut", "bcldb_cut", "last_updated"])
         for p in prods:
             for s in p['sizes']:
-                csvwriter.writerow([p["name"], p["lp"], p["brand"], s["name"], s["price"], s["price_per_item"], s["in_stock"], s["retail_price"], s["retail_markup"], s["order_limit"], s["lp_cut"], s["bcldb_cut"]])
+                csvwriter.writerow([p["name"], p["lp"], p["brand"], s["name"], s["price"], s["price_per_item"], s["in_stock"], s["retail_price"], s["retail_markup"], s["order_limit"], s["lp_cut"], s["bcldb_cut"], s["updated"]])
 
 
 if __name__ == '__main__':
