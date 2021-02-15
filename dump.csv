@@ -4,7 +4,7 @@ APPLE CIDER VINEGAR SOFT CHEW,Dynaleo,DynaThrive,"30 x 4.6 g Apple cider vinegar
 SUNDAE DRIVER,Experion,CITIZEN STASH,3.5g (Case of 24),724.56,30.19,In Stock,39.99,32,1,615.88,108.68,Feb 15 2021 11:39:30
 I.C.C.,Organigram,Edison,3.5g (Case of 12),276.00,23.0,In Stock,29.99,30,1,234.60,41.40,Feb 15 2021 10:35:45
 GRAND DADDY PURPLE INDICA,Motif Labs,Spherex,1 x 0.5 g  (Case of 12),335.88,27.99,In Stock,,,1,285.50,50.38,Feb 15 2021 02:07:55
-MANGO KUSH HYBRID,Motif Labs,Spherex,1 x 0.5 g  (Case of 12),335.88,27.99,In Stock,,,1,285.50,50.38,Feb 14 2021 11:22:31
+MANGO KUSH HYBRID,Motif Labs,Spherex,1 x 0.5 g  (Case of 12),335.88,27.99,In Stock,,,1,285.50,50.38,Feb 15 2021 14:00:10
 GELATTI PRE-ROLLS,Atlanticann Medical,MSIKU,3 x 0.5g (Case of 24),338.16,14.09,In Stock,,,1,287.44,50.72,Feb 14 2021 11:22:31
 PEGGY'S PRIDE PRE-ROLLS,Atlanticann Medical,MSIKU,3 x 0.5g (Case of 24),338.16,14.09,In Stock,,,1,287.44,50.72,Feb 14 2021 15:00:16
 NOVA GLUE PRE-ROLLS,Atlanticann Medical,MSIKU,3 x 0.5g (Case of 24),358.80,14.95,In Stock,,,1,304.98,53.82,Feb 12 2021 21:25:45
@@ -32,7 +32,7 @@ SOUR BLACK CHERRY THC GUMMIES,Pure Sunfarms,Pure Sunfarms,"4 x 4.4 g Black Cherr
 BC BLACK CHERRY,The Flowr Group,Flowr,3.5g (Case of 24),738.00,30.75,In Stock,39.99,30,3,627.30,110.70,Feb 15 2021 12:38:11
 WHITE WIDOW PRE-ROLL,7ACRES,Hiway,1 x 0.5g (Case of 24),78.72,3.28,In Stock,,,,66.91,11.81,Feb 15 2021 13:57:15
 WATERMELON SOFT CHEWS,Aqualitas Inc,Reef Organic,"1 x 5 g Watermelon
- (Case of 24)",134.16,5.59,In Stock,,,1,114.04,20.12,Feb 14 2021 17:02:05
+ (Case of 24)",134.16,5.59,In Stock,,,1,114.04,20.12,Feb 15 2021 14:06:10
 WILD BERRY SOFT CHEWS,Mera Cannabis Corp,Summit,"2 x 3 g Wild berry
  (Case of 24)",113.28,4.72,In Stock,,,3,96.29,16.99,Feb 14 2021 11:22:30
 CBD OIL,Canopy Growth Corporation,Tweed,20ml (Case of 24),539.76,22.49,In Stock,,,3,458.80,80.96,Feb 14 2021 22:22:15
@@ -43,8 +43,8 @@ LA KUSH CAKE,Atlas Growers,Natural History,3.5g (Case of 12),351.24,29.27,In Sto
 MANDARIN COOKIES,Atlas Growers,Natural History,3.5g (Case of 12),351.24,29.27,In Stock,38.99,33,1,298.55,52.69,Feb 15 2021 12:52:43
 CRESCENDO,Atlas Growers,Natural History,3.5g (Case of 12),351.24,29.27,In Stock,38.99,33,3,298.55,52.69,Feb 15 2021 11:28:11
 JB COOKIES,Decibel Cannabis Company,QWEST,3.5g (Case of 12),393.36,32.78,In Stock,44.99,37,1,334.36,59.00,Feb 15 2021 13:57:15
-AFGHANI DRIFTER,Greybeard,Greybeard,7g (Case of 12),607.20,50.6,In Stock,67.99,34,1,516.12,91.08,Feb 15 2021 13:57:16
-SLK LIVE RESIN VAPE CARTRIDGE,Thrive Cannabis,Greybeard,1 x 0.5 g  (Case of 12),424.20,35.35,In Stock,,,1,360.57,63.63,Feb 15 2021 11:39:30
+AFGHANI DRIFTER,Greybeard,Greybeard,7g (Case of 12),607.20,50.6,In Stock,67.99,34,1,516.12,91.08,Feb 15 2021 14:00:10
+SLK LIVE RESIN VAPE CARTRIDGE,Thrive Cannabis,Greybeard,1 x 0.5 g  (Case of 12),424.20,35.35,In Stock,,,1,360.57,63.63,Feb 15 2021 14:00:10
 SLK TERP SLUSH LIVE RESIN,Greybeard,Greybeard,1 ml (Case of 12),530.28,44.19,In Stock,,,1,450.74,79.54,Feb 15 2021 10:27:25
 KISH TERP SLUSH LIVE RESIN,Greybeard,Greybeard,1 ml (Case of 12),530.28,44.19,In Stock,,,1,450.74,79.54,Feb 15 2021 11:39:30
 THC ORAL QUICKSTRIP,Thrive Cannabis,Being,0.085 ml (Case of 12),375.12,31.26,In Stock,,,1,318.85,56.27,Feb 15 2021 13:57:15
@@ -107,8 +107,8 @@ SOUR CKS CAVIAR,Abba Medix,Lab Theory,0.5g (Case of 6),257.76,42.96,In Stock,,,,
 OLD SCHOOL BLACK HASH,Trichome JWC,JWC,1 x 1 g  (Case of 12),209.88,17.49,In Stock,,,1,178.40,31.48,Feb 15 2021 13:58:35
 DARK HELMET GE PRE-ROLL,Trichome JWC,JWC,3 x 0.5g (Case of 12),138.36,11.53,In Stock,14.99,30,3,117.61,20.75,Feb 15 2021 08:04:40
 QUERKLE PRE-ROLLS,Sitka Weed Works,Greenade,3 x 0.5g (Case of 24),282.96,11.79,In Stock,,,,240.52,42.44,Feb 15 2021 11:40:36
-MIRAGE PLUS PRE-ROLL,Breathing green solutions,SKOSHA,3 x 0.5g (Case of 24),424.80,17.7,In Stock,,,,361.08,63.72,Feb 15 2021 11:28:11
-MIRAGE PLUS,Breathing green solutions,SKOSHA,3.5g (Case of 24),703.92,29.33,In Stock,,,,598.33,105.59,Feb 15 2021 11:28:10
+MIRAGE PLUS PRE-ROLL,Breathing green solutions,SKOSHA,3 x 0.5g (Case of 24),424.80,17.7,In Stock,,,,361.08,63.72,Feb 15 2021 14:06:10
+MIRAGE PLUS,Breathing green solutions,SKOSHA,3.5g (Case of 24),703.92,29.33,In Stock,,,,598.33,105.59,Feb 15 2021 14:06:10
 ORANGE BUD TERP  SAUCE VAPE,Apothecary,Natural History,1 x 0.5 g  (Case of 12),395.52,32.96,In Stock,,,1,336.19,59.33,Feb 15 2021 11:36:45
 CRESCENDO TERP SAUCE VAPE,Apothecary,Natural History,1 x 0.5 g  (Case of 12),395.52,32.96,In Stock,,,1,336.19,59.33,Feb 11 2021 14:15:21
 SAPPHIRE OG,Good Buds Company,Good Buds Company,3.5g (Case of 12),391.56,32.63,In Stock,,,,332.83,58.73,Feb 15 2021 08:44:50
@@ -535,7 +535,7 @@ WATERMELON ZKITTLEZ,Alberta Craft Cannabis,Tenzo,3.5g (Case of 24),656.16,27.34,
 WATERMELON ZKITTLEZ,Alberta Craft Cannabis,Tenzo,7g (Case of 12),562.32,46.86,Out of Stock,61.99,32,,477.97,84.35,Jan 19 2021 21:17:40
 HEADBAND PRE-ROLL,Pure Sunfarms,Pure Sunfarms,3 x 0.5g (Case of 24),176.64,7.36,In Stock,,,,150.14,26.50,Feb 15 2021 13:57:15
 HYBRID,Pure Sunfarms,Pure Sunfarms,28g (Case of 6),460.56,76.76,In Stock,,,3,391.48,69.08,Feb 15 2021 13:57:16
-CBD 25 REGULAR FORMULA,Medipharm Labs,MediPharm Labs,20 ml (Case of 12),369.48,30.79,In Stock,39.99,30,,314.06,55.42,Feb 12 2021 10:13:47
+CBD 25 REGULAR FORMULA,Medipharm Labs,MediPharm Labs,20 ml (Case of 12),369.48,30.79,In Stock,39.99,30,,314.06,55.42,Feb 15 2021 14:00:10
 OUTLAW,Redecan,Redecan,1g (Case of 24),138.00,5.75,Out of Stock,7.99,39,,117.30,20.70,Dec 08 2020 06:24:31
 OUTLAW,Redecan,Redecan,3.5g (Case of 24),483.12,20.13,In Stock,25.99,29,,410.65,72.47,Feb 15 2021 11:01:46
 FIRESIDE X SHATTER - OG KUSH,Abcann,ABCANN MEDICINALS,1 x 1 g  (Case of 6),343.14,57.19,In Stock,,,10,291.67,51.47,Feb 15 2021 11:44:05
