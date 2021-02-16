@@ -115,7 +115,8 @@ def fetch_products_from_base_url(base_url):
                           'order_limit': sku_order_limits.get(v['sku']),
                           'lp_cut': lp_cut,
                           'bcldb_cut': bcldb_cut,
-                          'updated': updated})
+                          'updated': updated,
+                          'updated_sortable': v['updated_at']})
 
         prods.append({'name': p['title'],
                       'lp': p['vendor'],
@@ -170,7 +171,7 @@ def main():
         csvwriter.writerow(["name", "lp", "brand", "size", "price", "price_per_item", "in_stock", "retail_price", "retail_markup", "order_limit", "lp_cut", "bcldb_cut", "last_updated"])
         for p in prods:
             for s in p['sizes']:
-                csvwriter.writerow([p["name"], p["lp"], p["brand"], s["name"], s["price"], s["price_per_item"], s["in_stock"], s["retail_price"], s["retail_markup"], s["order_limit"], s["lp_cut"], s["bcldb_cut"], s["updated"]])
+                csvwriter.writerow([p["name"], p["lp"], p["brand"], s["name"], s["price"], s["price_per_item"], s["in_stock"], s["retail_price"], s["retail_markup"], s["order_limit"], s["lp_cut"], s["bcldb_cut"], s["updated_sortable"]])
 
 
 if __name__ == '__main__':
