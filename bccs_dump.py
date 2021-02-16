@@ -108,7 +108,7 @@ def fetch_products_from_base_url(base_url):
             bcldb_cut = '%0.2f' % round(float(v['price']) * 0.15, 2)
 
             updated = datetime.fromisoformat(v['updated_at']).strftime("%b %d %Y %H:%M:%S")
-            sizes.append({'name': v['title'],
+            sizes.append({'name': v['title'].replace('\n', ''),
                           'price': v['price'],
                           'in_stock':in_stock,
                           'price_per_item': price_per_item,
