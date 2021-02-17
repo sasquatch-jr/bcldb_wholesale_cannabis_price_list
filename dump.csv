@@ -1,7 +1,7 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 APPLE CIDER VINEGAR SOFT CHEW,Dynaleo,DynaThrive,30 x 4.6 g Apple cider vinegar (Case of 12),503.88,41.99,In Stock,59.98,43,3,428.30,75.58,2021-02-16T11:11:05-08:00
-PINEAPPLE DAZE SATIVA VAPE CARTRIDGE,Westleaf Labs,General Admission,1 x 0.95 g Creamy Pineapple (Case of 12),427.80,35.65,In Stock,,,1,363.63,64.17,2021-02-16T22:22:07-08:00
-GRAPEFRUIT KUSH INDICA VAPE CARTRIDGE,Westleaf Labs,General Admission,1 x 0.95 g Grapefruit (Case of 12),427.80,35.65,In Stock,,,1,363.63,64.17,2021-02-16T23:32:06-08:00
+PINEAPPLE DAZE SATIVA VAPE CARTRIDGE,Westleaf Labs,General Admission,1 x 0.95 g Creamy Pineapple (Case of 12),427.80,35.65,In Stock,,,1,363.63,64.17,2021-02-17T01:24:35-08:00
+GRAPEFRUIT KUSH INDICA VAPE CARTRIDGE,Westleaf Labs,General Admission,1 x 0.95 g Grapefruit (Case of 12),427.80,35.65,In Stock,,,1,363.63,64.17,2021-02-17T01:24:35-08:00
 LEMON BERRY,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-16T19:48:05-08:00
 MINT SOUR,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-16T23:36:30-08:00
 NICE CREAM,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-16T23:32:07-08:00
@@ -9,8 +9,8 @@ POWDERED DONUTS,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.4
 90'S OG KUSH CARTRIDGE,Bzam,Table Top,1 x 0.5 g  (Case of 12),201.48,16.79,In Stock,,,1,171.26,30.22,2021-02-16T23:32:06-08:00
 SOUR KUSH CARTRIDGE,Bzam,Table Top,1 x 0.5 g  (Case of 12),201.48,16.79,In Stock,,,1,171.26,30.22,2021-02-16T22:27:15-08:00
 SUNDAE DRIVER,Experion,CITIZEN STASH,3.5g (Case of 24),724.56,30.19,In Stock,39.99,32,1,615.88,108.68,2021-02-16T15:55:10-08:00
-LEMON HAZE CARTRIDGE,WeedMD,Saturday,1 x 1 g Lemon (Case of 12),359.88,29.99,In Stock,,,1,305.90,53.98,2021-02-16T22:22:07-08:00
-SOUR PINEAPPLE CARTRIDGE,WeedMD,Saturday,1 x 1 g Sour Pineapple (Case of 12),359.88,29.99,In Stock,,,1,305.90,53.98,2021-02-16T19:48:06-08:00
+LEMON HAZE CARTRIDGE,WeedMD,Saturday,1 x 1 g Lemon (Case of 12),359.88,29.99,In Stock,,,1,305.90,53.98,2021-02-17T01:24:35-08:00
+SOUR PINEAPPLE CARTRIDGE,WeedMD,Saturday,1 x 1 g Sour Pineapple (Case of 12),359.88,29.99,In Stock,,,1,305.90,53.98,2021-02-17T01:24:35-08:00
 I.C.C.,Organigram,Edison,3.5g (Case of 12),276.00,23.0,In Stock,29.99,30,1,234.60,41.40,2021-02-16T21:59:26-08:00
 BLOOD ORANGE THC GUMMY,TGOD,Ripple Gummies by TGOD,2 x 2.55 g  (Case of 24),117.36,4.89,In Stock,,,2,99.76,17.60,2021-02-16T19:48:06-08:00
 GRAND DADDY PURPLE INDICA,Motif Labs,Spherex,1 x 0.5 g  (Case of 12),335.88,27.99,In Stock,,,1,285.50,50.38,2021-02-16T19:48:06-08:00
@@ -87,8 +87,8 @@ CBD ISOLATE,Voyage Cannabis,RAD,1 ml (Case of 12),453.84,37.82,In Stock,,,1,385.
 RAD HYBRID SHATTER,Voyage Cannabis,RAD,1 x 1 g  (Case of 12),394.56,32.88,In Stock,,,3,335.38,59.18,2021-02-16T20:19:10-08:00
 RAD INDICA CRUMBLE,Voyage Cannabis,RAD,1 ml (Case of 12),394.56,32.88,In Stock,,,1,335.38,59.18,2021-02-16T17:18:01-08:00
 RAD SATIVA CRUMBLE,Voyage Cannabis,RAD,1 ml (Case of 12),394.56,32.88,In Stock,,,1,335.38,59.18,2021-02-16T22:22:06-08:00
-RAD INDICA SHATTER 1G,Voyage Cannabis,RAD,1 x 1 g  (Case of 12),394.56,32.88,In Stock,,,3,335.38,59.18,2021-02-16T22:42:35-08:00
-RAD SATIVA SHATTER,Voyage Cannabis,RAD,1 x 1 g  (Case of 12),394.56,32.88,In Stock,,,3,335.38,59.18,2021-02-16T19:48:06-08:00
+RAD INDICA SHATTER 1G,Voyage Cannabis,RAD,1 x 1 g  (Case of 12),394.56,32.88,In Stock,,,3,335.38,59.18,2021-02-17T01:24:35-08:00
+RAD SATIVA SHATTER,Voyage Cannabis,RAD,1 x 1 g  (Case of 12),394.56,32.88,In Stock,,,3,335.38,59.18,2021-02-17T01:24:35-08:00
 LEMON MARGY THCA DIAMONDS,Voyage Cannabis,Premium 5,0.5g (Case of 12),509.52,42.46,In Stock,,,3,433.09,76.43,2021-02-16T10:10:30-08:00
 LEMON MARGY THCA DIAMONDS,Voyage Cannabis,Premium 5,1g (Case of 12),912.84,76.07,In Stock,,,,775.91,136.93,2021-02-11T13:30:31-08:00
 LEMON MARGY LIVE RESIN CAVIAR,Voyage Cannabis,Premium 5,0.5g (Case of 12),463.56,38.63,In Stock,,,3,394.03,69.53,2021-02-16T22:22:07-08:00
@@ -731,7 +731,7 @@ GHOST TRAIN HAZE,WeedMD,Color Cannabis,3.5g (Case of 18),393.30,21.85,In Stock,,
 CANACA 14 PRE-ROLL,Tilray Canada,Canaca,3 x 0.5g (Case of 48),455.52,9.49,In Stock,,,,387.19,68.33,2021-02-15T16:45:50-08:00
 CANACA 19 PRE-ROLL,Tilray Canada,Canaca,3 x 0.5g (Case of 48),523.20,10.9,In Stock,13.99,28,,444.72,78.48,2021-02-16T19:13:10-08:00
 DREAM,Tweed,DOJA,1g (Case of 24),172.50,7.19,Out of Stock,8.99,25,,146.62,25.88,2020-12-22T17:06:26-08:00
-DREAM,Tweed,DOJA,3.5g (Case of 12),289.80,24.15,In Stock,31.99,32,2,246.33,43.47,2021-02-16T23:32:06-08:00
+DREAM,Tweed,DOJA,3.5g (Case of 12),289.80,24.15,In Stock,31.99,32,2,246.33,43.47,2021-02-17T01:24:35-08:00
 DREAM,Tweed,DOJA,7g (Case of 12),538.06,44.84,Out of Stock,57.99,29,,457.35,80.71,2020-12-22T17:05:11-08:00
 CHOCOLATE FONDUE,Canopy Growth Corporation,DNA Genetics,1g (Case of 24),188.88,7.87,In Stock,10.99,40,,160.55,28.33,2021-02-16T23:37:05-08:00
 CHOCOLATE FONDUE,Canopy Growth Corporation,DNA Genetics,3.5g (Case of 12),314.04,26.17,In Stock,33.99,30,,266.93,47.11,2021-02-16T17:46:30-08:00
