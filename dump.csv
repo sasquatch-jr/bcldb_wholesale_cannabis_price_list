@@ -1,16 +1,16 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 APPLE CIDER VINEGAR SOFT CHEW,Dynaleo,DynaThrive,30 x 4.6 g Apple cider vinegar (Case of 12),503.88,41.99,In Stock,59.98,43,3,428.30,75.58,2021-02-16T11:11:05-08:00
-PINEAPPLE DAZE SATIVA VAPE CARTRIDGE,Westleaf Labs,General Admission,1 x 0.95 g Creamy Pineapple (Case of 12),427.80,35.65,In Stock,,,1,363.63,64.17,2021-02-17T01:24:35-08:00
-GRAPEFRUIT KUSH INDICA VAPE CARTRIDGE,Westleaf Labs,General Admission,1 x 0.95 g Grapefruit (Case of 12),427.80,35.65,In Stock,,,1,363.63,64.17,2021-02-17T01:24:35-08:00
-LEMON BERRY,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-17T06:14:10-08:00
+PINEAPPLE DAZE SATIVA VAPE CARTRIDGE,Westleaf Labs,General Admission,1 x 0.95 g Creamy Pineapple (Case of 12),427.80,35.65,In Stock,,,1,363.63,64.17,2021-02-17T06:22:35-08:00
+GRAPEFRUIT KUSH INDICA VAPE CARTRIDGE,Westleaf Labs,General Admission,1 x 0.95 g Grapefruit (Case of 12),427.80,35.65,In Stock,,,1,363.63,64.17,2021-02-17T06:22:40-08:00
+LEMON BERRY,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-17T06:22:40-08:00
 MINT SOUR,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-17T03:21:20-08:00
 NICE CREAM,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-17T03:21:20-08:00
-POWDERED DONUTS,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-17T06:14:10-08:00
-90'S OG KUSH CARTRIDGE,Bzam,Table Top,1 x 0.5 g  (Case of 12),201.48,16.79,In Stock,,,1,171.26,30.22,2021-02-17T03:21:15-08:00
-SOUR KUSH CARTRIDGE,Bzam,Table Top,1 x 0.5 g  (Case of 12),201.48,16.79,In Stock,,,1,171.26,30.22,2021-02-17T03:21:20-08:00
+POWDERED DONUTS,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-17T06:22:35-08:00
+90'S OG KUSH CARTRIDGE,Bzam,Table Top,1 x 0.5 g  (Case of 12),201.48,16.79,In Stock,,,1,171.26,30.22,2021-02-17T06:22:40-08:00
+SOUR KUSH CARTRIDGE,Bzam,Table Top,1 x 0.5 g  (Case of 12),201.48,16.79,In Stock,,,1,171.26,30.22,2021-02-17T06:22:40-08:00
 SUNDAE DRIVER,Experion,CITIZEN STASH,3.5g (Case of 24),724.56,30.19,In Stock,39.99,32,1,615.88,108.68,2021-02-17T03:21:15-08:00
-LEMON HAZE CARTRIDGE,WeedMD,Saturday,1 x 1 g Lemon (Case of 12),359.88,29.99,In Stock,,,1,305.90,53.98,2021-02-17T03:21:15-08:00
-SOUR PINEAPPLE CARTRIDGE,WeedMD,Saturday,1 x 1 g Sour Pineapple (Case of 12),359.88,29.99,In Stock,,,1,305.90,53.98,2021-02-17T03:21:15-08:00
+LEMON HAZE CARTRIDGE,WeedMD,Saturday,1 x 1 g Lemon (Case of 12),359.88,29.99,In Stock,,,1,305.90,53.98,2021-02-17T06:22:40-08:00
+SOUR PINEAPPLE CARTRIDGE,WeedMD,Saturday,1 x 1 g Sour Pineapple (Case of 12),359.88,29.99,In Stock,,,1,305.90,53.98,2021-02-17T06:22:40-08:00
 I.C.C.,Organigram,Edison,3.5g (Case of 12),276.00,23.0,In Stock,29.99,30,1,234.60,41.40,2021-02-17T03:21:15-08:00
 BLOOD ORANGE THC GUMMY,TGOD,Ripple Gummies by TGOD,2 x 2.55 g  (Case of 24),117.36,4.89,In Stock,,,2,99.76,17.60,2021-02-17T03:21:15-08:00
 GRAND DADDY PURPLE INDICA,Motif Labs,Spherex,1 x 0.5 g  (Case of 12),335.88,27.99,In Stock,,,1,285.50,50.38,2021-02-17T03:21:15-08:00
@@ -55,7 +55,7 @@ AFGHAN BLACK HASH,TGOD,Highly Dutch Organic,1 x 2 g  (Case of 12),361.32,30.11,I
 KARMA,Joint Venture Craft Cannabis,DUNN CANNABIS,3.5g (Case of 12),434.76,36.23,In Stock,47.99,32,1,369.55,65.21,2021-02-16T02:10:55-08:00
 WKCC PURPLE GOD,Joint Venture Craft Cannabis,Joint Venture Craft Cannabis,3.5g (Case of 12),414.00,34.5,In Stock,44.99,30,1,351.90,62.10,2021-02-16T21:59:27-08:00
 WKCC PURPLE GOD,Joint Venture Craft Cannabis,Joint Venture Craft Cannabis,7g (Case of 12),690.00,57.5,Out of Stock,74.99,30,5,586.50,103.50,2021-02-04T18:07:47-08:00
-CHERRY BOMB PRE-ROLLS,JC Green Cannabis,Jonny Chronic,3 x 0.5g (Case of 24),276.00,11.5,In Stock,,,1,234.60,41.40,2021-02-17T03:21:15-08:00
+CHERRY BOMB PRE-ROLLS,JC Green Cannabis,Jonny Chronic,3 x 0.5g (Case of 24),276.00,11.5,In Stock,,,1,234.60,41.40,2021-02-17T06:22:40-08:00
 BALI KUSH,CannTrust,Liiv,3.5g (Case of 18),351.72,19.54,In Stock,,,,298.96,52.76,2021-02-16T15:22:47-08:00
 CHOCOLATE SNAX PURE MILK CHOCOLATE,Organigram,Trailblazer,1 x 42gMilk Chocolate (Case of 24),81.36,3.39,In Stock,,,3,69.16,12.20,2021-02-17T03:21:15-08:00
 DELAHAZE 510 CARTRIDGE,Aurora,San Rafael '71,1 x 0.5 g  (Case of 12),419.88,34.99,In Stock,,,,356.90,62.98,2021-02-11T20:30:11-08:00
