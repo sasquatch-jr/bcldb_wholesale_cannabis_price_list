@@ -1,16 +1,16 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 APPLE CIDER VINEGAR SOFT CHEW,Dynaleo,DynaThrive,30 x 4.6 g Apple cider vinegar (Case of 12),503.88,41.99,In Stock,59.98,43,3,428.30,75.58,2021-02-16T11:11:05-08:00
-PINEAPPLE DAZE SATIVA VAPE CARTRIDGE,Westleaf Labs,General Admission,1 x 0.95 g Creamy Pineapple (Case of 12),427.80,35.65,In Stock,,,1,363.63,64.17,2021-02-16T18:10:21-08:00
-GRAPEFRUIT KUSH INDICA VAPE CARTRIDGE,Westleaf Labs,General Admission,1 x 0.95 g Grapefruit (Case of 12),427.80,35.65,In Stock,,,1,363.63,64.17,2021-02-16T18:10:20-08:00
-LEMON BERRY,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-16T18:10:21-08:00
-MINT SOUR,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-16T17:46:32-08:00
+PINEAPPLE DAZE SATIVA VAPE CARTRIDGE,Westleaf Labs,General Admission,1 x 0.95 g Creamy Pineapple (Case of 12),427.80,35.65,In Stock,,,1,363.63,64.17,2021-02-16T18:23:45-08:00
+GRAPEFRUIT KUSH INDICA VAPE CARTRIDGE,Westleaf Labs,General Admission,1 x 0.95 g Grapefruit (Case of 12),427.80,35.65,In Stock,,,1,363.63,64.17,2021-02-16T18:23:45-08:00
+LEMON BERRY,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-16T18:23:45-08:00
+MINT SOUR,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-16T18:23:45-08:00
 NICE CREAM,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-16T18:10:21-08:00
-POWDERED DONUTS,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-16T18:10:21-08:00
-90'S OG KUSH CARTRIDGE,Bzam,Table Top,1 x 0.5 g  (Case of 12),201.48,16.79,In Stock,,,1,171.26,30.22,2021-02-16T17:18:01-08:00
+POWDERED DONUTS,Bzam,Ness,3.5g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-02-16T18:23:45-08:00
+90'S OG KUSH CARTRIDGE,Bzam,Table Top,1 x 0.5 g  (Case of 12),201.48,16.79,In Stock,,,1,171.26,30.22,2021-02-16T18:23:45-08:00
 SOUR KUSH CARTRIDGE,Bzam,Table Top,1 x 0.5 g  (Case of 12),201.48,16.79,In Stock,,,1,171.26,30.22,2021-02-16T18:10:20-08:00
 SUNDAE DRIVER,Experion,CITIZEN STASH,3.5g (Case of 24),724.56,30.19,In Stock,39.99,32,1,615.88,108.68,2021-02-16T15:55:10-08:00
 LEMON HAZE CARTRIDGE,WeedMD,Saturday,1 x 1 g Lemon (Case of 12),359.88,29.99,In Stock,,,1,305.90,53.98,2021-02-16T17:46:31-08:00
-SOUR PINEAPPLE CARTRIDGE,WeedMD,Saturday,1 x 1 g Sour Pineapple (Case of 12),359.88,29.99,In Stock,,,1,305.90,53.98,2021-02-16T17:52:30-08:00
+SOUR PINEAPPLE CARTRIDGE,WeedMD,Saturday,1 x 1 g Sour Pineapple (Case of 12),359.88,29.99,In Stock,,,1,305.90,53.98,2021-02-16T18:23:45-08:00
 I.C.C.,Organigram,Edison,3.5g (Case of 12),276.00,23.0,In Stock,29.99,30,1,234.60,41.40,2021-02-16T15:22:46-08:00
 BLOOD ORANGE THC GUMMY,TGOD,Ripple Gummies by TGOD,2 x 2.55 g  (Case of 24),117.36,4.89,In Stock,,,2,99.76,17.60,2021-02-16T17:46:32-08:00
 GRAND DADDY PURPLE INDICA,Motif Labs,Spherex,1 x 0.5 g  (Case of 12),335.88,27.99,In Stock,,,1,285.50,50.38,2021-02-16T17:18:01-08:00
@@ -55,7 +55,7 @@ AFGHAN BLACK HASH,TGOD,Highly Dutch Organic,1 x 2 g  (Case of 12),361.32,30.11,I
 KARMA,Joint Venture Craft Cannabis,DUNN CANNABIS,3.5g (Case of 12),434.76,36.23,In Stock,47.99,32,1,369.55,65.21,2021-02-16T02:10:55-08:00
 WKCC PURPLE GOD,Joint Venture Craft Cannabis,Joint Venture Craft Cannabis,3.5g (Case of 12),414.00,34.5,In Stock,44.99,30,1,351.90,62.10,2021-02-16T11:52:46-08:00
 WKCC PURPLE GOD,Joint Venture Craft Cannabis,Joint Venture Craft Cannabis,7g (Case of 12),690.00,57.5,Out of Stock,74.99,30,5,586.50,103.50,2021-02-04T18:07:47-08:00
-CHERRY BOMB PRE-ROLLS,JC Green Cannabis,Jonny Chronic,3 x 0.5g (Case of 24),276.00,11.5,In Stock,,,1,234.60,41.40,2021-02-16T17:18:25-08:00
+CHERRY BOMB PRE-ROLLS,JC Green Cannabis,Jonny Chronic,3 x 0.5g (Case of 24),276.00,11.5,In Stock,,,1,234.60,41.40,2021-02-16T18:23:45-08:00
 BALI KUSH,CannTrust,Liiv,3.5g (Case of 18),351.72,19.54,In Stock,,,,298.96,52.76,2021-02-16T15:22:47-08:00
 CHOCOLATE SNAX PURE MILK CHOCOLATE,Organigram,Trailblazer,1 x 42gMilk Chocolate (Case of 24),81.36,3.39,In Stock,,,3,69.16,12.20,2021-02-16T12:35:20-08:00
 DELAHAZE 510 CARTRIDGE,Aurora,San Rafael '71,1 x 0.5 g  (Case of 12),419.88,34.99,In Stock,,,,356.90,62.98,2021-02-11T20:30:11-08:00
@@ -88,7 +88,7 @@ RAD HYBRID SHATTER,Voyage Cannabis,RAD,1 x 1 g  (Case of 12),394.56,32.88,In Sto
 RAD INDICA CRUMBLE,Voyage Cannabis,RAD,1 ml (Case of 12),394.56,32.88,In Stock,,,1,335.38,59.18,2021-02-16T17:18:01-08:00
 RAD SATIVA CRUMBLE,Voyage Cannabis,RAD,1 ml (Case of 12),394.56,32.88,In Stock,,,1,335.38,59.18,2021-02-16T17:18:01-08:00
 RAD INDICA SHATTER 1G,Voyage Cannabis,RAD,1 x 1 g  (Case of 12),394.56,32.88,In Stock,,,3,335.38,59.18,2021-02-16T18:10:20-08:00
-RAD SATIVA SHATTER,Voyage Cannabis,RAD,1 x 1 g  (Case of 12),394.56,32.88,In Stock,,,3,335.38,59.18,2021-02-16T17:18:01-08:00
+RAD SATIVA SHATTER,Voyage Cannabis,RAD,1 x 1 g  (Case of 12),394.56,32.88,In Stock,,,3,335.38,59.18,2021-02-16T18:23:45-08:00
 LEMON MARGY THCA DIAMONDS,Voyage Cannabis,Premium 5,0.5g (Case of 12),509.52,42.46,In Stock,,,3,433.09,76.43,2021-02-16T10:10:30-08:00
 LEMON MARGY THCA DIAMONDS,Voyage Cannabis,Premium 5,1g (Case of 12),912.84,76.07,In Stock,,,,775.91,136.93,2021-02-11T13:30:31-08:00
 LEMON MARGY LIVE RESIN CAVIAR,Voyage Cannabis,Premium 5,0.5g (Case of 12),463.56,38.63,In Stock,,,3,394.03,69.53,2021-02-16T10:10:30-08:00
@@ -216,7 +216,7 @@ PINK KUSH PRE-ROLLS,Sundial,Top Leaf,3 x 0.5g (Case of 12),184.68,15.39,In Stock
 HEMPLIXIR 30 CBD OIL,Voyage Cannabis,purefarma,30 ml (Case of 12),369.12,30.76,In Stock,39.99,30,,313.75,55.37,2021-02-16T17:34:16-08:00
 NIGHTFALL INDICA HONEY OIL DROPS,Voyage Cannabis,Pura Vida,30 ml (Case of 12),230.76,19.23,In Stock,26.99,40,,196.15,34.61,2021-02-16T15:14:25-08:00
 DAYBREAK SATIVA HONEY OIL DROPS,Voyage Cannabis,Pura Vida,30ml (Case of 12),230.76,19.23,In Stock,,,,196.15,34.61,2021-02-16T17:44:31-08:00
-OG CHEMDAWG LIVE RESIN,Aurora,San Rafael '71,1 ml (Case of 12),434.76,36.23,In Stock,,,,369.55,65.21,2021-02-16T16:27:56-08:00
+OG CHEMDAWG LIVE RESIN,Aurora,San Rafael '71,1 ml (Case of 12),434.76,36.23,In Stock,,,,369.55,65.21,2021-02-16T18:23:45-08:00
 GLUEBERRY OG LIVE RESIN BADDER,Radient Technologies,Premium 5,0.5 ml (Case of 12),387.60,32.3,Out of Stock,,,,329.46,58.14,2021-01-28T02:15:01-08:00
 GLUEBERRY OG LIVE RESIN BADDER,Radient Technologies,Premium 5,1 ml (Case of 12),692.16,57.68,In Stock,,,,588.34,103.82,2021-02-02T13:12:41-08:00
 ROSIN,Apothecary,Apothecary Botanicals,0.5 ml (Case of 12),317.16,26.43,In Stock,,,,269.59,47.57,2021-02-15T12:47:15-08:00
