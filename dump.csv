@@ -1,7 +1,7 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 CITRUS RUSH,BZAM,Snackbar,3.5 g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-12-10T15:58:10-08:00
 CEMENT SHOES,Castle Rock Farms,BC Green,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2021-12-11T16:34:50-08:00
-B.C. VALLEY GAS,BZAM,Dunn Cannabis,3.5 g (Case of 12),340.44,28.37,In Stock,36.99,30,,289.37,51.07,2021-12-11T16:34:50-08:00
+B.C. VALLEY GAS,BZAM,Dunn Cannabis,3.5 g (Case of 12),340.44,28.37,In Stock,36.99,30,,289.37,51.07,2021-12-11T16:49:20-08:00
 BLUEBERRY YUM YUM,Tumbleweed Farms,Cake & Caviar by Habitat,3.5 g (Case of 12),379.56,31.63,Out of Stock,41.99,33,,322.63,56.93,2021-12-11T08:24:45-08:00
 SNOWBALL KUSH,BZAM,Table Top,3.5 g (Case of 12),220.80,18.4,In Stock,24.99,36,,187.68,33.12,2021-12-11T01:41:00-08:00
 STRAWBERRY ALIEN SHATTER,Voyage Cannabis,RAD,"1 x 1 g Fruity, Strawberry, Hints of Cherry (Case of 12)",310.68,25.89,In Stock,,,,264.08,46.60,2021-12-11T16:34:50-08:00
@@ -48,10 +48,10 @@ GROWER'S STASH #003 PRE-ROLLS,Aurora,San Rafael '71,3 x 0.5 g (Case of 12),157.0
 PINE TAR KUSH,Pure Sunfarms,Pure Sunfarms,3.5 g (Case of 12),202.92,16.91,In Stock,21.99,30,,172.48,30.44,2021-12-11T01:40:50-08:00
 ORGANIC HASH,Rubicon Organics,1964,1 x 3.5 g  (Case of 12),374.40,31.2,In Stock,,,,318.24,56.16,2021-12-11T01:40:50-08:00
 GRAPEFRUIT KUSH CRUMBLE,Voyage Cannabis,RAD,"1 x 1 g Grapefruit, Tart (Case of 12)",310.68,25.89,Out of Stock,36.99,43,,264.08,46.60,2021-12-11T01:40:50-08:00
-HAWAIIAN DIESEL PUNCH CRUMBLE,Voyage Cannabis,RAD,"1 x 1 g Tropical, Fruity (Case of 12)",310.68,25.89,In Stock,36.99,43,,264.08,46.60,2021-12-11T16:34:50-08:00
-SOUR DIESEL SHATTER,Voyage Cannabis,RAD,"1 x 1 g Gasoline, Orange (Case of 12)",310.68,25.89,In Stock,36.99,43,,264.08,46.60,2021-12-11T11:54:35-08:00
-PINK KUSH SHATTER,Voyage Cannabis,RAD,"1 x 1 g Pine, Citrus (Case of 12)",310.68,25.89,In Stock,36.99,43,,264.08,46.60,2021-12-11T01:40:50-08:00
-DO-SI-DOS PRE-ROLL,WEED ME,WEED ME,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,,,,234.60,41.40,2021-12-10T14:07:10-08:00
+HAWAIIAN DIESEL PUNCH CRUMBLE,Voyage Cannabis,RAD,"1 x 1 g Tropical, Fruity (Case of 12)",310.68,25.89,In Stock,36.99,43,,264.08,46.60,2021-12-11T16:49:20-08:00
+SOUR DIESEL SHATTER,Voyage Cannabis,RAD,"1 x 1 g Gasoline, Orange (Case of 12)",310.68,25.89,In Stock,36.99,43,,264.08,46.60,2021-12-11T16:49:20-08:00
+PINK KUSH SHATTER,Voyage Cannabis,RAD,"1 x 1 g Pine, Citrus (Case of 12)",310.68,25.89,In Stock,36.99,43,,264.08,46.60,2021-12-11T16:49:20-08:00
+DO-SI-DOS PRE-ROLL,WEED ME,WEED ME,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,,,,234.60,41.40,2021-12-11T16:49:20-08:00
 BUBBLE HASH,Truro Cannabis,Truro Cannabis,1 x 1 g  (Case of 12),182.88,15.24,In Stock,,,,155.45,27.43,2021-12-11T01:40:50-08:00
 PLATINUM GRAPES,Agro Greens Natural,Organnicraft,3.5 g (Case of 12),369.12,30.76,Out of Stock,39.99,30,,313.75,55.37,2021-12-10T09:06:10-08:00
 CRAFT GRANOLA FUNK,Agripharm,WINK,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,2,235.52,41.56,2021-12-09T16:10:10-08:00
@@ -286,7 +286,7 @@ TANGERINE COOKIES,Galaxy Brands,WINK,3.5 g (Case of 12),277.08,23.09,In Stock,,,
 APRICOT KUSH GEMS & JUICE,Westleaf Labs,Pressed by Qwest,1 x 0.5 g  (Case of 12),233.76,19.48,In Stock,,,,198.70,35.06,2021-12-11T01:40:15-08:00
 MACSLURRY,BZAM,BZAM,3.5 g (Case of 12),294.36,24.53,In Stock,29.99,22,,250.21,44.15,2021-12-10T01:41:15-08:00
 GARLIC BREATH,BZAM,Table Top,28 g (Case of 6),460.08,76.68,In Stock,,,,391.07,69.01,2021-12-10T09:00:20-08:00
-MANGO HAZE PRE-ROLLS,WeedMD,Color Cannabis,10 x 0.35 g (Case of 18),238.86,13.27,In Stock,17.99,36,,203.03,35.83,2021-12-11T09:25:40-08:00
+MANGO HAZE PRE-ROLLS,WeedMD,Color Cannabis,10 x 0.35 g (Case of 18),238.86,13.27,In Stock,17.99,36,,203.03,35.83,2021-12-11T16:49:20-08:00
 STRAWBERRY CBD SELTZER WATER,Tilray Canada,Everie,1 x 355 ml  (Case of 12),44.64,3.72,In Stock,,,,37.94,6.70,2021-12-10T12:06:45-08:00
 GRAPEFRUIT CBD SELTZER WATER,Tilray Canada,Everie,1 x 355 ml  (Case of 12),44.64,3.72,In Stock,,,,37.94,6.70,2021-12-09T16:59:15-08:00
 LAVENDER FIZZ,Emblem Cannabis,Noon & Night,1 x 85 g  (Case of 12),91.80,7.65,In Stock,,,,78.03,13.77,2021-12-10T20:42:00-08:00
@@ -366,7 +366,7 @@ LEGACY CBD SOFTGELS,iNaturally Organic,Emprise Canada,30 capsules (Case of 6),12
 WEDDING CAKE,Peace Naturals,Spinach,3.5 g (Case of 24),462.96,19.29,In Stock,24.99,30,,393.52,69.44,2021-12-11T01:40:10-08:00
 CRITICAL GLUE,Sess Holdings,Cali,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2021-12-10T10:14:11-08:00
 BIG BUDDA CHEESE (BBC),Sess Holdings,Cali,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2021-12-10T10:14:10-08:00
-CBD CREAM,Dosecann,Dosecann,1 x 60 ml  (Case of 12),306.24,25.52,In Stock,,,,260.30,45.94,2021-12-10T01:41:05-08:00
+CBD CREAM,Dosecann,Dosecann,1 x 60 ml  (Case of 12),306.24,25.52,In Stock,,,,260.30,45.94,2021-12-11T16:49:20-08:00
 KEY LIME PIE GUMMIES,Olli,Ace Valley,2 x 10 g Key Lime Pie (Case of 12),58.68,4.89,In Stock,6.99,43,,49.88,8.80,2021-12-11T15:18:55-08:00
 PURE CHEWS FIRE BURST,Abba Medix,Pure Chews,5 x 3 g Cinnamon (Case of 24),73.44,3.06,In Stock,5.99,96,,62.42,11.02,2021-12-09T09:55:20-08:00
 MACFLURRY,Alberta Craft Cannabis,BLKMKT,3.5 g (Case of 12),402.96,33.58,In Stock,44.99,34,,342.52,60.44,2021-12-11T09:20:45-08:00
@@ -927,7 +927,7 @@ THC SATIVA LANDRACE,THC BioMed,THC BioMed,3.5 g (Case of 12),175.44,14.62,Out of
 THC SATIVA LANDRACE,THC BioMed,THC BioMed,1 g (Case of 48),231.84,4.83,Out of Stock,6.99,45,,197.06,34.78,2021-11-04T08:18:58-07:00
 BALANCE OIL,Aphria,Solei,30 ml (Case of 12),161.46,13.46,In Stock,17.99,34,,137.24,24.22,2021-12-07T16:15:11-08:00
 CBD CANNABIS OIL,Peace Naturals,Cove,19 g (Case of 12),369.60,30.8,In Stock,,,,314.16,55.44,2021-12-08T12:24:05-08:00
-DIESEL,Peace Naturals,Spinach,3.5 g (Case of 24),462.96,19.29,In Stock,,,,393.52,69.44,2021-12-10T10:51:02-08:00
+DIESEL,Peace Naturals,Spinach,3.5 g (Case of 24),462.96,19.29,In Stock,,,,393.52,69.44,2021-12-11T16:49:20-08:00
 DIESEL,Peace Naturals,Spinach,7 g (Case of 12),432.36,36.03,In Stock,,,,367.51,64.85,2021-12-11T14:00:00-08:00
 ULTRA SOUR,Zenabis Ltd,Namaste,7 g (Case of 12),415.56,34.63,In Stock,,,,353.23,62.33,2021-12-10T16:06:30-08:00
 ULTRA SOUR,Zenabis Ltd,Namaste,3.5 g (Case of 12),226.20,18.85,In Stock,,,,192.27,33.93,2021-12-10T12:01:10-08:00
