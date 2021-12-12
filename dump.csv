@@ -1,6 +1,6 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 CITRUS RUSH,BZAM,Snackbar,3.5 g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-12-10T15:58:10-08:00
-CEMENT SHOES,Castle Rock Farms,BC Green,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2021-12-11T16:34:50-08:00
+CEMENT SHOES,Castle Rock Farms,BC Green,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2021-12-11T22:22:00-08:00
 B.C. VALLEY GAS,BZAM,Dunn Cannabis,3.5 g (Case of 12),340.44,28.37,In Stock,36.99,30,,289.37,51.07,2021-12-11T16:49:20-08:00
 BLUEBERRY YUM YUM,Tumbleweed Farms,Cake & Caviar by Habitat,3.5 g (Case of 12),379.56,31.63,Out of Stock,41.99,33,,322.63,56.93,2021-12-11T08:24:45-08:00
 SNOWBALL KUSH,BZAM,Table Top,3.5 g (Case of 12),220.80,18.4,In Stock,24.99,36,,187.68,33.12,2021-12-11T19:22:20-08:00
@@ -198,7 +198,7 @@ AMNESIA HAZE,Broken Coast Cannabis,Broken Coast Cannabis,3.5 g (Case of 12),338.
 AMNESIA HAZE,Broken Coast Cannabis,Broken Coast Cannabis,28 g (Case of 2),304.00,152.0,Out of Stock,199.99,32,,258.40,45.60,2021-12-10T01:41:40-08:00
 OKANNA CRAFT - K-TOWN KISH,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),321.96,26.83,In Stock,,,,273.67,48.29,2021-12-11T18:28:25-08:00
 WEDDING POOP,Castle Rock Farms,BC Green,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2021-12-10T21:08:05-08:00
-BAKERS DOZEN PRE-ROLL,Castle Rock Farms,BC Green,3 x 0.5 g (Case of 18),206.82,11.49,In Stock,14.99,30,,175.80,31.02,2021-12-10T12:06:45-08:00
+BAKERS DOZEN PRE-ROLL,Castle Rock Farms,BC Green,3 x 0.5 g (Case of 18),206.82,11.49,In Stock,14.99,30,,175.80,31.02,2021-12-11T22:22:00-08:00
 BAKERS DOZEN PRE-ROLL,Castle Rock Farms,BC Green,1 x 0.5 g (Case of 18),69.12,3.84,In Stock,4.99,30,,58.75,10.37,2021-12-11T12:45:20-08:00
 DISTILLED CBD 50 OIL,Nextleaf Labs,Glacial Gold,28.5 g (Case of 6),124.20,20.7,In Stock,29.99,45,,105.57,18.63,2021-12-11T08:44:55-08:00
 DISTILLED 30:30 OIL,Nextleaf Labs,Glacial Gold,28.5 g (Case of 6),207.00,34.5,In Stock,49.99,45,,175.95,31.05,2021-12-11T01:40:20-08:00
