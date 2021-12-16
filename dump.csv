@@ -1,13 +1,13 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
-GREASE MONKEY,BZAM,Table Top,28 g (Case of 6),460.08,76.68,In Stock,,,3,391.07,69.01,2021-12-16T12:03:35-08:00
+GREASE MONKEY,BZAM,Table Top,28 g (Case of 6),460.08,76.68,In Stock,,,3,391.07,69.01,2021-12-16T12:38:20-08:00
 CITRUS RUSH,BZAM,Snackbar,3.5 g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-12-16T10:30:10-08:00
 CEMENT SHOES,Castle Rock Farms,BC Green,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2021-12-15T01:41:20-08:00
 JET FUEL GELATO PRE-ROLLS,Pure Sunfarms,Pure Sunfarms,10 x 0.3 g (Case of 24),353.52,14.73,In Stock,,,,300.49,53.03,2021-12-16T12:18:45-08:00
 OREGON GOLDEN GOAT LIVE RESIN CARTRIDGE,Sundial,Top Leaf,"1 x 0.5 g pine, floral, citrus (Case of 12)",294.00,24.5,In Stock,,,,249.90,44.10,2021-12-16T12:18:45-08:00
 DONKEY BUTTER,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),321.96,26.83,In Stock,,,,273.67,48.29,2021-12-16T11:57:35-08:00
-POWDERED DONUTS,Organigram,Big Bag O' Buds,28 g (Case of 6),524.40,87.4,In Stock,,,5,445.74,78.66,2021-12-16T12:03:35-08:00
+POWDERED DONUTS,Organigram,Big Bag O' Buds,28 g (Case of 6),524.40,87.4,In Stock,,,5,445.74,78.66,2021-12-16T12:38:20-08:00
 CHEMDAWG,Canopy Growth Corporation,Tweed,3.5 g (Case of 12),230.64,19.22,In Stock,24.99,30,2,196.04,34.60,2021-12-16T10:30:40-08:00
-GOLDEN PINEAPPLE PRE-ROLLS,WEED ME,Weed Me,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,,,2,234.60,41.40,2021-12-16T12:18:45-08:00
+GOLDEN PINEAPPLE PRE-ROLLS,WEED ME,Weed Me,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,,,2,234.60,41.40,2021-12-16T12:38:20-08:00
 SNOWBALL KUSH,BZAM,Table Top,3.5 g (Case of 12),220.80,18.4,In Stock,24.99,36,,187.68,33.12,2021-12-16T10:02:20-08:00
 MK ULTRA,Western Cannabis,Aaron's BC Bud,3.5 g (Case of 12),262.20,21.85,In Stock,,,2,222.87,39.33,2021-12-16T12:29:40-08:00
 VANILLA VAPE CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g Vanilla (Case of 6),168.00,28.0,In Stock,39.99,43,,142.80,25.20,2021-12-16T12:18:45-08:00
@@ -21,7 +21,7 @@ SOLAR ECLIPSE 10:10 BALANCED SOFTGELS,iNaturally Organic,Emprise Canada,30 capsu
 DIMENSION CBD OIL,iNaturally Organic,Emprise Canada,28.5 g (Case of 6),207.00,34.5,In Stock,44.99,30,,175.95,31.05,2021-12-15T01:41:40-08:00
 8 BALL KUSH HASH,United Greeneries Ltd,Malahat Mountain Cannabis Co,"1 x 1 g Spicy, cedar, citrus (Case of 12)",255.36,21.28,In Stock,29.99,41,,217.06,38.30,2021-12-16T01:42:36-08:00
 Z-SPLITTER,Atlas Growers,Ghost Drops,3.5 g (Case of 12),415.20,34.6,Out of Stock,44.99,30,,352.92,62.28,2021-12-16T09:00:50-08:00
-FIRST CLASS FUNK,Atlas Growers,Ghost Drops,3.5 g (Case of 12),415.20,34.6,In Stock,44.99,30,2,352.92,62.28,2021-12-16T12:17:00-08:00
+FIRST CLASS FUNK,Atlas Growers,Ghost Drops,3.5 g (Case of 12),415.20,34.6,In Stock,44.99,30,2,352.92,62.28,2021-12-16T12:38:20-08:00
 OUI-D,Origine Nature,Fleurs de Lise,3.5 g (Case of 12),230.64,19.22,In Stock,24.99,30,2,196.04,34.60,2021-12-16T11:17:10-08:00
 BLACK TUNA,Joint Venture Craft Cannabis,Pistol and Paris,3.5 g (Case of 12),276.00,23.0,Out of Stock,29.99,30,,234.60,41.40,2021-12-16T08:52:00-08:00
 PINEAPPLE BUDS HAWAIIAN PINEAPPLE,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),341.52,28.46,In Stock,36.99,30,,290.29,51.23,2021-12-16T12:17:20-08:00
