@@ -1,5 +1,5 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
-GREASE MONKEY,BZAM,Table Top,28 g (Case of 6),460.08,76.68,In Stock,99.99,30,3,391.07,69.01,2021-12-16T14:08:25-08:00
+GREASE MONKEY,BZAM,Table Top,28 g (Case of 6),460.08,76.68,In Stock,99.99,30,3,391.07,69.01,2021-12-16T14:29:25-08:00
 CITRUS RUSH,BZAM,Snackbar,3.5 g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-12-16T12:57:15-08:00
 CEMENT SHOES,Castle Rock Farms,BC Green,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2021-12-15T01:41:20-08:00
 JET FUEL GELATO PRE-ROLLS,Pure Sunfarms,Pure Sunfarms,10 x 0.3 g (Case of 24),353.52,14.73,In Stock,,,,300.49,53.03,2021-12-16T14:08:25-08:00
@@ -47,7 +47,7 @@ KOLAB PROJECT BATTERY & CHARGER,BC Cannabis Wholesale,Kolab Project,Black (Case 
 STRAWBERRY 10:1 CBD HYBRID SOUR GUMMIES,Indiva,WANA,10 x 4.5 g Strawberry (Case of 12),177.48,14.79,In Stock,19.99,35,,150.86,26.62,2021-12-16T01:42:30-08:00
 REDEES WAPPA PRE-ROLLS,Redecan,Redecan,10 x 0.4 g (Case of 30),465.90,15.53,In Stock,21.99,42,,396.01,69.88,2021-12-16T13:34:50-08:00
 REDEES COLD CREEK KUSH PRE-ROLL,Redecan,Redecan,10 x 0.4 g (Case of 30),465.90,15.53,In Stock,21.99,42,,396.01,69.88,2021-12-16T14:08:35-08:00
-GAS TANK,Highland Grow,Highland Grow,3.5 g (Case of 12),369.00,30.75,In Stock,39.99,30,,313.65,55.35,2021-12-16T14:08:26-08:00
+GAS TANK,Highland Grow,Highland Grow,3.5 g (Case of 12),369.00,30.75,In Stock,39.99,30,,313.65,55.35,2021-12-16T14:29:45-08:00
 FUNKMASTER J'S PRE-ROLLS,Organigram,Shred,14 x 0.5 g (Case of 6),182.88,30.48,In Stock,39.99,31,,155.45,27.43,2021-12-16T14:08:25-08:00
 DIAMOND BREATH,Highland Grow,Highland Grow,3.5 g (Case of 12),369.00,30.75,In Stock,39.99,30,,313.65,55.35,2021-12-16T13:22:10-08:00
 LIVE RESIN TERP SAUCE,Thrive Cannabis,Greybeard,1 x 0.5 g  (Case of 12),228.96,19.08,In Stock,,,,194.62,34.34,2021-12-16T01:42:30-08:00
@@ -142,7 +142,7 @@ ICE CREAM CAKE,Quality Green,High Street,3.5 g (Case of 12),230.88,19.24,In Stoc
 LEMON MARGY,Organigram,Big Bag O' Buds,28 g (Case of 6),524.40,87.4,Out of Stock,119.99,37,,445.74,78.66,2021-12-16T10:02:20-08:00
 ORGANIC ROMULAN,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,,224.50,39.62,2021-12-16T14:08:27-08:00
 BC ORGANIC SWEET BUBBA,Rubicon Organics,Simply Bare,3.5 g (Case of 12),366.36,30.53,In Stock,39.99,31,,311.41,54.95,2021-12-15T23:22:00-08:00
-BC ORGANIC ISLAND PINK KUSH,Rubicon Organics,Simply Bare,3.5 g (Case of 12),366.36,30.53,In Stock,39.99,31,,311.41,54.95,2021-12-15T15:24:55-08:00
+BC ORGANIC ISLAND PINK KUSH,Rubicon Organics,Simply Bare,3.5 g (Case of 12),366.36,30.53,In Stock,39.99,31,,311.41,54.95,2021-12-16T14:29:45-08:00
 HYCYCLE HYBRID,Motif Labs,Hycycle,1 x 1 g Citrus Herb (Case of 12),303.24,25.27,In Stock,36.99,46,,257.75,45.49,2021-12-16T14:08:20-08:00
 LIVE INDICA CARTRIDGE,Stigma Grow,Dab Bods,1 x 1 g  (Case of 12),336.00,28.0,In Stock,,,,285.60,50.40,2021-12-16T08:53:50-08:00
 RSO CAPSULES,Stigma Grow,Stigma Grow,25 capsules (Case of 12),251.88,20.99,In Stock,26.99,29,,214.10,37.78,2021-12-16T13:22:11-08:00
@@ -684,7 +684,7 @@ SENSI STAR PRE-ROLL,7ACRES,7ACRES,2 x 0.5 g (Case of 24),165.60,6.9,In Stock,,,,
 HYPERNOVA ADVANCED NANO THC OIL,iNaturally organic,Emprise Canada,15 ml (Case of 6),180.00,30.0,In Stock,,,,153.00,27.00,2021-12-14T21:11:25-08:00
 LIGHT YEAR THC SOFTGELS,iNaturally organic,Emprise Canada,30 capsules (Case of 6),142.80,23.8,In Stock,32.99,39,,121.38,21.42,2021-12-16T13:45:40-08:00
 WHITE WIDOW PRE-ROLL,7ACRES,7ACRES,2 x 0.5 g (Case of 24),186.24,7.76,In Stock,10.99,42,,158.30,27.94,2021-12-16T01:40:40-08:00
-KUSH MINTS,We Grow BC,QWEST RESERVE,3.5 g (Case of 12),393.36,32.78,In Stock,,,,334.36,59.00,2021-12-15T10:35:36-08:00
+KUSH MINTS,We Grow BC,QWEST RESERVE,3.5 g (Case of 12),393.36,32.78,In Stock,,,,334.36,59.00,2021-12-16T14:29:45-08:00
 MANGO,Tilray Canada,Canaca,3.5 g (Case of 24),461.76,19.24,In Stock,,,,392.50,69.26,2021-12-13T13:37:25-08:00
 MANGO,Tilray Canada,Canaca,15g (Case of 12),896.31,74.69,Out of Stock,,,,761.86,134.45,2020-07-13T23:52:32-07:00
 MANGO,Tilray Canada,Canaca,7 g (Case of 12),415.68,34.64,In Stock,,,,353.33,62.35,2021-12-15T18:38:10-08:00
