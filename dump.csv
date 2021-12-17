@@ -1,5 +1,5 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
-ORGANIC ISLAND ROCKSTAR,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,2,224.50,39.62,2021-12-17T12:17:50-08:00
+ORGANIC ISLAND ROCKSTAR,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,2,224.50,39.62,2021-12-17T12:23:50-08:00
 BC ORGANIC WHITE RNTZ,Rubicon Organics,Simply Bare,3.5 g (Case of 12),366.36,30.53,Out of Stock,39.99,31,2,311.41,54.95,2021-12-17T12:17:50-08:00
 GREASE MONKEY,BZAM,Table Top,28 g (Case of 6),460.08,76.68,In Stock,99.99,30,3,391.07,69.01,2021-12-17T12:17:50-08:00
 CITRUS RUSH,BZAM,Snackbar,3.5 g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-12-17T11:58:25-08:00
@@ -34,7 +34,7 @@ K-SMORZ,BZAM,-ness,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,,234.60,41.4
 APRICOT JELLY VAPE CARTRIDGE,BZAM,-ness,1 x 1 g  (Case of 12),302.28,25.19,In Stock,,,,256.94,45.34,2021-12-17T12:06:51-08:00
 NINJA FRUIT VAPE CARTRIDGE,BZAM,-ness,1 x 0.5 g  (Case of 12),168.00,14.0,In Stock,,,,142.80,25.20,2021-12-17T12:15:15-08:00
 MAGIC MELON CARTRIDGE,BZAM,BZAM,1 x 0.5 g  (Case of 12),168.00,14.0,In Stock,,,,142.80,25.20,2021-12-17T12:06:51-08:00
-LIMON SPLASHDOWN,DBA Canopy Growth,Deep Space,"1 x 222 ml Lemon, Lime (Case of 12)",57.72,4.81,In Stock,6.99,45,,49.06,8.66,2021-12-17T11:58:25-08:00
+LIMON SPLASHDOWN,DBA Canopy Growth,Deep Space,"1 x 222 ml Lemon, Lime (Case of 12)",57.72,4.81,In Stock,6.99,45,,49.06,8.66,2021-12-17T12:23:50-08:00
 KING PACK REDEES WAPPA PRE-ROLLS,Redecan,Redecan,70 x 0.4 g (Case of 6),552.00,92.0,In Stock,119.99,30,3,469.20,82.80,2021-12-17T12:15:15-08:00
 91K,DBA Canopy Growth,Doja,3.5 g (Case of 12),289.80,24.15,In Stock,31.99,32,,246.33,43.47,2021-12-17T11:58:26-08:00
 BLUE DREAM PRE-ROLLS,Pure Sunfarms,Pure Sunfarms,10 x 0.3 g (Case of 24),353.52,14.73,In Stock,,,,300.49,53.03,2021-12-17T11:57:50-08:00
@@ -264,8 +264,8 @@ BANDWAGON INDICA,Rubicon Organics,Homestead,28 g (Case of 6),450.78,75.13,Out of
 GUAVA CHEMDAWG LIVE RESIN CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g Gas, Fruit, Tropical (Case of 12)",461.88,38.49,In Stock,,,,392.60,69.28,2021-12-17T09:41:25-08:00
 WRECK & LEISURE,Dykstra Greenhouses,Dykstra Greenhouses,3.5 g (Case of 12),217.32,18.11,In Stock,24.99,38,1,184.72,32.60,2021-12-17T01:42:10-08:00
 FORTE OIL,Maricann,Northern Harvest,40 ml (Case of 12),267.00,22.25,In Stock,,,,226.95,40.05,2021-12-09T07:45:10-08:00
-SUMMIT 10 PEACH LEMONADE,Valens Agritech,Summit,"1 x 355 ml Peach, lemon (Case of 12)",59.64,4.97,In Stock,6.99,41,,50.69,8.95,2021-12-17T11:15:40-08:00
-SUMMIT 10 RASPBERRY LEMONADE,Valens Agritech,Summit,"1 x 355 ml Raspberry, lemon (Case of 12)",59.64,4.97,In Stock,6.99,41,,50.69,8.95,2021-12-17T09:53:40-08:00
+SUMMIT 10 PEACH LEMONADE,Valens Agritech,Summit,"1 x 355 ml Peach, lemon (Case of 12)",59.64,4.97,In Stock,6.99,41,,50.69,8.95,2021-12-17T12:23:50-08:00
+SUMMIT 10 RASPBERRY LEMONADE,Valens Agritech,Summit,"1 x 355 ml Raspberry, lemon (Case of 12)",59.64,4.97,In Stock,6.99,41,,50.69,8.95,2021-12-17T12:23:50-08:00
 TRUE OG,Truro Cannabis,Truro Cannabis,3.5 g (Case of 12),345.00,28.75,In Stock,31.99,11,,293.25,51.75,2021-12-17T09:08:50-08:00
 WEDDING MINT,Truro Cannabis,Truro Cannabis,3.5 g (Case of 12),345.00,28.75,In Stock,31.99,11,,293.25,51.75,2021-12-17T12:14:15-08:00
 ORGANIC MARRAKECH GOLD HASH,TGOD,Highly Dutch,1 x 1 g  (Case of 12),172.20,14.35,Out of Stock,,,,146.37,25.83,2021-12-17T12:06:50-08:00
@@ -667,7 +667,7 @@ GRANDPA'S STASH PRE-ROLL,WEED ME,WEED ME,3 x 0.5 g (Case of 24),276.00,11.5,In S
 PEDRO'S SWEET SATIVA PRE-ROLLS,WeedMD,Color Cannabis,2 x 0.35 g (Case of 48),217.92,4.54,In Stock,5.99,32,,185.23,32.69,2021-12-16T20:22:36-08:00
 PEDRO'S SWEET SATIVA PRE-ROLLS,WeedMD,Color Cannabis,10 x 0.35 g (Case of 18),238.86,13.27,In Stock,17.99,36,,203.03,35.83,2021-12-17T11:58:25-08:00
 BASECAMP CBD ICED TEA,Valens Agritech,A1 Cannabis,1 x 355 ml CBD Iced tea (Case of 12),41.64,3.47,In Stock,4.99,44,,35.39,6.25,2021-12-17T01:40:50-08:00
-SUMMIT 10 LEMONADE ICED TEA,Valens Agritech,A1 Cannabis,1 x 355 ml Lemon iced tea (Case of 12),59.64,4.97,In Stock,6.99,41,,50.69,8.95,2021-12-17T09:46:46-08:00
+SUMMIT 10 LEMONADE ICED TEA,Valens Agritech,A1 Cannabis,1 x 355 ml Lemon iced tea (Case of 12),59.64,4.97,In Stock,6.99,41,,50.69,8.95,2021-12-17T12:23:50-08:00
 D. BUBBA PRE-ROLLS,Pure Sunfarms,Pure Sunfarms,3 x 0.5 g (Case of 24),176.64,7.36,In Stock,,,,150.14,26.50,2021-12-17T12:14:15-08:00
 CBD EARTH CARTRIDGE,Voyage Cannabis,Purefarma,1 x 0.5 g  (Case of 12),227.28,18.94,In Stock,,,,193.19,34.09,2021-12-17T09:53:40-08:00
 SATIVA SUN CARTRIDGE,Voyage Cannabis,Purefarma,1 x 0.5 g  (Case of 12),227.28,18.94,Out of Stock,,,,193.19,34.09,2021-11-03T15:05:35-07:00
