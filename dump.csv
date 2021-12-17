@@ -1,5 +1,5 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
-GREASE MONKEY,BZAM,Table Top,28 g (Case of 6),460.08,76.68,In Stock,99.99,30,3,391.07,69.01,2021-12-17T08:00:40-08:00
+GREASE MONKEY,BZAM,Table Top,28 g (Case of 6),460.08,76.68,In Stock,99.99,30,3,391.07,69.01,2021-12-17T08:35:15-08:00
 CITRUS RUSH,BZAM,Snackbar,3.5 g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-12-16T21:46:45-08:00
 CEMENT SHOES,Castle Rock Farms,BC Green,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2021-12-16T19:31:50-08:00
 JET FUEL GELATO PRE-ROLLS,Pure Sunfarms,Pure Sunfarms,10 x 0.3 g (Case of 24),353.52,14.73,In Stock,,,,300.49,53.03,2021-12-17T08:00:40-08:00
@@ -24,7 +24,7 @@ Z-SPLITTER,Atlas Growers,Ghost Drops,3.5 g (Case of 12),415.20,34.6,Out of Stock
 FIRST CLASS FUNK,Atlas Growers,Ghost Drops,3.5 g (Case of 12),415.20,34.6,In Stock,44.99,30,2,352.92,62.28,2021-12-17T08:29:25-08:00
 OUI-D,Origine Nature,Fleurs de Lise,3.5 g (Case of 12),230.64,19.22,In Stock,24.99,30,2,196.04,34.60,2021-12-16T14:40:16-08:00
 BLACK TUNA,Joint Venture Craft Cannabis,Pistol and Paris,3.5 g (Case of 12),276.00,23.0,Out of Stock,29.99,30,,234.60,41.40,2021-12-16T08:52:00-08:00
-PINEAPPLE BUDS HAWAIIAN PINEAPPLE,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),341.52,28.46,In Stock,36.99,30,,290.29,51.23,2021-12-17T01:42:40-08:00
+PINEAPPLE BUDS HAWAIIAN PINEAPPLE,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),341.52,28.46,In Stock,36.99,30,,290.29,51.23,2021-12-17T08:38:15-08:00
 PINEAPPLE BUDS GOLDEN PARFAIT,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),341.52,28.46,In Stock,36.99,30,,290.29,51.23,2021-12-16T09:05:05-08:00
 K-SMORZ,BZAM,-ness,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,,234.60,41.40,2021-12-17T01:42:40-08:00
 APRICOT JELLY VAPE CARTRIDGE,BZAM,-ness,1 x 1 g  (Case of 12),302.28,25.19,In Stock,,,,256.94,45.34,2021-12-17T01:42:40-08:00
@@ -116,7 +116,7 @@ T.F. ISLAND PINK,7Green Grows,Rocket Chair,3.5 g (Case of 12),249.36,20.78,In St
 POMEGRANATE CBD SOFT CHEWS,Dynaleo,DYNATHRIVE,30 x 4.6 g Pomegranate (Case of 6),151.14,25.19,In Stock,34.99,39,,128.47,22.67,2021-12-17T01:42:25-08:00
 BLUE LIME PI,Sitka Weed Works,Sitka Micro Collection,3.5 g (Case of 12),323.28,26.94,In Stock,34.99,30,,274.79,48.49,2021-12-12T11:03:11-08:00
 LILAC DIESEL,Sitka Weed Works,Sitka Micro Collection,3.5 g (Case of 12),251.88,20.99,In Stock,,,,214.10,37.78,2021-12-16T16:14:46-08:00
-NORTHERN WIDOW SHATTER,Westleaf Labs,Pressed by Qwest,1 x 1 g  (Case of 12),359.52,29.96,In Stock,,,,305.59,53.93,2021-12-17T01:42:25-08:00
+NORTHERN WIDOW SHATTER,Westleaf Labs,Pressed by Qwest,1 x 1 g  (Case of 12),359.52,29.96,In Stock,,,,305.59,53.93,2021-12-17T08:34:15-08:00
 PINK OG SHATTER,Westleaf Labs,Pressed by Qwest,1 x 1 g  (Case of 12),359.52,29.96,In Stock,,,,305.59,53.93,2021-12-17T01:42:25-08:00
 GARLIC JELLY,Greentone,3Saints,3.5 g (Case of 12),277.08,23.09,In Stock,24.99,8,,235.52,41.56,2021-12-16T16:14:46-08:00
 BLACK MAMBA,Greentone,3Saints,3.5 g (Case of 12),277.08,23.09,In Stock,24.99,8,,235.52,41.56,2021-12-17T01:42:25-08:00
@@ -210,7 +210,7 @@ ORANGE MONKEY,CannTrust,Liiv,7 g (Case of 12),369.48,30.79,Out of Stock,39.99,30
 I.C.C,Organigram,Big Bag O' Buds,28 g (Case of 6),524.40,87.4,In Stock,119.99,37,,445.74,78.66,2021-12-17T01:42:05-08:00
 FEATHER LIMELIGHT CARTRIDGE,Organigram,Edison,"1 x 1 g Lime, Citrus (Case of 6)",182.88,30.48,In Stock,44.99,48,,155.45,27.43,2021-12-16T15:51:31-08:00
 KUSH MINTS,Broken Coast Cannabis,Broken Coast Cannabis,3.5 g (Case of 12),338.16,28.18,In Stock,36.99,31,,287.44,50.72,2021-12-17T01:42:05-08:00
-AMNESIA HAZE,Broken Coast Cannabis,Broken Coast Cannabis,3.5 g (Case of 12),338.16,28.18,In Stock,36.99,31,,287.44,50.72,2021-12-17T01:42:05-08:00
+AMNESIA HAZE,Broken Coast Cannabis,Broken Coast Cannabis,3.5 g (Case of 12),338.16,28.18,In Stock,36.99,31,,287.44,50.72,2021-12-17T08:34:16-08:00
 AMNESIA HAZE,Broken Coast Cannabis,Broken Coast Cannabis,28 g (Case of 2),304.00,152.0,Out of Stock,199.99,32,,258.40,45.60,2021-12-10T01:41:40-08:00
 OKANNA CRAFT - K-TOWN KISH,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),321.96,26.83,In Stock,,,,273.67,48.29,2021-12-11T18:28:25-08:00
 WEDDING POOP,Castle Rock Farms,BC Green,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2021-12-16T15:29:55-08:00
@@ -372,7 +372,7 @@ OS. SATIVA,HEXO,Original Stash,7 g (Case of 24),597.84,24.91,In Stock,32.99,32,,
 OS. INDICA,HEXO,Original Stash,3.5 g (Case of 24),303.60,12.65,In Stock,16.99,34,,258.06,45.54,2021-12-16T15:04:10-08:00
 OS. INDICA,HEXO,Original Stash,7 g (Case of 24),597.84,24.91,In Stock,32.99,32,,508.16,89.68,2021-12-16T22:13:40-08:00
 SWEET KUSH PRE-ROLL,Agro Greens Natural,Wildlife,10 x 0.3 g (Case of 12),203.16,16.93,In Stock,21.99,30,,172.69,30.47,2021-12-16T15:51:31-08:00
-ONE OUNCE SATIVA,Tilray Canada,The Batch,28 g (Case of 12),923.88,76.99,In Stock,99.99,30,,785.30,138.58,2021-12-17T01:41:50-08:00
+ONE OUNCE SATIVA,Tilray Canada,The Batch,28 g (Case of 12),923.88,76.99,In Stock,99.99,30,,785.30,138.58,2021-12-17T08:34:15-08:00
 HYPERNOVA THC OIL,iNaturally Organic,Emprise Canada,28.5 g (Case of 6),186.30,31.05,In Stock,41.99,35,,158.36,27.95,2021-12-16T15:10:55-08:00
 LEGACY CBD SOFTGELS,iNaturally Organic,Emprise Canada,30 capsules (Case of 6),124.20,20.7,In Stock,26.99,30,,105.57,18.63,2021-12-17T01:41:50-08:00
 WEDDING CAKE,Peace Naturals,Spinach,3.5 g (Case of 24),462.96,19.29,Out of Stock,24.99,30,,393.52,69.44,2021-12-17T08:17:50-08:00
@@ -452,7 +452,7 @@ STRAWBERRY LIME 1:1 SOUR GUMMIES,Indiva,Wana QUICK,2 x 4.5 g Strawberry Lime (Ca
 GROWER'S PRIVATE STASH,Delta 9,Delta 9,3.5 g (Case of 24),405.84,16.91,In Stock,,,,344.96,60.88,2021-12-16T12:17:20-08:00
 GROWER'S PRIVATE STASH,Delta 9,Delta 9,7 g (Case of 24),772.80,32.2,Out of Stock,,,,656.88,115.92,2021-12-06T16:06:54-08:00
 CBD OIL DROPS,Voyage Cannabis,Pura Vida,28.2 g (Case of 12),226.56,18.88,In Stock,,,,192.58,33.98,2021-12-16T13:22:11-08:00
-AAA HYBRID,7ACRES,Hiway,28 g (Case of 6),461.64,76.94,In Stock,99.99,30,,392.39,69.25,2021-12-17T01:41:30-08:00
+AAA HYBRID,7ACRES,Hiway,28 g (Case of 6),461.64,76.94,In Stock,99.99,30,,392.39,69.25,2021-12-17T08:34:15-08:00
 PURPLE MONKEY PAX-ERA POD,Aphria,Good Supply,"1 x 0.4 g Grape, Citrus, Fruity (Case of 12)",173.76,14.48,In Stock,34.99,142,,147.70,26.06,2021-12-15T10:06:15-08:00
 PINEAPPLE EXPRESS PAX-ERA POD,Aphria,Good Supply,"1 x 0.4 g Tropical, Sweet, Citrus (Case of 12)",173.76,14.48,In Stock,34.99,142,,147.70,26.06,2021-12-16T15:29:55-08:00
 SLURRICANE,WEED ME,WEED ME,3.5 g (Case of 12),305.64,25.47,In Stock,,,,259.79,45.85,2021-12-16T23:57:11-08:00
