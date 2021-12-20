@@ -1,5 +1,5 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
-ORGANIC ISLAND ROCKSTAR,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,2,224.50,39.62,2021-12-19T20:32:40-08:00
+ORGANIC ISLAND ROCKSTAR,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,2,224.50,39.62,2021-12-20T00:02:30-08:00
 BC ORGANIC WHITE RNTZ,Rubicon Organics,Simply Bare,3.5 g (Case of 12),366.36,30.53,In Stock,39.99,31,2,311.41,54.95,2021-12-19T20:05:25-08:00
 GREASE MONKEY,BZAM,Table Top,28 g (Case of 6),460.08,76.68,Out of Stock,99.99,30,3,391.07,69.01,2021-12-18T14:54:00-08:00
 CITRUS RUSH,BZAM,Snackbar,3.5 g (Case of 12),276.00,23.0,In Stock,,,2,234.60,41.40,2021-12-19T19:29:45-08:00
@@ -91,7 +91,7 @@ OKANAGAN GROWN COLD CREEK KUSH,DBA Canopy Growth,DOJA,3.5 g (Case of 12),332.88,
 INDIE PALS DRINK,HEXO,Bedfellows,1 x 355 ml  (Case of 12),53.40,4.45,In Stock,,,,45.39,8.01,2021-12-19T20:49:25-08:00
 HAUS MATES DRINK,HEXO,Bedfellows,1 x 355 ml  (Case of 12),46.92,3.91,In Stock,,,,39.88,7.04,2021-12-19T21:46:40-08:00
 GRAND DADDY PURPLE PAX POD,Motif Labs,Spherex,1 x 0.5 g  (Case of 12),293.28,24.44,In Stock,,,,249.29,43.99,2021-12-19T13:50:16-08:00
-COCOA BOMBA PRE-ROLLS,Peace Naturals,Spinach,3 x 0.5 g (Case of 12),121.32,10.11,In Stock,12.99,28,2,103.12,18.20,2021-12-19T21:59:35-08:00
+COCOA BOMBA PRE-ROLLS,Peace Naturals,Spinach,3 x 0.5 g (Case of 12),121.32,10.11,In Stock,12.99,28,2,103.12,18.20,2021-12-20T00:02:30-08:00
 ATOMIC SOUR GRAPEFRUIT,Peace Naturals,Spinach,3.5 g (Case of 12),231.48,19.29,In Stock,24.99,30,,196.76,34.72,2021-12-19T21:09:10-08:00
 ROUTE 66,CannTrust,Liiv,3.5 g (Case of 12),201.12,16.76,In Stock,21.99,31,2,170.95,30.17,2021-12-19T19:39:35-08:00
 ROUTE 66,CannTrust,Liiv,7 g (Case of 12),369.48,30.79,Out of Stock,39.99,30,2,314.06,55.42,2021-12-06T16:13:08-08:00
