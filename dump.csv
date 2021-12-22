@@ -1,7 +1,7 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 KUSH COOKIES,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,In Stock,24.99,33,3,191.05,33.71,2021-12-22T10:04:55-08:00
 GSC,Acreage Pharms,Peers,7 g (Case of 12),415.20,34.6,In Stock,44.99,30,2,352.92,62.28,2021-12-22T11:35:05-08:00
-GSC,Acreage Pharms,Peers,28 g (Case of 12),1107.60,92.3,In Stock,119.99,30,2,941.46,166.14,2021-12-22T11:32:06-08:00
+GSC,Acreage Pharms,Peers,28 g (Case of 12),1107.60,92.3,In Stock,119.99,30,2,941.46,166.14,2021-12-22T11:54:55-08:00
 LEMON HAZE,Aurora,Daily Special,15 g (Case of 12),618.96,51.58,Out of Stock,66.99,30,2,526.12,92.84,2021-12-20T09:05:31-08:00
 LEMON HAZE,Aurora,Daily Special,7 g (Case of 12),342.00,28.5,In Stock,36.99,30,2,290.70,51.30,2021-12-22T10:27:50-08:00
 LEMON HAZE,Aurora,Daily Special,3.5 g (Case of 12),193.92,16.16,In Stock,21.99,36,2,164.83,29.09,2021-12-22T09:37:45-08:00
@@ -46,7 +46,7 @@ KING PACK REDEES WAPPA PRE-ROLLS,Redecan,Redecan,70 x 0.4 g (Case of 6),552.00,9
 91K,DBA Canopy Growth,Doja,3.5 g (Case of 12),289.80,24.15,In Stock,31.99,32,,246.33,43.47,2021-12-22T10:43:51-08:00
 BLUE DREAM PRE-ROLLS,Pure Sunfarms,Pure Sunfarms,10 x 0.3 g (Case of 24),353.52,14.73,In Stock,,,,300.49,53.03,2021-12-22T11:32:06-08:00
 BLUE RASPBERRY THC GUMMIES,Dynaleo,Pocket Fives,2 x 4.6 g Blue Raspberry (Case of 12),33.84,2.82,In Stock,3.99,41,,28.76,5.08,2021-12-22T10:27:21-08:00
-VANILLA ICE,Quality Green,High Street,3.5 g (Case of 12),295.20,24.6,In Stock,31.99,30,2,250.92,44.28,2021-12-22T10:38:00-08:00
+VANILLA ICE,Quality Green,High Street,3.5 g (Case of 12),295.20,24.6,In Stock,31.99,30,2,250.92,44.28,2021-12-22T11:54:55-08:00
 PAPAYA CAKE PRE-ROLLS,Decibel Cannabis Company,QWEST,2 x 0.5 g (Case of 12),110.76,9.23,In Stock,,,,94.15,16.61,2021-12-22T11:30:20-08:00
 GREEN BANNER,Zenabis Ltd,Namaste,3.5 g (Case of 12),202.92,16.91,In Stock,21.99,30,2,172.48,30.44,2021-12-22T09:16:45-08:00
 CREAM CARAMEL,Zenabis Ltd,Namaste,3.5 g (Case of 12),202.92,16.91,In Stock,21.99,30,2,172.48,30.44,2021-12-22T11:32:51-08:00
@@ -249,7 +249,7 @@ OG COLA,Peak Processing Solutions,Sweet Justice,1 x 355 ml Cola (Case of 12),50.
 DIMENSION CBD SOFTGELS,iNaturally Organic,Emprise Canada,30 capsules (Case of 6),241.50,40.25,In Stock,52.99,32,,205.28,36.23,2021-12-22T09:39:45-08:00
 PAX SUPER LEMON HAZE CARTRIDGE,Blissco,Hiway,"1 x 0.5 g Citrus, herbal, pine (Case of 12)",256.68,21.39,In Stock,29.99,40,,218.18,38.50,2021-12-22T10:27:22-08:00
 PAX MASTER KUSH CARTRIDGE,Blissco,Hiway,"1 x 0.5 g earth, pine, fuel (Case of 12)",256.68,21.39,In Stock,29.99,40,,218.18,38.50,2021-12-22T10:43:50-08:00
-232 INDICA BLACK CHERRY PUNCH LIVE CARTG,Dosecann,Kolab Project,1 x 0.5 g  (Case of 12),335.88,27.99,In Stock,,,,285.50,50.38,2021-12-22T09:14:40-08:00
+232 INDICA BLACK CHERRY PUNCH LIVE CARTG,Dosecann,Kolab Project,1 x 0.5 g  (Case of 12),335.88,27.99,In Stock,,,,285.50,50.38,2021-12-22T11:54:55-08:00
 RAINBOW SHERB VAPE CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g fruit, candy (Case of 12)",311.88,25.99,In Stock,36.99,42,,265.10,46.78,2021-12-22T11:32:06-08:00
 OG #18 PRE-ROLL,Canveda,Strain Rec,1 x 0.5 g (Case of 12),43.92,3.66,In Stock,4.99,36,,37.33,6.59,2021-12-22T11:01:00-08:00
 MIXTAPE SPECIAL LIVE RESIN,Voyage Cannabis,RAD,1 x 1 g  (Case of 12),335.76,27.98,In Stock,,,,285.40,50.36,2021-12-22T11:29:05-08:00
@@ -436,7 +436,7 @@ ACAI BERRY GELATO,Decibel Cannabis Company,Dunn Cannabis,3.5 g (Case of 12),317.
 LEMON SPARKLING WATER,DBA Canopy Growth,Houseplant,4 x 355 ml Lemon (Case of 6),64.80,10.8,In Stock,,,,55.08,9.72,2021-12-20T10:08:30-08:00
 HYCYCLE SATIVA,Motif Labs,Hycycle,1 x 1 g  (Case of 12),303.24,25.27,In Stock,,,,257.75,45.49,2021-12-22T11:32:07-08:00
 HYCYCLE INDICA,Motif Labs,Hycycle,1 x 1 g  (Case of 12),303.24,25.27,In Stock,,,,257.75,45.49,2021-12-22T09:19:20-08:00
-LEMON HAZE FULL SPECTRUM CARTRIDGE,Delshen Therapeutics,Fume,1 x 0.5 g  (Case of 12),151.80,12.65,In Stock,,,,129.03,22.77,2021-12-21T14:23:15-08:00
+LEMON HAZE FULL SPECTRUM CARTRIDGE,Delshen Therapeutics,Fume,1 x 0.5 g  (Case of 12),151.80,12.65,In Stock,,,,129.03,22.77,2021-12-22T11:54:55-08:00
 JEAN GUY FULL SPECTRUM CARTRIDGE,Delshen Therapeutics,Fume,1 x 0.5 g  (Case of 12),151.80,12.65,In Stock,,,,129.03,22.77,2021-12-22T01:40:01-08:00
 GMO COOKIEZ,Agripharm,Melt,3.5 g (Case of 12),317.40,26.45,In Stock,29.99,13,,269.79,47.61,2021-12-21T16:48:20-08:00
 PINK KUSH,Sundial,Palmetto,28 g (Case of 4),369.56,92.39,Out of Stock,,,,314.13,55.43,2021-10-18T14:43:53-07:00
@@ -681,7 +681,7 @@ SATIVA SUN CARTRIDGE,Voyage Cannabis,Purefarma,1 x 1 g  (Case of 12),336.72,28.0
 INDICA MOON CARTRIDGE,Voyage Cannabis,Purefarma,1 x 0.5 g  (Case of 12),227.28,18.94,Out of Stock,,,,193.19,34.09,2021-11-01T21:24:55-07:00
 INDICA MOON CARTRIDGE,Voyage Cannabis,Purefarma,1 x 1 g  (Case of 12),336.72,28.06,In Stock,,,,286.21,50.51,2021-12-21T10:19:25-08:00
 CBD 4:1 HONEY OIL CARTRIDGE,Voyage Cannabis,Pura Vida,1 x 0.5 g  (Case of 12),218.88,18.24,In Stock,,,,186.05,32.83,2021-12-22T09:39:45-08:00
-SATIVA HONEY OIL CARTRIDGE,Voyage Cannabis,Pura Vida,1 x 0.5 g  (Case of 12),218.88,18.24,In Stock,,,,186.05,32.83,2021-12-22T01:39:10-08:00
+SATIVA HONEY OIL CARTRIDGE,Voyage Cannabis,Pura Vida,1 x 0.5 g  (Case of 12),218.88,18.24,In Stock,,,,186.05,32.83,2021-12-22T11:54:55-08:00
 INDICA HONEY OIL CARTRIDGE,Voyage Cannabis,Pura Vida,1 x 0.5 g  (Case of 12),218.88,18.24,In Stock,,,,186.05,32.83,2021-12-22T09:58:30-08:00
 CRAFT COLLECTIVE ICE CREAM CAKE,7ACRES,7ACRES,3.5 g (Case of 12),331.20,27.6,In Stock,36.99,34,,281.52,49.68,2021-12-21T12:26:40-08:00
 SATIVA,Sundial,Grasslands,28 g (Case of 4),307.96,76.99,In Stock,,,,261.77,46.19,2021-12-22T01:39:11-08:00
