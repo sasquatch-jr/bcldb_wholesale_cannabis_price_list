@@ -1,6 +1,6 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 OG CHEMDAWG LIVE RESIN CARTRIDGE,Aurora,San Rafael 71,1 x 0.5 g  (Case of 12),277.08,23.09,In Stock,,,,235.52,41.56,2021-12-27T18:47:41-08:00
-KUSH COOKIES,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,In Stock,24.99,33,3,191.05,33.71,2021-12-27T18:39:11-08:00
+KUSH COOKIES,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,In Stock,24.99,33,3,191.05,33.71,2021-12-27T19:37:35-08:00
 GSC,Acreage Pharms,Peers,7 g (Case of 12),415.20,34.6,In Stock,44.99,30,2,352.92,62.28,2021-12-27T14:51:01-08:00
 GSC,Acreage Pharms,Peers,28 g (Case of 12),1107.60,92.3,Out of Stock,119.99,30,2,941.46,166.14,2021-12-24T03:01:05-08:00
 BUBBA KUSH PRE-ROLLS,Whistler Medical Marijuana,Whistler Cannabis,2 x 0.5 g (Case of 12),157.68,13.14,Out of Stock,16.99,29,2,134.03,23.65,2021-12-27T07:29:55-08:00
@@ -151,8 +151,8 @@ TROPICAL BLENDZ,Dycar Pharmaceuticals,Chuz,4 x 4.5 g Pineapple and Lime (Case of
 BERRY BLENDZ,Dycar Pharmaceuticals,Chuz,"4 x 4.5 g Strawberry and Wildberry (Grape, Blueberry, And St (Case of 12)",50.40,4.2,Out of Stock,,,,42.84,7.56,2021-12-27T12:54:20-08:00
 BAKERS DOZEN,Castle Rock Farms,BC Green,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2021-12-27T01:42:55-08:00
 WATERMELON GUSHERS PRE-ROLL,Castle Rock Farms,BC Green,1 x 0.5 g (Case of 18),69.12,3.84,Out of Stock,4.99,30,,58.75,10.37,2021-12-27T08:52:05-08:00
-SCOTTI'S CAKE PRE-ROLL,Castle Rock Farms,Castle Rock Farms,1 x 0.5 g (Case of 18),69.12,3.84,In Stock,4.99,30,,58.75,10.37,2021-12-27T15:43:16-08:00
-STANKASAURUS PRE-ROLL,Castle Rock Farms,Castle Rock Farms,1 x 0.5 g (Case of 18),69.12,3.84,In Stock,4.99,30,,58.75,10.37,2021-12-27T18:39:10-08:00
+SCOTTI'S CAKE PRE-ROLL,Castle Rock Farms,Castle Rock Farms,1 x 0.5 g (Case of 18),69.12,3.84,In Stock,4.99,30,,58.75,10.37,2021-12-27T19:37:35-08:00
+STANKASAURUS PRE-ROLL,Castle Rock Farms,Castle Rock Farms,1 x 0.5 g (Case of 18),69.12,3.84,In Stock,4.99,30,,58.75,10.37,2021-12-27T19:37:35-08:00
 WEDDING POOP PRE-ROLL,Castle Rock Farms,Castle Rock Farms,1 x 0.5 g (Case of 18),69.12,3.84,In Stock,4.99,30,,58.75,10.37,2021-12-27T15:37:01-08:00
 WEDDING POOP PRE-ROLL,Castle Rock Farms,Castle Rock Farms,3 x 0.5 g (Case of 18),206.82,11.49,In Stock,14.99,30,,175.80,31.02,2021-12-27T17:09:10-08:00
 WEDDING CRASHERS,Tantalus Labs,Tantalus Labs,3.5 g (Case of 12),203.16,16.93,In Stock,21.99,30,2,172.69,30.47,2021-12-27T14:05:05-08:00
@@ -366,7 +366,7 @@ MAC-1,Organigram,Edison,3.5 g (Case of 12),224.88,18.74,In Stock,29.99,60,,191.1
 BLUEBERRY MOUNTAIN RUSH LIVE RESIN VAPE,Stigma Grow,White NGL,1 x 0.5 g  (Case of 12),277.08,23.09,In Stock,,,,235.52,41.56,2021-12-26T15:59:40-08:00
 WEDDING CAKE PRE-ROLLS,Peace Naturals,Spinach,3 x 0.5 g (Case of 24),239.76,9.99,In Stock,12.99,30,,203.80,35.96,2021-12-27T15:37:00-08:00
 CHEM HINDU GLUE,Choice Growers,Choice Growers Cannabis,28 g (Case of 6),554.28,92.38,Out of Stock,119.99,30,2,471.14,83.14,2021-10-12T04:35:45-07:00
-CHEM HINDU GLUE,Choice Growers,Choice Growers Cannabis,3.5 g (Case of 12),144.96,12.08,In Stock,17.99,49,,123.22,21.74,2021-12-27T10:47:10-08:00
+CHEM HINDU GLUE,Choice Growers,Choice Growers Cannabis,3.5 g (Case of 12),144.96,12.08,In Stock,17.99,49,,123.22,21.74,2021-12-27T19:37:35-08:00
 THC SELECT PACK PRE-ROLL,Agripharm,AHLOT,3 x 0.5 g (Case of 24),268.80,11.2,In Stock,14.99,34,,228.48,40.32,2021-12-27T15:11:11-08:00
 D. BUBBA PRE-ROLLS,Pure Sunfarms,Pure Sunfarms,10 x 0.3 g (Case of 24),353.52,14.73,In Stock,19.99,36,,300.49,53.03,2021-12-27T18:51:11-08:00
 BLUE DREAM,Pure Sunfarms,Pure Sunfarms,3.5 g (Case of 24),405.84,16.91,In Stock,,,,344.96,60.88,2021-12-27T17:09:10-08:00
