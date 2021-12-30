@@ -19,7 +19,7 @@ CHEMDAWG,Canopy Growth Corporation,Tweed,3.5 g (Case of 12),230.64,19.22,In Stoc
 CHEMDAWG,Canopy Growth Corporation,Tweed,28 g (Case of 6),553.80,92.3,Out of Stock,0.0,-100,2,470.73,83.07,2021-12-24T23:50:45-08:00
 HIGH POTENCY ALLEVIATING OIL,Motif Labs,Transit,1 x 60 g  (Case of 6),144.78,24.13,Out of Stock,,,,123.06,21.72,2021-12-29T09:15:10-08:00
 BC ORGANIC BLUE DREAM PAX POD,Rubicon Organics,Simply Bare,1 x 0.5 g  (Case of 12),405.60,33.8,In Stock,,,,344.76,60.84,2021-12-29T18:37:35-08:00
-INDICA 20% PLUS PRE-ROLLS,WEED ME,Weed Me,10 x 0.35 g (Case of 12),220.80,18.4,In Stock,23.99,30,2,187.68,33.12,2021-12-30T02:19:05-08:00
+INDICA 20% PLUS PRE-ROLLS,WEED ME,Weed Me,10 x 0.35 g (Case of 12),220.80,18.4,In Stock,23.99,30,2,187.68,33.12,2021-12-30T06:05:00-08:00
 SATIVA 20% PLUS PRE-ROLLS,WEED ME,Weed Me,10 x 0.35 g (Case of 12),220.80,18.4,In Stock,23.99,30,2,187.68,33.12,2021-12-30T02:19:05-08:00
 SNOWBALL KUSH,BZAM,Table Top,3.5 g (Case of 12),220.80,18.4,In Stock,24.99,36,,187.68,33.12,2021-12-30T01:42:25-08:00
 MK ULTRA,Western Cannabis,Aaron's BC Bud,3.5 g (Case of 12),262.20,21.85,In Stock,,,2,222.87,39.33,2021-12-30T01:42:25-08:00
@@ -49,7 +49,7 @@ KING PACK REDEES WAPPA PRE-ROLLS,Redecan,Redecan,70 x 0.4 g (Case of 6),552.00,9
 91K,DBA Canopy Growth,Doja,3.5 g (Case of 12),289.80,24.15,In Stock,31.99,32,,246.33,43.47,2021-12-30T01:42:15-08:00
 CHOCOLATE P.B. CUP,LYF Food Technologies,HalfTime by LYF,"1 x 16 g Chocolate, Peanut Butter (Case of 12)",49.44,4.12,In Stock,5.99,45,,42.02,7.42,2021-12-30T01:42:15-08:00
 BLUE DREAM PRE-ROLLS,Pure Sunfarms,Pure Sunfarms,10 x 0.3 g (Case of 24),353.52,14.73,In Stock,,,,300.49,53.03,2021-12-29T15:34:50-08:00
-BLUE RASPBERRY THC GUMMIES,Dynaleo,Pocket Fives,2 x 4.6 g Blue Raspberry (Case of 12),33.84,2.82,In Stock,3.99,41,,28.76,5.08,2021-12-30T01:42:05-08:00
+BLUE RASPBERRY THC GUMMIES,Dynaleo,Pocket Fives,2 x 4.6 g Blue Raspberry (Case of 12),33.84,2.82,In Stock,3.99,41,,28.76,5.08,2021-12-30T06:05:00-08:00
 VANILLA ICE,Quality Green,High Street,3.5 g (Case of 12),295.20,24.6,In Stock,31.99,30,2,250.92,44.28,2021-12-30T01:42:10-08:00
 PAPAYA CAKE PRE-ROLLS,Decibel Cannabis Company,QWEST,2 x 0.5 g (Case of 12),110.76,9.23,In Stock,,,,94.15,16.61,2021-12-30T01:42:05-08:00
 GREEN BANNER,Zenabis Ltd,Namaste,3.5 g (Case of 12),202.92,16.91,In Stock,21.99,30,,172.48,30.44,2021-12-30T01:42:15-08:00
@@ -159,7 +159,7 @@ DARKEST SIDE OF THE MOON PRE-ROLL,WEED ME,Weed Me,3 x 0.5 g (Case of 24),276.00,
 DO-SI-DOS,WEED ME,WEED ME,3.5 g (Case of 12),295.20,24.6,In Stock,31.99,30,2,250.92,44.28,2021-12-28T01:44:05-08:00
 SMOKER FARMS MASTER KUSH ULTRA,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),321.96,26.83,In Stock,,,,273.67,48.29,2021-12-29T17:45:01-08:00
 SOUR DIESEL,Royalmax,Citoyen,28 g (Case of 6),517.50,86.25,Out of Stock,114.99,33,,439.88,77.62,2021-12-30T02:01:00-08:00
-SOUR DIESEL,Royalmax,Citoyen,14 g (Case of 6),260.46,43.41,In Stock,56.99,31,,221.39,39.07,2021-12-30T02:01:00-08:00
+SOUR DIESEL,Royalmax,Citoyen,14 g (Case of 6),260.46,43.41,In Stock,56.99,31,,221.39,39.07,2021-12-30T06:07:35-08:00
 MANGO TWIST HYBRID CARTRIDGE,Galaxy Brands,Cruuzy,"1 x 1 g Tropical, Citrus, Sweet, Fruity, Sour (Case of 12)",310.56,25.88,In Stock,36.99,43,,263.98,46.58,2021-12-30T01:41:55-08:00
 CITRUS ICE SATIVA CARTRIDGE,Galaxy Brands,Cruuzy,"1 x 1 g Citrus, Sweet, Minty, Fruity, Sharp (Case of 12)",310.56,25.88,In Stock,36.99,43,,263.98,46.58,2021-12-29T20:54:10-08:00
 FULL MELT INDICA CARTRIDGE,Galaxy Brands,Cruuzy,"1 x 0.5 g Berry, Sweet, Herbal, Fruity, Sour  (Case of 12)",293.52,24.46,In Stock,,,,249.49,44.03,2021-12-29T10:50:05-08:00
@@ -498,7 +498,7 @@ STRAWBERRY LIME CBD GUMMY,Vortex Cannabis,Vortex Cannabis Inc,10 x 2.5 g Strawbe
 STRAWBERRY LIME CBD GUMMY,Vortex Cannabis,Vortex Cannabis Inc,20 x 2.5 g Strawberry Lime (Case of 24),248.40,10.35,In Stock,14.99,45,,211.14,37.26,2021-12-30T01:41:00-08:00
 STRAWBERRY LIME CBD GUMMY,Vortex Cannabis,Vortex Cannabis Inc,50 x 2.5 g Strawberry Lime (Case of 24),469.20,19.55,Out of Stock,27.99,43,,398.82,70.38,2021-12-21T01:37:15-08:00
 LEMON KUSH JELLY BOMB 10.0MG,Vortex Cannabis,Vortex Cannabis Inc,1 x 5 g  (Case of 24),69.12,2.88,In Stock,,,,58.75,10.37,2021-12-30T01:41:00-08:00
-STRAWBERRY DIESEL JELLY BOMB 10MG,Vortex Cannabis,Vortex Cannabis Inc,1 x 5 g Strawberry Diesel (Case of 24),69.12,2.88,In Stock,3.99,39,,58.75,10.37,2021-12-30T01:41:00-08:00
+STRAWBERRY DIESEL JELLY BOMB 10MG,Vortex Cannabis,Vortex Cannabis Inc,1 x 5 g Strawberry Diesel (Case of 24),69.12,2.88,In Stock,3.99,39,,58.75,10.37,2021-12-30T06:07:35-08:00
 GELATO PRE-ROLL,Apothecary,Apothecary Botanicals,3 x 0.5 g (Case of 12),163.92,13.66,In Stock,17.99,32,,139.33,24.59,2021-12-30T01:41:05-08:00
 GELATO,Apothecary,Apothecary Botanicals,3.5 g (Case of 12),269.16,22.43,In Stock,,,,228.79,40.37,2021-12-29T17:45:01-08:00
 JOURNEY VAPE CARTRIDGE,Medipharm Labs,Northbound Cannabis,1 x 0.94 g  (Case of 12),311.88,25.99,In Stock,,,,265.10,46.78,2021-12-29T12:38:06-08:00
