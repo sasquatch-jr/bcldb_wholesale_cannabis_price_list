@@ -2,19 +2,19 @@ name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,orde
 GLUERANGUTAN PRE-ROLLS,Good Buds Company,GOOD BUDS,7 x 0.5 g (Case of 12),248.40,20.7,In Stock,,,,211.14,37.26,2021-12-31T18:19:00-08:00
 DOSI MELON,Good Buds Company,GOOD BUDS,3.5 g (Case of 12),248.40,20.7,In Stock,,,,211.14,37.26,2021-12-31T18:30:45-08:00
 GLUERANGUTAN,Good Buds Company,GOOD BUDS,3.5 g (Case of 12),207.00,17.25,In Stock,,,,175.95,31.05,2021-12-31T19:54:10-08:00
-BLACK SUGAR ROSE PRE-ROLLS,WeedMD,Color Cannabis,10 x 0.35 g (Case of 18),238.86,13.27,In Stock,17.99,36,2,203.03,35.83,2022-01-01T02:28:45-08:00
+BLACK SUGAR ROSE PRE-ROLLS,WeedMD,Color Cannabis,10 x 0.35 g (Case of 18),238.86,13.27,In Stock,17.99,36,2,203.03,35.83,2022-01-01T10:50:15-08:00
 BC ORGANIC WHITE RNTZ PRE-ROLLS,Rubicon Organics,Simply Bare,3 x 0.5 g (Case of 24),402.72,16.78,In Stock,21.99,31,2,342.31,60.41,2021-12-31T14:59:45-08:00
-VITAMIN C BRIGHTENING CBD SERUM,Emprise Canada,Emprise Canada,1 x 48 g  (Case of 6),175.14,29.19,In Stock,,,,148.87,26.27,2022-01-01T01:43:10-08:00
-VIEW CBD EYE CREAM,Emprise Canada,Emprise Canada,1 x 48 g  (Case of 6),175.14,29.19,In Stock,,,,148.87,26.27,2022-01-01T02:28:45-08:00
-FLAWLESS CBD SERUM,Emprise Canada,Emprise Canada,1 x 48 g  (Case of 6),175.14,29.19,In Stock,,,,148.87,26.27,2022-01-01T02:28:45-08:00
+VITAMIN C BRIGHTENING CBD SERUM,Emprise Canada,Emprise Canada,1 x 48 g  (Case of 6),175.14,29.19,Out of Stock,,,,148.87,26.27,2022-01-01T10:50:15-08:00
+VIEW CBD EYE CREAM,Emprise Canada,Emprise Canada,1 x 48 g  (Case of 6),175.14,29.19,In Stock,,,,148.87,26.27,2022-01-01T10:50:15-08:00
+FLAWLESS CBD SERUM,Emprise Canada,Emprise Canada,1 x 48 g  (Case of 6),175.14,29.19,In Stock,,,,148.87,26.27,2022-01-01T10:50:15-08:00
 REDEES BLACK CHERRY PUNCH PRE-ROLLS,Redecan,Redecan,10 x 0.4 g (Case of 30),465.90,15.53,In Stock,21.99,42,2,396.01,69.88,2022-01-01T02:28:45-08:00
 OG CHEMDAWG LIVE RESIN CARTRIDGE,Aurora,San Rafael 71,1 x 0.5 g  (Case of 12),277.08,23.09,In Stock,,,,235.52,41.56,2021-12-31T15:29:27-08:00
 KUSH COOKIES,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,In Stock,24.99,33,3,191.05,33.71,2022-01-01T01:43:10-08:00
 PINEAPPLE CHUNK,BZAM,-ness,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,2,234.60,41.40,2022-01-01T01:43:10-08:00
 SECRET GARDEN REBEL SOUR,BZAM,-ness,3.5 g (Case of 12),276.00,23.0,In Stock,0.0,-100,2,234.60,41.40,2022-01-01T01:43:10-08:00
-ESPRESSO SPICE DRINK,Vortex Cannabis,Canajo,1 x 355 ml Coffee (Case of 12),57.36,4.78,In Stock,6.99,46,,48.76,8.60,2022-01-01T08:29:25-08:00
-WHITE SPARKLER DRINK,Vortex Cannabis,Via Regal,1 x 355 ml Grape (Case of 12),76.08,6.34,In Stock,8.99,42,,64.67,11.41,2022-01-01T01:43:10-08:00
-PINK SPARKLER DRINK,Vortex Cannabis,Via Regal,1 x 355 ml Grape (Case of 12),76.08,6.34,In Stock,,,,64.67,11.41,2021-12-31T16:19:10-08:00
+ESPRESSO SPICE DRINK,Vortex Cannabis,Canajo,1 x 355 ml Coffee (Case of 12),57.36,4.78,Out of Stock,6.99,46,,48.76,8.60,2022-01-01T10:50:15-08:00
+WHITE SPARKLER DRINK,Vortex Cannabis,Via Regal,1 x 355 ml Grape (Case of 12),76.08,6.34,In Stock,8.99,42,,64.67,11.41,2022-01-01T10:50:15-08:00
+PINK SPARKLER DRINK,Vortex Cannabis,Via Regal,1 x 355 ml Grape (Case of 12),76.08,6.34,In Stock,,,,64.67,11.41,2022-01-01T10:50:15-08:00
 GSC,Acreage Pharms,Peers,28 g (Case of 12),1107.60,92.3,Out of Stock,119.99,30,2,941.46,166.14,2021-12-29T09:22:35-08:00
 CRAFT SNOWBUD AFGHAN KUSH,Agripharm,Thumbs Up Brand,3.5 g (Case of 12),323.28,26.94,In Stock,34.99,30,2,274.79,48.49,2022-01-01T04:17:50-08:00
 DAIRY CREAM,Agripharm,WINK,3.5 g (Case of 12),323.28,26.94,In Stock,34.99,30,2,274.79,48.49,2022-01-01T01:43:01-08:00
@@ -34,8 +34,8 @@ BUBBA KUSH CLASSIC SODA,Embark,Keef,1 x 355 ml Root Beer (Case of 12),57.96,4.83
 ORANGE KUSH CLASSIC SODA,Embark,Keef,1 x 355 ml Orange & citrus (Case of 12),57.96,4.83,Out of Stock,6.99,45,,49.27,8.69,2022-01-01T08:29:25-08:00
 JET FUEL GELATO PRE-ROLLS,Pure Sunfarms,Pure Sunfarms,10 x 0.3 g (Case of 24),353.52,14.73,In Stock,,,,300.49,53.03,2021-12-31T13:50:20-08:00
 DONKEY BUTTER,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),321.96,26.83,In Stock,34.99,30,,273.67,48.29,2021-12-30T15:16:05-08:00
-AFGHAN KUSH LIVE ROSIN,Apothecary Botanicals,Earthwolf Farms,1 x 1 g  (Case of 6),167.28,27.88,In Stock,,,,142.19,25.09,2022-01-01T01:43:05-08:00
-GOD SPACE NEEDLE LIVE ROSIN,Apothecary,Earthwolf Farms,1 x 1 g  (Case of 6),250.86,41.81,In Stock,,,,213.23,37.63,2022-01-01T10:42:25-08:00
+AFGHAN KUSH LIVE ROSIN,Apothecary Botanicals,Earthwolf Farms,1 x 1 g  (Case of 6),167.28,27.88,Out of Stock,,,,142.19,25.09,2022-01-01T10:52:55-08:00
+GOD SPACE NEEDLE LIVE ROSIN,Apothecary,Earthwolf Farms,1 x 1 g  (Case of 6),250.86,41.81,In Stock,,,,213.23,37.63,2022-01-01T10:52:55-08:00
 ANIMAL SORBET,Sitka Weed Works,Sitka Micro Collection,3.5 g (Case of 12),323.28,26.94,In Stock,34.99,30,,274.79,48.49,2021-12-31T01:43:10-08:00
 BLACK TRIANGLE,Sitka Weed Works,Sitka Micro Collection,3.5 g (Case of 12),323.28,26.94,In Stock,,,,274.79,48.49,2021-12-31T10:12:10-08:00
 TROPICANNA GOLD,Sundial,Top Leaf,3.5 g (Case of 12),323.28,26.94,In Stock,34.99,30,2,274.79,48.49,2022-01-01T02:28:45-08:00
