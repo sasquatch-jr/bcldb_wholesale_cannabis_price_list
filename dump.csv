@@ -1,6 +1,6 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 CACTUS BREATH (KOOTENAY CUT),Joint Venture Craft Cannabis,Distinkt,3.5 g (Case of 12),321.96,26.83,In Stock,34.99,30,,273.67,48.29,2022-01-19T01:39:50-08:00
-WEST KOOTENAY HAWAIIAN HAMMER,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),276.00,23.0,In Stock,,,,234.60,41.40,2022-01-19T01:39:50-08:00
+WEST KOOTENAY HAWAIIAN HAMMER,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),276.00,23.0,In Stock,,,,234.60,41.40,2022-01-19T06:11:10-08:00
 STONE GROVE ZKITTLEZ,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),295.32,24.61,In Stock,31.99,30,,251.02,44.30,2022-01-17T13:41:20-08:00
 KOOTENAY AEROPONIC NUKEN SOUR DIESEL,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),321.96,26.83,In Stock,34.99,30,,273.67,48.29,2022-01-19T06:08:40-08:00
 BLACK KETTLE FARMS TRIANGLE KUSH,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),321.96,26.83,In Stock,34.99,30,,273.67,48.29,2022-01-19T01:39:55-08:00
@@ -145,10 +145,10 @@ ROUTE 66,CannTrust,Liiv,7 g (Case of 12),369.48,30.79,In Stock,39.99,30,2,314.06
 SOMETHING ABOUT LARRY,CannTrust,Liiv,3.5 g (Case of 12),201.12,16.76,In Stock,21.99,31,,170.95,30.17,2022-01-19T01:39:15-08:00
 SOMETHING ABOUT LARRY,CannTrust,Liiv,7 g (Case of 12),369.48,30.79,In Stock,39.99,30,2,314.06,55.42,2022-01-19T01:39:45-08:00
 KUSH PUNCH PRE-ROLL,Tantalus Labs,Tantalus Labs,7 x 0.5 g (Case of 12),199.32,16.61,In Stock,,,,169.42,29.90,2022-01-19T01:39:25-08:00
-KRAZY KRYSTAL GODFATHER OG,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),230.04,19.17,In Stock,24.99,30,,195.53,34.51,2022-01-18T15:55:20-08:00
-KRAZY KRYSTAL GODFATHER OG,Joint Venture Craft Cannabis,BC Black,15 g (Case of 4),307.04,76.76,In Stock,99.99,30,,260.98,46.06,2022-01-18T16:53:00-08:00
+KRAZY KRYSTAL GODFATHER OG,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),230.04,19.17,In Stock,24.99,30,,195.53,34.51,2022-01-19T06:13:50-08:00
+KRAZY KRYSTAL GODFATHER OG,Joint Venture Craft Cannabis,BC Black,15 g (Case of 4),307.04,76.76,In Stock,99.99,30,,260.98,46.06,2022-01-19T06:13:50-08:00
 WEST KOOTENAY HAWAIIAN HAMMER,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),276.00,23.0,Out of Stock,,,,234.60,41.40,2021-12-26T17:24:45-08:00
-WEST KOOTENAY HAWAIIAN HAMMER,Joint Venture Craft Cannabis,BC Black,15 g (Case of 4),307.04,76.76,In Stock,,,,260.98,46.06,2022-01-19T01:39:40-08:00
+WEST KOOTENAY HAWAIIAN HAMMER,Joint Venture Craft Cannabis,BC Black,15 g (Case of 4),307.04,76.76,Out of Stock,,,,260.98,46.06,2022-01-19T06:11:10-08:00
 SMOKER FARMS KETTLE RIVER KUSH,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),230.04,19.17,In Stock,24.99,30,,195.53,34.51,2022-01-17T19:57:30-08:00
 WATERMELON MINT BEVERAGE,Emerald Health Therapeutics,HYTN,"1 x 355 ml Watermelon, mint (Case of 12)",49.68,4.14,In Stock,5.99,45,,42.23,7.45,2022-01-19T01:39:15-08:00
 ROSEWATER LEMONADE,Emerald Health Therapeutics,HYTN,"1 x 355 ml Floral, lemon (Case of 12)",49.68,4.14,In Stock,5.99,45,,42.23,7.45,2022-01-19T01:39:10-08:00
