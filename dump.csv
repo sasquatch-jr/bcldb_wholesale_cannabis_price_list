@@ -1,6 +1,6 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 CACTUS BREATH (KOOTENAY CUT),Joint Venture Craft Cannabis,Distinkt,3.5 g (Case of 12),321.96,26.83,In Stock,34.99,30,,273.67,48.29,2022-01-19T12:22:10-08:00
-WEST KOOTENAY HAWAIIAN HAMMER,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),276.00,23.0,In Stock,,,,234.60,41.40,2022-01-19T11:49:11-08:00
+WEST KOOTENAY HAWAIIAN HAMMER,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,,234.60,41.40,2022-01-19T11:49:11-08:00
 STONE GROVE ZKITTLEZ,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),295.32,24.61,In Stock,31.99,30,,251.02,44.30,2022-01-17T13:41:20-08:00
 KOOTENAY AEROPONIC NUKEN SOUR DIESEL,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),321.96,26.83,Out of Stock,34.99,30,,273.67,48.29,2022-01-19T08:23:45-08:00
 BLACK KETTLE FARMS TRIANGLE KUSH,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),321.96,26.83,In Stock,34.99,30,,273.67,48.29,2022-01-19T13:38:41-08:00
@@ -177,7 +177,7 @@ WEDDING POOP PRE-ROLL,Castle Rock Farms,Castle Rock Farms,1 x 0.5 g (Case of 18)
 WEDDING POOP PRE-ROLL,Castle Rock Farms,Castle Rock Farms,3 x 0.5 g (Case of 18),206.82,11.49,In Stock,14.99,30,,175.80,31.02,2022-01-19T12:48:00-08:00
 BLOOD ORANGE,Tantalus Labs,Tantalus Labs,3.5 g (Case of 12),203.16,16.93,Out of Stock,21.99,30,,172.69,30.47,2022-01-19T10:06:30-08:00
 T.F. ISLAND PINK,7Green Grows,Rocket Chair,3.5 g (Case of 12),249.36,20.78,In Stock,26.99,30,2,211.96,37.40,2022-01-18T12:53:51-08:00
-PINK APRICOT SEEDS,Tricanna Industries,Weathered Islands Craft Cannabis,5 seeds (Case of 6),134.58,22.43,In Stock,,,,114.39,20.19,2022-01-19T09:32:55-08:00
+PINK APRICOT SEEDS,Tricanna Industries,Weathered Islands Craft Cannabis,5 seeds (Case of 6),134.58,22.43,In Stock,,,,114.39,20.19,2022-01-19T13:44:20-08:00
 POMEGRANATE CBD SOFT CHEWS,Dynaleo,DYNATHRIVE,30 x 4.6 g Pomegranate (Case of 6),84.00,14.0,In Stock,34.99,150,,71.40,12.60,2022-01-19T09:17:45-08:00
 LILAC DIESEL,Sitka Weed Works,Sitka Micro Collection,3.5 g (Case of 12),251.88,20.99,In Stock,,,,214.10,37.78,2022-01-18T20:02:51-08:00
 NORTHERN WIDOW SHATTER,Westleaf Labs,Pressed by Qwest,1 x 1 g  (Case of 12),359.52,29.96,In Stock,,,,305.59,53.93,2022-01-19T12:28:15-08:00
@@ -434,7 +434,7 @@ LEGACY CBD SOFTGELS,iNaturally Organic,Emprise Canada,30 capsules (Case of 6),12
 WEDDING CAKE,Peace Naturals,Spinach,3.5 g (Case of 24),462.96,19.29,In Stock,24.99,30,,393.52,69.44,2022-01-19T12:48:01-08:00
 GRAPEFRUIT GOD BUD 2.0 PRE-ROLLS,Choice Growers,Choice Growers Cannabis,5 x 0.5 g (Case of 12),189.72,15.81,In Stock,21.99,39,,161.26,28.46,2022-01-19T09:52:20-08:00
 CRITICAL GLUE,Sess Holdings,Cali,3.5 g (Case of 12),253.08,21.09,In Stock,,,,215.12,37.96,2022-01-14T20:26:25-08:00
-BIG BUDDA CHEESE (BBC),Sess Holdings,Cali,3.5 g (Case of 12),277.08,23.09,In Stock,,,,235.52,41.56,2022-01-19T13:38:40-08:00
+BIG BUDDA CHEESE (BBC),Sess Holdings,Cali,3.5 g (Case of 12),277.08,23.09,In Stock,,,,235.52,41.56,2022-01-19T13:44:20-08:00
 KEY LIME PIE GUMMIES,Olli,Ace Valley,2 x 10 g Key Lime Pie (Case of 12),58.68,4.89,In Stock,6.99,43,,49.88,8.80,2022-01-19T11:49:11-08:00
 PURE CHEWS FIRE BURST,Abba Medix,Pure Chews,5 x 3 g Cinnamon (Case of 24),89.76,3.74,In Stock,4.99,33,,76.30,13.46,2022-01-18T14:08:04-08:00
 MACFLURRY,Alberta Craft Cannabis,BLKMKT,3.5 g (Case of 12),402.96,33.58,In Stock,42.99,28,,342.52,60.44,2022-01-19T01:38:51-08:00
@@ -848,7 +848,7 @@ BLUEBERRY DISTILLATE CARTRIDGE,CannMart,PHYTO,1 x 0.5 g BLUEBERRY (Case of 12),2
 PINEAPPLE EXPRESS 510 CARTRIDGE,Aphria,Good Supply,1 x 0.5 g  (Case of 12),173.76,14.48,Out of Stock,,,,147.70,26.06,2022-01-19T11:58:15-08:00
 PINEAPPLE EXPRESS 510 CARTRIDGE,Aphria,Good Supply,1 x 1 g  (Case of 12),314.52,26.21,In Stock,,,,267.34,47.18,2022-01-19T01:38:10-08:00
 LITTLE VICTORY SPARKLING DARK CHERRY,HEXO,HEXO,1 x 355 ml Dark Cherry (Case of 12),40.92,3.41,In Stock,,,,34.78,6.14,2022-01-19T12:47:45-08:00
-LITTLE VICTORY SPARKLING BLOOD ORANGE,HEXO,HEXO,1 x 355 ml Blood Orange (Case of 12),40.92,3.41,In Stock,5.99,76,,34.78,6.14,2022-01-19T10:42:06-08:00
+LITTLE VICTORY SPARKLING BLOOD ORANGE,HEXO,HEXO,1 x 355 ml Blood Orange (Case of 12),40.92,3.41,In Stock,5.99,76,,34.78,6.14,2022-01-19T13:44:20-08:00
 XMG MANGO PINEAPPLE,HEXO,HEXO,1 x 236 ml Mango Pineapple (Case of 12),59.04,4.92,In Stock,6.99,42,,50.18,8.86,2022-01-19T12:53:25-08:00
 XMG TROPICAL FRUIT,HEXO,HEXO,1 x 236 ml Tropical Fruit (Case of 12),59.04,4.92,In Stock,6.99,42,,50.18,8.86,2022-01-19T12:53:25-08:00
 MOLLO 5,HEXO,HEXO,1 x 355 ml Malt (Case of 12),40.32,3.36,In Stock,4.99,49,,34.27,6.05,2022-01-19T11:49:10-08:00
