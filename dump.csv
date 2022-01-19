@@ -1,5 +1,5 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
-CACTUS BREATH (KOOTENAY CUT),Joint Venture Craft Cannabis,Distinkt,3.5 g (Case of 12),321.96,26.83,In Stock,34.99,30,,273.67,48.29,2022-01-19T14:10:55-08:00
+CACTUS BREATH (KOOTENAY CUT),Joint Venture Craft Cannabis,Distinkt,3.5 g (Case of 12),321.96,26.83,In Stock,34.99,30,,273.67,48.29,2022-01-19T14:33:20-08:00
 WEST KOOTENAY HAWAIIAN HAMMER,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,,234.60,41.40,2022-01-19T11:49:11-08:00
 STONE GROVE ZKITTLEZ,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),295.32,24.61,In Stock,31.99,30,,251.02,44.30,2022-01-17T13:41:20-08:00
 KOOTENAY AEROPONIC NUKEN SOUR DIESEL,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),321.96,26.83,Out of Stock,34.99,30,,273.67,48.29,2022-01-19T08:23:45-08:00
@@ -13,7 +13,7 @@ BLACK SUGAR ROSE PRE-ROLLS,WeedMD,Color Cannabis,10 x 0.35 g (Case of 18),238.86
 GOLIATH PRE-ROLLS,WEED ME,Weed Me,3 x 0.5 g (Case of 24),276.00,11.5,Out of Stock,14.99,30,2,234.60,41.40,2022-01-19T08:49:51-08:00
 CBD 75 OIL,Emblem,Divvy,28.5 g (Case of 12),336.72,28.06,In Stock,36.99,32,,286.21,50.51,2022-01-18T14:08:20-08:00
 THC 30 OIL,Emblem,Divvy,28.5 g (Case of 12),248.76,20.73,In Stock,26.99,30,,211.45,37.31,2022-01-19T01:39:50-08:00
-ANIMAL COOKIES,Apothecary Botanicals,The BC Bud Co,3.5 g (Case of 12),365.76,30.48,In Stock,,,,310.90,54.86,2022-01-19T11:49:10-08:00
+ANIMAL COOKIES,Apothecary Botanicals,The BC Bud Co,3.5 g (Case of 12),365.76,30.48,In Stock,,,,310.90,54.86,2022-01-19T14:33:20-08:00
 THC+CBG CHILL BLISS GUMMIES,Peace Naturals,Spinach FEELZ,"2 x 5 g Pineapple, Starfruit (Case of 12)",50.76,4.23,Out of Stock,5.99,42,,43.15,7.61,2022-01-19T10:42:05-08:00
 KUSH COOKIES,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,In Stock,24.99,33,,191.05,33.71,2022-01-19T13:52:45-08:00
 PINEAPPLE CHUNK,BZAM,-ness,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,2,234.60,41.40,2022-01-19T13:52:45-08:00
@@ -80,7 +80,7 @@ VANILLA ICE,Quality Green,High Street,3.5 g (Case of 12),295.20,24.6,Out of Stoc
 PAPAYA CAKE PRE-ROLLS,Decibel Cannabis Company,QWEST,2 x 0.5 g (Case of 12),110.76,9.23,Out of Stock,,,,94.15,16.61,2022-01-19T13:15:10-08:00
 INFUSED TROPIC GSC PRE-ROLLS,Westleaf Labs,General Admission,"3 x 0.5 g Orange, Sweet, Citrus, Earthy (Case of 24)",354.00,14.75,In Stock,,,,300.90,53.10,2022-01-19T14:02:15-08:00
 GREEN BANNER,Zenabis Ltd,Namaste,3.5 g (Case of 12),202.92,16.91,In Stock,21.99,30,,172.48,30.44,2022-01-19T14:14:20-08:00
-CREAM CARAMEL,Zenabis Ltd,Namaste,3.5 g (Case of 12),202.92,16.91,In Stock,21.99,30,,172.48,30.44,2022-01-19T13:52:45-08:00
+CREAM CARAMEL,Zenabis Ltd,Namaste,3.5 g (Case of 12),202.92,16.91,In Stock,21.99,30,,172.48,30.44,2022-01-19T14:33:20-08:00
 TRANSDERMAL 1:1 CREAM,Valens Agritech,LivRelief Infused,1 x 50 g  (Case of 12),414.00,34.5,In Stock,,,,351.90,62.10,2022-01-18T14:04:08-08:00
 TRANSDERMAL CBD CREAM,Valens Agritech,LivRelief Infused,1 x 50 g  (Case of 12),414.00,34.5,In Stock,,,,351.90,62.10,2022-01-18T14:08:21-08:00
 BANANA OG,Decibel Cannabis Company,QWEST,3.5 g (Case of 12),341.40,28.45,In Stock,36.99,30,2,290.19,51.21,2022-01-19T13:52:00-08:00
