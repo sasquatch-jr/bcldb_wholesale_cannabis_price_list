@@ -1,5 +1,5 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
-CACTUS BREATH (KOOTENAY CUT),Joint Venture Craft Cannabis,Distinkt,3.5 g (Case of 12),321.96,26.83,In Stock,34.99,30,,273.67,48.29,2022-01-20T01:40:40-08:00
+CACTUS BREATH (KOOTENAY CUT),Joint Venture Craft Cannabis,Distinkt,3.5 g (Case of 12),321.96,26.83,Out of Stock,34.99,30,,273.67,48.29,2022-01-20T08:16:30-08:00
 WEST KOOTENAY HAWAIIAN HAMMER,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,,234.60,41.40,2022-01-20T01:40:40-08:00
 STONE GROVE ZKITTLEZ,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),295.32,24.61,In Stock,31.99,30,,251.02,44.30,2022-01-20T01:40:40-08:00
 KOOTENAY AEROPONIC NUKEN SOUR DIESEL,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),321.96,26.83,In Stock,34.99,30,,273.67,48.29,2022-01-20T01:40:40-08:00
@@ -22,7 +22,7 @@ WHITE SPARKLER DRINK,Vortex Cannabis,Via Regal,1 x 355 ml Grape (Case of 12),76.
 BLACKBERRY GELATO,TerrAscend,Legend,7 g (Case of 12),404.88,33.74,Out of Stock,43.99,30,2,344.15,60.73,2022-01-20T01:40:36-08:00
 ORGANIC ISLAND ROCKSTAR,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,2,224.50,39.62,2022-01-20T07:05:15-08:00
 BC ORGANIC WHITE RNTZ,Rubicon Organics,Simply Bare,3.5 g (Case of 12),366.36,30.53,In Stock,39.99,31,,311.41,54.95,2022-01-20T07:05:15-08:00
-BENNY BLUNTO PRE-ROLL,Canadian Clinical Cannabanoids,The Loud Plug,1 x 1 g (Case of 12),110.76,9.23,In Stock,11.99,30,2,94.15,16.61,2022-01-20T07:29:25-08:00
+BENNY BLUNTO PRE-ROLL,Canadian Clinical Cannabanoids,The Loud Plug,1 x 1 g (Case of 12),110.76,9.23,In Stock,11.99,30,2,94.15,16.61,2022-01-20T08:18:35-08:00
 SPACE FLIGHT SUPERSTAR #11,OGEN,OGEN,3.5 g (Case of 12),282.96,23.58,In Stock,,,,240.52,42.44,2022-01-20T01:40:30-08:00
 WATERMELON GUSHERS,Castle Rock Farms,BC Green,3.5 g (Case of 12),303.60,25.3,Out of Stock,34.99,38,2,258.06,45.54,2022-01-20T01:40:30-08:00
 SCOTTI'S CAKE,Castle Rock Farms,Castle Rock Farms,3.5 g (Case of 12),303.60,25.3,In Stock,34.99,38,2,258.06,45.54,2022-01-20T01:40:30-08:00
@@ -872,10 +872,10 @@ CHERRY PUNCH,Alberta Craft Cannabis,BLKMKT,1 g (Case of 30),304.20,10.14,Out of 
 LEMON Z PRE-ROLL,WEED ME,WEED ME,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,14.99,30,,234.60,41.40,2022-01-20T01:38:10-08:00
 JACK HAZE,Supreme,7ACRES,3.5 g (Case of 12),248.40,20.7,In Stock,,,,211.14,37.26,2022-01-20T01:38:10-08:00
 """FREE"" SOFTGEL",Aphria,Solei,15 capsules (Case of 12),127.56,10.63,In Stock,,,,108.43,19.13,2022-01-10T15:47:21-08:00
-TWD SATIVA,Canopy Growth Corporation,TWD,28 g (Case of 6),508.14,84.69,In Stock,,,,431.92,76.22,2022-01-19T14:02:15-08:00
-TWD SATIVA,Canopy Growth Corporation,TWD,15 g (Case of 6),291.00,48.5,In Stock,,,,247.35,43.65,2022-01-20T01:38:20-08:00
-TWD SATIVA,Canopy Growth Corporation,TWD,7 g (Case of 12),304.80,25.4,In Stock,,,,259.08,45.72,2022-01-19T19:47:55-08:00
-TWD SATIVA,Canopy Growth Corporation,TWD,3.5 g (Case of 12),175.44,14.62,In Stock,,,,149.12,26.32,2022-01-20T01:38:06-08:00
+TWD SATIVA,Canopy Growth Corporation,TWD,28 g (Case of 6),508.14,84.69,In Stock,109.99,30,,431.92,76.22,2022-01-19T14:02:15-08:00
+TWD SATIVA,Canopy Growth Corporation,TWD,15 g (Case of 6),291.00,48.5,In Stock,62.99,30,,247.35,43.65,2022-01-20T01:38:20-08:00
+TWD SATIVA,Canopy Growth Corporation,TWD,7 g (Case of 12),304.80,25.4,In Stock,34.99,38,,259.08,45.72,2022-01-19T19:47:55-08:00
+TWD SATIVA,Canopy Growth Corporation,TWD,3.5 g (Case of 12),175.44,14.62,In Stock,18.99,30,,149.12,26.32,2022-01-20T01:38:06-08:00
 D. BUBBA,Zenabis Ltd,Namaste,7 g (Case of 12),415.56,34.63,Out of Stock,,,,353.23,62.33,2021-11-05T10:25:26-07:00
 D. BUBBA,Zenabis Ltd,Namaste,3.5 g (Case of 48),904.80,18.85,Out of Stock,,,,769.08,135.72,2021-11-05T13:50:20-07:00
 D. BUBBA,Zenabis Ltd,Namaste,1 g (Case of 48),276.48,5.76,In Stock,,,,235.01,41.47,2022-01-20T01:38:06-08:00
