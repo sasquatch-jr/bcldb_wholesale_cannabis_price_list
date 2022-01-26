@@ -1,6 +1,6 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 INDICA 30 + INFUSED PRE-ROLL,Aphria,Canaca,3 x 0.5 g  (Case of 24),360.00,15.0,Out of Stock,,,2,306.00,54.00,2022-01-25T11:19:05-08:00
-MAGIC MELON SEEDS,Anc,Humboldt,5 seeds (Case of 6),258.78,43.13,In Stock,,,,219.96,38.82,2022-01-25T16:42:10-08:00
+MAGIC MELON SEEDS,Anc,Humboldt,5 seeds (Case of 6),258.78,43.13,In Stock,,,,219.96,38.82,2022-01-25T17:20:01-08:00
 BUBBA KUSH SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,,,,170.03,30.01,2022-01-25T16:42:10-08:00
 AK-47 AUTO SEEDS,ANC,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,,,,170.03,30.01,2022-01-25T17:04:45-08:00
 STRAWNANA VAPE CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g fruit, candy (Case of 12)",311.88,25.99,In Stock,36.99,42,,265.10,46.78,2022-01-25T17:04:45-08:00
@@ -67,7 +67,7 @@ FORBIDDEN FRUIT CARTRIDGE,Dosecann,Back Forty,1 x 1.2 g Forbidden Fruit (Case of
 SOUR APPLE VAPE CARTRIDGE,Dosecann,Back Forty,1 x 1 g Sour Apple (Case of 12),314.52,26.21,In Stock,37.99,45,,267.34,47.18,2022-01-25T14:52:06-08:00
 232 SERIES LIVE ROSIN JAM,Dosecann,Kolab Project,1 x 1 g  (Case of 12),461.88,38.49,In Stock,,,,392.60,69.28,2022-01-25T14:01:56-08:00
 CBD BLOOD ORANGE SOFT CHEWS,Dosecann,Foray,30 x 5 g Blood Orange (Case of 12),273.00,22.75,In Stock,31.99,41,,232.05,40.95,2022-01-25T15:49:00-08:00
-CINNAMON BUN CHOCOLATE SQUARE,Dosecann,Foray,1 x 10 g Cinnamon Bun Chocolate Square (Case of 12),30.36,2.53,In Stock,,,,25.81,4.55,2022-01-25T17:09:05-08:00
+CINNAMON BUN CHOCOLATE SQUARE,Dosecann,Foray,1 x 10 g Cinnamon Bun Chocolate Square (Case of 12),30.36,2.53,In Stock,,,,25.81,4.55,2022-01-25T17:20:00-08:00
 CARAMEL APPLE PIE CHOCOLATE SQUARE,Dosecann,Foray,1 x 10 g Caramel Apple Pie (Case of 12),30.36,2.53,In Stock,,,,25.81,4.55,2022-01-25T10:43:50-08:00
 WHITE CHOCOLATE EGGNOG,Dosecann,Back Forty,1 x 7.5 g Eggnog (Case of 12),30.36,2.53,In Stock,,,,25.81,4.55,2022-01-25T16:06:21-08:00
 VIRGIN CANNABIS EXTRACT THC SOFTGELS,Emprise Canada,Emprise Canada,30 capsules (Case of 6),158.70,26.45,Out of Stock,,,,134.89,23.80,2022-01-25T09:05:40-08:00
@@ -216,7 +216,7 @@ MACFLURRY PRE-ROLL,Alberta Craft Cannabis,BLKMKT,1 x 1 g (Case of 12),106.56,8.8
 PAPAYA PRE-ROLL,Supreme,7ACRES,2 x 0.5 g (Case of 24),182.16,7.59,In Stock,9.99,32,,154.84,27.32,2022-01-25T15:20:30-08:00
 SCREWHEAD PRE-ROLL,WEED ME,Weed Me,3 x 0.5 g (Case of 24),184.80,7.7,In Stock,14.99,95,,157.08,27.72,2022-01-25T17:04:45-08:00
 BRANDY WINE,WEED ME,WEED ME,3 x 0.5 g (Case of 24),184.80,7.7,In Stock,,,,157.08,27.72,2022-01-25T14:52:07-08:00
-EDISON JOLTS LOZENGES,Organigram,Edison Jolts,10 x 1.18 g Mint (Case of 12),136.68,11.39,In Stock,14.99,32,,116.18,20.50,2022-01-25T16:42:55-08:00
+EDISON JOLTS LOZENGES,Organigram,Edison Jolts,10 x 1.18 g Mint (Case of 12),136.68,11.39,In Stock,14.99,32,,116.18,20.50,2022-01-25T17:20:01-08:00
 CHOCOLATE CHIP COOKIE,Aurora,Drift,1 x 22 g Chocolate (Case of 24),134.16,5.59,In Stock,7.99,43,,114.04,20.12,2022-01-25T16:47:46-08:00
 ORGANIC ROMULAN,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,,224.50,39.62,2022-01-25T17:09:05-08:00
 BC ORGANIC SWEET BUBBA,Rubicon Organics,Simply Bare,3.5 g (Case of 12),366.36,30.53,In Stock,39.99,31,,311.41,54.95,2022-01-24T16:33:22-08:00
@@ -250,7 +250,7 @@ ANIMAL MINTS,Kolab Project Inc,Back Forty,28 g (Case of 6),504.00,84.0,In Stock,
 WEDDING PIE,Kolab Project Inc,Back Forty,3.5 g (Case of 12),176.40,14.7,In Stock,19.99,36,,149.94,26.46,2022-01-25T17:04:45-08:00
 WEDDING PIE,Kolab Project Inc,Back Forty,28 g (Case of 6),504.00,84.0,Out of Stock,109.99,31,,428.40,75.60,2022-01-25T13:31:35-08:00
 LIVE TERP GUAVA X BC BLUEBERRY 510 CART,Valens Agritech,Verse Concentrates,1 x 1 g  (Case of 12),383.40,31.95,In Stock,,,,325.89,57.51,2022-01-25T17:09:06-08:00
-STRAWBERRY MILKSHAKE WHITE CHOCOLATE,Dosecann,Foray,1 x 10 g Strawberry Milkshake (Case of 12),30.36,2.53,In Stock,3.99,58,,25.81,4.55,2022-01-25T17:09:05-08:00
+STRAWBERRY MILKSHAKE WHITE CHOCOLATE,Dosecann,Foray,1 x 10 g Strawberry Milkshake (Case of 12),30.36,2.53,In Stock,3.99,58,,25.81,4.55,2022-01-25T17:20:00-08:00
 CBD OMEGA LEMON LAVENDER OIL,Dosecann,Dosecann,28 g (Case of 6),100.08,16.68,In Stock,21.99,32,,85.07,15.01,2022-01-25T16:42:56-08:00
 S'MORES CHOCOLATE,Dosecann,Back Forty,1 x 7.5 g  (Case of 12),30.36,2.53,In Stock,,,,25.81,4.55,2022-01-25T16:47:45-08:00
 FROZEN GRAPES 3.5G,United Greeneries Ltd,18twelve,3.5 g (Case of 12),296.76,24.73,In Stock,31.99,29,,252.25,44.51,2022-01-25T14:52:06-08:00
@@ -457,7 +457,7 @@ PURE CHEWS FIRE BURST,Abba Medix,Pure Chews,5 x 3 g Cinnamon (Case of 24),89.76,
 MACFLURRY,Alberta Craft Cannabis,BLKMKT,3.5 g (Case of 12),402.96,33.58,In Stock,42.99,28,,342.52,60.44,2022-01-25T12:13:10-08:00
 PAPAYA,Supreme,7ACRES,3.5 g (Case of 12),269.16,22.43,In Stock,,,,228.79,40.37,2022-01-25T14:52:06-08:00
 CHERRY BOMB FLOWER ROSIN,JC Green Cannabis,Jonny Chronic,1 x 0.5 g  (Case of 12),207.00,17.25,In Stock,,,,175.95,31.05,2022-01-25T14:01:56-08:00
-NORTHERN LIGHTS SEEDS,Parkland Flower,Parkland Flower,5 seeds (Case of 12),358.80,29.9,In Stock,,,,304.98,53.82,2022-01-25T15:20:31-08:00
+NORTHERN LIGHTS SEEDS,Parkland Flower,Parkland Flower,5 seeds (Case of 12),358.80,29.9,In Stock,,,,304.98,53.82,2022-01-25T17:20:01-08:00
 ACAI BERRY GELATO PRE-ROLL,Decibel Cannabis Company,Dunn Cannabis,2 x 0.5 g (Case of 12),105.60,8.8,In Stock,,,,89.76,15.84,2022-01-25T15:07:25-08:00
 MINT CHOKO CHIP,Acreage Pharms,Tier 1,3.5 g (Case of 12),317.40,26.45,In Stock,,,,269.79,47.61,2022-01-22T17:54:51-08:00
 CRUNCH BERRI,Acreage Pharms,Tier 1,3.5 g (Case of 12),317.40,26.45,In Stock,,,,269.79,47.61,2022-01-19T14:14:20-08:00
@@ -852,7 +852,7 @@ THC SOLID MILK CHOCOLATE,Tilray Canada,CHOWIE WOWIE,1 x 16 g CHOCOLATE (Case of 
 SOLID THC/CBD MILK CHOCOLATE,Tilray Canada,CHOWIE WOWIE,1 x 16 g CHOCOLATE (Case of 12),31.20,2.6,In Stock,4.99,92,,26.52,4.68,2022-01-25T16:41:16-08:00
 PINEAPPLE MANGO GUMMIES,Tilray Canada,CHOWIE WOWIE,4 x 2.5 g Pineapple Mango (Case of 12),43.56,3.63,In Stock,4.99,37,,37.03,6.53,2022-01-25T16:42:56-08:00
 THC SOUR CHERRY GUMMIES,Tilray Canada,CHOWIE WOWIE,4 x 2.5 g Sour cherry (Case of 12),43.56,3.63,Out of Stock,4.99,37,,37.03,6.53,2022-01-25T13:21:01-08:00
-CBD DARK CHOCOLATE,Tilray Canada,CHOWIE WOWIE,1 x 16 g CHOCOLATE (Case of 12),31.20,2.6,In Stock,4.99,92,,26.52,4.68,2022-01-25T17:09:05-08:00
+CBD DARK CHOCOLATE,Tilray Canada,CHOWIE WOWIE,1 x 16 g CHOCOLATE (Case of 12),31.20,2.6,In Stock,4.99,92,,26.52,4.68,2022-01-25T17:20:00-08:00
 LAVENDER CHAMOMILE CBD TEA 3 PACK,Tilray Canada,Everie,3 x 3 g Lavender Chamomile (Case of 24),269.04,11.21,In Stock,14.99,34,,228.68,40.36,2022-01-25T14:09:30-08:00
 VANILLA ROOIBOS CBD TEA 3 PACK,Tilray Canada,Everie,3 x 3 g Vanilla Rooibos (Case of 24),269.04,11.21,In Stock,14.99,34,,228.68,40.36,2022-01-24T05:25:25-08:00
 PEACH GINGER GREEN CBD TEA (DECAF) 3 PK,Tilray Canada,Everie,3 x 3 g Peach Ginger (Case of 24),269.04,11.21,In Stock,14.99,34,,228.68,40.36,2022-01-25T12:17:25-08:00
