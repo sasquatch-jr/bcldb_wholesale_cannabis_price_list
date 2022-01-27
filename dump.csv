@@ -1,10 +1,10 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
-INDICA 30 + INFUSED PRE-ROLL,Aphria,Canaca,3 x 0.5 g  (Case of 24),360.00,15.0,In Stock,,,2,306.00,54.00,2022-01-27T01:40:40-08:00
+INDICA 30 + INFUSED PRE-ROLL,Aphria,Canaca,3 x 0.5 g  (Case of 24),360.00,15.0,Out of Stock,,,2,306.00,54.00,2022-01-27T02:05:40-08:00
 MAGIC MELON SEEDS,Anc,Humboldt,5 seeds (Case of 6),258.78,43.13,In Stock,,,,219.96,38.82,2022-01-26T17:59:00-08:00
 BUBBA KUSH SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,,,,170.03,30.01,2022-01-27T01:40:40-08:00
 AK-47 AUTO SEEDS,ANC,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,,,,170.03,30.01,2022-01-27T01:40:40-08:00
 STRAWNANA VAPE CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g fruit, candy (Case of 12)",311.88,25.99,In Stock,36.99,42,,265.10,46.78,2022-01-27T01:40:40-08:00
-MANDARIN COOKIES,Sitka Weed Works,Sitka Micro Collection,3.5 g (Case of 12),323.28,26.94,In Stock,34.99,30,,274.79,48.49,2022-01-27T01:40:40-08:00
+MANDARIN COOKIES,Sitka Weed Works,Sitka Micro Collection,3.5 g (Case of 12),323.28,26.94,Out of Stock,34.99,30,,274.79,48.49,2022-01-27T02:06:45-08:00
 WEST KOOTENAY HAWAIIAN HAMMER,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,,234.60,41.40,2022-01-27T01:40:40-08:00
 STONE GROVE ZKITTLEZ,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),295.32,24.61,In Stock,31.99,30,,251.02,44.30,2022-01-27T01:40:40-08:00
 BLACK KETTLE FARMS TRIANGLE KUSH,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),321.96,26.83,In Stock,34.99,30,,273.67,48.29,2022-01-27T01:40:40-08:00
@@ -13,9 +13,9 @@ GMO COOKIES,Peace Naturals,Spinach,3.5 g (Case of 12),231.48,19.29,In Stock,24.9
 BC ORGANIC TRAINWRECK,Rubicon Organics,Simply Bare,3.5 g (Case of 12),393.72,32.81,In Stock,,,,334.66,59.06,2022-01-26T17:52:10-08:00
 BC ORGANIC LIME MI'JITO,Rubicon Organics,Simply Bare,3.5 g (Case of 12),366.36,30.53,In Stock,,,,311.41,54.95,2022-01-26T17:59:00-08:00
 BLACK SUGAR ROSE PRE-ROLLS,WeedMD,Color Cannabis,10 x 0.35 g (Case of 18),238.86,13.27,In Stock,17.99,36,,203.03,35.83,2022-01-27T01:40:40-08:00
-COWICHAN KUSH,United Greeneries Ltd,18twelve: Reserve,3.5 g (Case of 12),336.72,28.06,In Stock,36.99,32,2,286.21,50.51,2022-01-27T01:40:40-08:00
+COWICHAN KUSH,United Greeneries Ltd,18twelve: Reserve,3.5 g (Case of 12),336.72,28.06,In Stock,36.99,32,2,286.21,50.51,2022-01-27T02:05:40-08:00
 WAKIZASHI PRE-ROLLS,United Greeneries Ltd,18twelve,2 x 0.5 g (Case of 12),103.56,8.63,In Stock,11.99,39,2,88.03,15.53,2022-01-27T01:40:40-08:00
-KING KUSH PRE-ROLLS,United Greeneries Ltd,18twelve,2 x 0.5 g (Case of 12),103.56,8.63,In Stock,11.99,39,2,88.03,15.53,2022-01-27T01:40:40-08:00
+KING KUSH PRE-ROLLS,United Greeneries Ltd,18twelve,2 x 0.5 g (Case of 12),103.56,8.63,In Stock,11.99,39,2,88.03,15.53,2022-01-27T02:05:40-08:00
 SUN COUNTY KUSH,Agro Greens Natural,Wildlife,3.5 g (Case of 12),230.88,19.24,In Stock,24.99,30,2,196.25,34.63,2022-01-27T01:40:40-08:00
 SOUR WATERMELON CHEWS,LYF Food Technologies,Mr. Chews,2 x 3.2 g Watermelon (Case of 12),54.48,4.54,In Stock,,,,46.31,8.17,2022-01-26T16:15:05-08:00
 RASPBERRY POMEGRANATE CHEWS,LYF Food Technologies,Mr. Chews,"2 x 3.2 g Raspberry, Pomegranate (Case of 12)",54.48,4.54,In Stock,,,,46.31,8.17,2022-01-26T10:20:50-08:00
@@ -34,7 +34,7 @@ GSC,Acreage Pharms,Peers,7 g (Case of 12),415.20,34.6,Out of Stock,44.99,30,2,35
 LEMON HAZE,Aurora,Daily Special,15 g (Case of 12),618.96,51.58,In Stock,66.99,30,2,526.12,92.84,2022-01-27T01:40:25-08:00
 LEMON HAZE,Aurora,Daily Special,7 g (Case of 12),342.00,28.5,In Stock,36.99,30,2,290.70,51.30,2022-01-27T01:40:25-08:00
 LEMON HAZE,Aurora,Daily Special,3.5 g (Case of 12),193.92,16.16,In Stock,21.99,36,2,164.83,29.09,2022-01-27T01:40:25-08:00
-ORGANIC ISLAND ROCKSTAR,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,2,224.50,39.62,2022-01-27T01:40:25-08:00
+ORGANIC ISLAND ROCKSTAR,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,2,224.50,39.62,2022-01-27T02:05:40-08:00
 BC ORGANIC WHITE RNTZ,Rubicon Organics,Simply Bare,3.5 g (Case of 12),366.36,30.53,In Stock,39.99,31,,311.41,54.95,2022-01-26T16:25:15-08:00
 SPACE FLIGHT SUPERSTAR #11,OGEN,OGEN,3.5 g (Case of 12),282.96,23.58,In Stock,,,,240.52,42.44,2022-01-26T20:02:05-08:00
 ACAI BERRY GELATO PRE-ROLLS,BZAM,Dunn Cannabis,2 x 0.5 g (Case of 12),119.40,9.95,In Stock,12.99,31,,101.49,17.91,2022-01-27T01:40:25-08:00
@@ -345,7 +345,7 @@ WEDDING MINT,Truro Cannabis,Truro Cannabis,3.5 g (Case of 12),345.00,28.75,In St
 MAGIC MELON CARTRIDGE,BZAM,BZAM,1 x 1 g  (Case of 12),302.28,25.19,In Stock,,,,256.94,45.34,2022-01-27T01:39:45-08:00
 BANANA DAZE CARTRIDGE,BZAM,BZAM,1 x 1 g  (Case of 12),302.28,25.19,In Stock,,,,256.94,45.34,2022-01-26T14:01:11-08:00
 STUFFED FRENCH TOAST PRE-ROLLS,Decibel Cannabis Company,QWEST,2 x 0.5 g (Case of 12),120.72,10.06,In Stock,12.99,29,,102.61,18.11,2022-01-27T01:39:45-08:00
-BC ORGANIC PURE CAKE SKUNK,Coast Mountain,COAST MOUNTAIN CANNABIS,3.5 g (Case of 12),410.16,34.18,In Stock,44.99,32,,348.64,61.52,2022-01-27T01:39:45-08:00
+BC ORGANIC PURE CAKE SKUNK,Coast Mountain,COAST MOUNTAIN CANNABIS,3.5 g (Case of 12),410.16,34.18,In Stock,44.99,32,,348.64,61.52,2022-01-27T02:05:40-08:00
 STUFFED FRENCH TOAST,Decibel Cannabis Company,QWEST,3.5 g (Case of 12),347.04,28.92,In Stock,36.99,28,,294.98,52.06,2022-01-26T14:01:11-08:00
 DRAGON FRUIT CHEW,Olli,Olli,2 x 10 g Dragon Fruit  (Case of 12),51.12,4.26,In Stock,,,,43.45,7.67,2022-01-27T01:39:45-08:00
 RASPBERRY GUMMIES,Olli,Ace Valley,2 x 10 g Raspberry (Case of 12),58.68,4.89,In Stock,6.99,43,,49.88,8.80,2022-01-26T01:39:10-08:00
