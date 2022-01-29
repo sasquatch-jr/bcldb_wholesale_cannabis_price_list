@@ -2,7 +2,7 @@ name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,orde
 MAGIC MELON SEEDS,Anc,Humboldt,5 seeds (Case of 6),258.78,43.13,In Stock,,,,219.96,38.82,2022-01-28T15:40:16-08:00
 BUBBA KUSH SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,,,,170.03,30.01,2022-01-28T09:16:10-08:00
 MANGO CBD 1:1 SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,Out of Stock,,,,170.03,30.01,2022-01-28T09:18:25-08:00
-AK-47 AUTO SEEDS,ANC,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,,,,170.03,30.01,2022-01-28T15:40:16-08:00
+AK-47 AUTO SEEDS,ANC,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,,,,170.03,30.01,2022-01-28T16:47:35-08:00
 STRAWNANA VAPE CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g fruit, candy (Case of 12)",311.88,25.99,In Stock,36.99,42,,265.10,46.78,2022-01-28T14:10:30-08:00
 WEST KOOTENAY HAWAIIAN HAMMER,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,,234.60,41.40,2022-01-28T01:44:50-08:00
 STONE GROVE ZKITTLEZ,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),295.32,24.61,In Stock,31.99,30,,251.02,44.30,2022-01-27T15:58:56-08:00
@@ -57,7 +57,7 @@ CHEMDAWG,Canopy Growth Corporation,Tweed,28 g (Case of 6),553.80,92.3,Out of Sto
 DOOBIES RESRVE BUBBA KUSH BLUNT PRE-ROLL,Cannacure,RAD Doobies,1 x 1 g (Case of 12),91.08,7.59,Out of Stock,9.99,32,2,77.42,13.66,2022-01-28T16:34:50-08:00
 BC ORGANIC BLUE DREAM PAX POD,Rubicon Organics,Simply Bare,1 x 0.5 g  (Case of 12),405.60,33.8,In Stock,,,,344.76,60.84,2022-01-26T16:49:01-08:00
 GOLDEN PINEAPPLE PRE-ROLLS,WEED ME,Weed Me,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,14.99,30,,234.60,41.40,2022-01-28T15:07:50-08:00
-SATIVA 20% PLUS PRE-ROLLS,WEED ME,Weed Me,10 x 0.35 g (Case of 12),220.80,18.4,In Stock,23.99,30,,187.68,33.12,2022-01-28T15:40:16-08:00
+SATIVA 20% PLUS PRE-ROLLS,WEED ME,Weed Me,10 x 0.35 g (Case of 12),220.80,18.4,In Stock,23.99,30,,187.68,33.12,2022-01-28T16:47:35-08:00
 SNOWBALL KUSH,BZAM,Table Top,3.5 g (Case of 12),220.80,18.4,In Stock,24.99,36,,187.68,33.12,2022-01-27T09:36:46-08:00
 REEFERMAN'S ROCKSTAR,Western Cannabis,Aaron's BC Bud,3.5 g (Case of 12),262.20,21.85,In Stock,26.99,24,,222.87,39.33,2022-01-27T14:37:36-08:00
 MK ULTRA,Western Cannabis,Aaron's BC Bud,3.5 g (Case of 12),262.20,21.85,In Stock,,,,222.87,39.33,2022-01-28T12:49:50-08:00
@@ -663,7 +663,7 @@ BLUE NOVA,Sundial,Sundial,3.5 g (Case of 12),230.88,19.24,In Stock,,,,196.25,34.
 BLACKBERRY LEMONADE 1:2 GUMMIES,Pure Sunfarms,White Rabbit OG,4 x 4.4 g Blackberry Lemonade (Case of 12),56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-01-28T01:42:50-08:00
 CRAFT BLUEBERRY GUMMIES,Pure Sunfarms,White Rabbit OG,4 x 4 g Blueberry (Case of 12),56.64,4.72,In Stock,,,,48.14,8.50,2022-01-28T13:29:26-08:00
 CRAFT SOUR PEACH GUMMIES,Pure Sunfarms,White Rabbit OG,4 x 4.5 g Peach (Case of 12),56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-01-28T13:29:26-08:00
-SOUR OG PRE-ROLL,Aphria,Broken Coast Cannabis,1 x 0.5 g (Case of 48),254.40,5.3,In Stock,6.99,32,,216.24,38.16,2022-01-28T15:04:50-08:00
+SOUR OG PRE-ROLL,Aphria,Broken Coast Cannabis,1 x 0.5 g (Case of 48),254.40,5.3,In Stock,6.99,32,,216.24,38.16,2022-01-28T16:47:35-08:00
 FROST MONSTER PRE-ROLL,Aphria,Broken Coast Cannabis,1 x 0.5 g (Case of 48),254.40,5.3,In Stock,6.99,32,,216.24,38.16,2022-01-27T13:35:41-08:00
 HEADSTASH PRE-ROLL,Aphria,Broken Coast Cannabis,1 x 0.5 g (Case of 48),254.40,5.3,In Stock,6.99,32,,216.24,38.16,2022-01-28T09:15:20-08:00
 TUTTI FRUTTI PRE-ROLL,WEED ME,WEED ME,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,14.99,30,,234.60,41.40,2022-01-28T15:40:16-08:00
@@ -1047,7 +1047,7 @@ THC HYBRID LANDRACE,THC BioMed,THC BioMed,7 g (Case of 12),295.56,24.63,In Stock
 RUXTON,Broken Coast Cannabis,Broken Coast Cannabis,7 g (Case of 12),652.05,54.34,Out of Stock,72.99,34,,554.24,97.81,2021-07-09T13:09:56-07:00
 RUXTON,Broken Coast Cannabis,Broken Coast Cannabis,3.5 g (Case of 12),338.16,28.18,In Stock,36.99,31,,287.44,50.72,2022-01-28T12:03:05-08:00
 RUXTON,Broken Coast Cannabis,Broken Coast Cannabis,1 g (Case of 24),207.00,8.62,Out of Stock,10.99,27,,175.95,31.05,2021-10-28T16:17:29-07:00
-DANCEHALL PRE-ROLL,Peace Naturals,Spinach,3 x 0.5 g (Case of 24),242.64,10.11,In Stock,,,,206.24,36.40,2022-01-28T15:40:16-08:00
+DANCEHALL PRE-ROLL,Peace Naturals,Spinach,3 x 0.5 g (Case of 24),242.64,10.11,In Stock,,,,206.24,36.40,2022-01-28T16:47:35-08:00
 DANCEHALL PRE-ROLL,Peace Naturals,Spinach,1 x 1g (Case of 24),173.52,7.23,Out of Stock,,,,147.49,26.03,2020-12-08T14:06:30-08:00
 REFLECT PRE-ROLL,Peace Naturals,Cove,1 x 1 g (Case of 24),178.56,7.44,Out of Stock,,,,151.78,26.78,2021-09-21T01:35:20-07:00
 REFLECT PRE-ROLL,Peace Naturals,Cove,3 x 0.5 g (Case of 24),248.40,10.35,In Stock,,,,211.14,37.26,2022-01-27T14:02:15-08:00
