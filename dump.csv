@@ -1,5 +1,5 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
-ORANGE TINGZ,Joint Venture Craft Cannabis,Pistol and Paris,3.5 g (Case of 12),368.04,30.67,In Stock,39.99,30,,312.83,55.21,2022-02-18T12:01:00-08:00
+ORANGE TINGZ,Joint Venture Craft Cannabis,Pistol and Paris,3.5 g (Case of 12),368.04,30.67,In Stock,39.99,30,,312.83,55.21,2022-02-18T12:48:00-08:00
 SUNDAE STRUDEL,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,In Stock,24.99,33,2,191.05,33.71,2022-02-18T12:10:55-08:00
 NITRO COOKIES,Joint Venture Craft Cannabis,Organnicraft,3.5 g (Case of 12),369.12,30.76,In Stock,39.99,30,,313.75,55.37,2022-02-18T12:34:40-08:00
 NITRO COOKIES,Joint Venture Craft Cannabis,Organnicraft,7 g (Case of 6),277.20,46.2,Out of Stock,64.99,41,2,235.62,41.58,2022-02-14T12:18:16-08:00
@@ -661,7 +661,7 @@ WILD STRAWBERRY SOFT CHEWS,Dynaleo,Sunshower,5 x 4.6 g Strawberry (Case of 12),5
 SOUR RASPBERRY 1:1 GUMMIES,Pure Sunfarms,Pure Sunfarms,4 x 4.4 g Raspberry (Case of 12),57.84,4.82,In Stock,6.99,45,,49.16,8.68,2022-02-18T10:09:55-08:00
 SOUR BLACK CHERRY THC GUMMIES,Pure Sunfarms,Pure Sunfarms,4 x 4.4 g Black Cherry (Case of 12),57.84,4.82,In Stock,6.99,45,,49.16,8.68,2022-02-18T10:09:55-08:00
 BC BLACK CHERRY,The Flowr Group,Flowr,3.5 g (Case of 24),590.88,24.62,In Stock,31.99,30,,502.25,88.63,2022-02-17T13:20:30-08:00
-WHITE WIDOW PRE-ROLL,Supreme,Hiway,1 x 0.5 g (Case of 24),78.72,3.28,In Stock,,,,66.91,11.81,2022-02-18T11:02:00-08:00
+WHITE WIDOW PRE-ROLL,Supreme,Hiway,1 x 0.5 g (Case of 24),78.72,3.28,In Stock,,,,66.91,11.81,2022-02-18T12:48:20-08:00
 WEDDING 510 THREAD CARTRIDGE,WEED ME,WEED ME,1 x 1 g Cake  (Case of 12),347.04,28.92,In Stock,,,,294.98,52.06,2022-02-18T09:58:31-08:00
 LEMON Z 510 THREAD CARTRIDGE,WEED ME,WEED ME,1 x 1 g Lemon (Case of 12),347.04,28.92,In Stock,,,,294.98,52.06,2022-02-18T09:58:30-08:00
 CHEM HINDU GLUE PRE-ROLLS,CStar Cannabis,Choice Growers Cannabis,5 x 0.5 g (Case of 12),103.68,8.64,In Stock,,,,88.13,15.55,2022-02-18T09:32:30-08:00
@@ -797,7 +797,7 @@ AROUSE THC-PLUS FORMULA POD,Dosecann,dosist,1 x 0.5 g  (Case of 12),279.60,23.3,
 BC ORGANIC SOUR COOKIES PRE-ROLL,Rubicon Organics,Simply Bare,3 x 0.5 g (Case of 24),402.72,16.78,In Stock,,,,342.31,60.41,2022-02-15T17:07:17-08:00
 SENSI STAR PRE-ROLL,Supreme,7ACRES,2 x 0.5 g (Case of 24),165.60,6.9,In Stock,,,,140.76,24.84,2022-02-17T16:47:46-08:00
 LIGHT YEAR THC SOFTGELS,iNaturally organic,Emprise Canada,30 capsules (Case of 6),158.64,26.44,In Stock,32.99,25,,134.84,23.80,2022-02-18T12:34:40-08:00
-WHITE WIDOW PRE-ROLL,Supreme,7ACRES,2 x 0.5 g (Case of 24),186.24,7.76,In Stock,10.99,42,,158.30,27.94,2022-02-18T10:15:55-08:00
+WHITE WIDOW PRE-ROLL,Supreme,7ACRES,2 x 0.5 g (Case of 24),186.24,7.76,In Stock,10.99,42,,158.30,27.94,2022-02-18T12:48:20-08:00
 KUSH MINTS,We Grow BC,QWEST RESERVE,3.5 g (Case of 12),393.36,32.78,In Stock,,,,334.36,59.00,2022-02-15T13:09:27-08:00
 MANGO,Tilray Canada,Canaca,3.5 g (Case of 24),461.76,19.24,In Stock,,,,392.50,69.26,2022-02-14T14:22:35-08:00
 MANGO,Tilray Canada,Canaca,15g (Case of 12),896.31,74.69,Out of Stock,,,,761.86,134.45,2020-07-13T23:52:32-07:00
