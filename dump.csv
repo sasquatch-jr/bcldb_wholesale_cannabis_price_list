@@ -94,8 +94,8 @@ SPARKLE,Embark,State B Beverages,1 x 355 ml Raspberry & Yuzu (Case of 12),73.08,
 CITRUS RUSH,BZAM,Snackbar,3.5 g (Case of 12),276.00,23.0,In Stock,,,,234.60,41.40,2022-02-14T13:02:25-08:00
 CBN 1:2 NIGHTTIME FORMULA,Medipharm Labs,MediPharm Labs,28.5 g (Case of 12),335.64,27.97,In Stock,36.99,32,2,285.29,50.35,2022-02-19T01:39:15-08:00
 CEMENT SHOES,Castle Rock Farms,BC Green,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2022-02-17T13:20:31-08:00
-BUBBA KUSH CLASSIC SODA,Embark,Keef,1 x 355 ml Root Beer (Case of 12),57.96,4.83,In Stock,6.99,45,,49.27,8.69,2022-02-19T01:39:25-08:00
-ORANGE KUSH CLASSIC SODA,Embark,Keef,1 x 355 ml Orange & citrus (Case of 12),57.96,4.83,In Stock,6.99,45,,49.27,8.69,2022-02-19T01:39:25-08:00
+BUBBA KUSH CLASSIC SODA,Embark,Keef,1 x 355 ml Root Beer (Case of 12),57.96,4.83,Out of Stock,6.99,45,,49.27,8.69,2022-02-19T01:44:45-08:00
+ORANGE KUSH CLASSIC SODA,Embark,Keef,1 x 355 ml Orange & citrus (Case of 12),57.96,4.83,Out of Stock,6.99,45,,49.27,8.69,2022-02-19T01:46:35-08:00
 DESSERTS & SWEETS,Westleaf Labs,General Admission,3.5 g (Case of 12),227.76,18.98,In Stock,24.99,32,,193.60,34.16,2022-02-19T01:39:25-08:00
 KUSH & COOKIES,Westleaf Labs,General Admission,3.5 g (Case of 12),227.76,18.98,In Stock,24.99,32,2,193.60,34.16,2022-02-19T01:39:25-08:00
 OREGON GOLDEN GOAT LIVE RESIN CARTRIDGE,Sundial,Top Leaf,"1 x 0.5 g pine, floral, citrus (Case of 12)",294.00,24.5,In Stock,34.99,43,,249.90,44.10,2022-02-17T22:41:36-08:00
@@ -417,7 +417,7 @@ STRAWBERRY FIG BALSAMIC CHEWS,Pure Sunfarms,White Rabbit OG,4 x 4.4 g Strawberry
 BLACKBERRY MERLOT 1:4 CHEWS,Pure Sunfarms,White Rabbit OG,"4 x 4.05 g Blackberry, cherry, Merlot (Case of 12)",56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-02-18T22:43:56-08:00
 RASPBERRY WHITE CHOCOLATE 1:1 CHEWS,Pure Sunfarms,White Rabbit OG,4 x 4.05 g Raspberry White Chocolate (Case of 12),56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-02-19T01:38:35-08:00
 ORGANIC SOUR COOKIES,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,,224.50,39.62,2022-02-19T01:38:35-08:00
-BANDWAGON INDICA,Rubicon Organics,Homestead,28 g (Case of 6),450.78,75.13,In Stock,114.99,53,3,383.16,67.62,2022-02-19T01:37:45-08:00
+BANDWAGON INDICA,Rubicon Organics,Homestead,28 g (Case of 6),450.78,75.13,In Stock,114.99,53,3,383.16,67.62,2022-02-19T01:44:45-08:00
 ROYAL DANKNESS,DBA Canopy Growth,Tweed,28 g (Case of 6),565.80,94.3,In Stock,124.99,33,,480.93,84.87,2022-02-19T01:38:35-08:00
 GUAVA CHEMDAWG LIVE RESIN CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g Gas, Fruit, Tropical (Case of 12)",461.88,38.49,In Stock,,,,392.60,69.28,2022-02-18T09:58:30-08:00
 SWEET VENOM,Dykstra Greenhouses,Dykstra Greenhouses,3.5 g (Case of 12),217.32,18.11,In Stock,24.99,38,,184.72,32.60,2022-02-19T01:38:35-08:00
