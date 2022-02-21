@@ -61,7 +61,7 @@ CBD DROPS 200,HEXO,HEXO,14.25 g (Case of 12),587.88,48.99,In Stock,64.99,33,,499
 ANIMAL COOKIES,Apothecary Botanicals,The BC Bud Co,3.5 g (Case of 12),365.76,30.48,In Stock,,,,310.90,54.86,2022-02-20T11:37:51-08:00
 THC+CBG CHILL BLISS GUMMIES,Peace Naturals,Spinach FEELZ,"2 x 5 g Pineapple, Starfruit (Case of 12)",50.76,4.23,In Stock,5.99,42,,43.15,7.61,2022-02-20T21:26:20-08:00
 OG CHEMDAWG LIVE RESIN CARTRIDGE,Aurora,San Rafael 71,1 x 0.5 g  (Case of 12),277.08,23.09,In Stock,,,,235.52,41.56,2022-02-17T09:43:41-08:00
-KUSH COOKIES,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,In Stock,24.99,33,,191.05,33.71,2022-02-20T21:26:20-08:00
+KUSH COOKIES,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,In Stock,24.99,33,,191.05,33.71,2022-02-20T21:36:50-08:00
 KUSH COOKIES,Greentone,3Saints,28 g (Case of 6),629.64,104.94,Out of Stock,139.99,33,3,535.19,94.45,2022-02-16T09:59:42-08:00
 MOON ROCK KIEF,Canngroup Development,Okanagan,1 x 1.5 g  (Case of 10),230.00,23.0,Out of Stock,,,,195.50,34.50,2022-02-20T01:41:15-08:00
 PINEAPPLE CHUNK,BZAM,-ness,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,5,234.60,41.40,2022-02-20T19:59:50-08:00
@@ -122,7 +122,7 @@ LAVENDER CHAMOMILE CBD 3:1 CART,Motif Labs,Florensese,1 x 1 g  (Case of 12),227.
 CBN DOSI X PURPLE PUNCH VAPE CARTRIDGE,Medipharm Labs,Northbound Cannabis,"1 x 1 g Earthy, Citrus (Case of 12)",311.88,25.99,Out of Stock,36.99,42,2,265.10,46.78,2022-02-19T01:39:21-08:00
 SNOWBALL KUSH,BZAM,Table Top,3.5 g (Case of 12),220.80,18.4,In Stock,24.99,36,,187.68,33.12,2022-02-15T16:07:31-08:00
 REEFERMAN'S ROCKSTAR,Western Cannabis,Aaron's BC Bud,3.5 g (Case of 12),262.20,21.85,In Stock,29.99,37,,222.87,39.33,2022-02-18T16:44:05-08:00
-MK ULTRA,Western Cannabis,Aaron's BC Bud,3.5 g (Case of 12),262.20,21.85,In Stock,,,,222.87,39.33,2022-02-20T11:54:45-08:00
+MK ULTRA,Western Cannabis,Aaron's BC Bud,3.5 g (Case of 12),262.20,21.85,In Stock,,,,222.87,39.33,2022-02-20T21:36:50-08:00
 VANILLA VAPE CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g Vanilla (Case of 6),157.50,26.25,In Stock,36.99,41,,133.88,23.62,2022-02-20T21:08:50-08:00
 RAINBOW KUSH LIVE RESIN CARTRIDGE,Voyage Cannabis,RAD,"1 x 1 g Sweet, Citrus, Diesel (Case of 12)",377.88,31.49,In Stock,44.99,43,,321.20,56.68,2022-02-20T01:39:25-08:00
 WATERMELON OG DISTILLATE VAPE,Voyage Cannabis,RAD,"1 x 1 g Floral, Sweet, Citrus (Case of 12)",275.88,22.99,In Stock,,,,234.50,41.38,2022-02-20T18:57:45-08:00
@@ -149,12 +149,12 @@ BLACK TUNA,Joint Venture Craft Cannabis,Pistol and Paris,3.5 g (Case of 12),276.
 GREASY PINK,Joint Venture Craft Cannabis,Bud Coast,3.5 g (Case of 12),321.96,26.83,In Stock,34.99,30,,273.67,48.29,2022-02-20T19:18:50-08:00
 PINEAPPLE BUDS HAWAIIAN PINEAPPLE,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),341.52,28.46,In Stock,36.99,30,,290.29,51.23,2022-02-20T18:31:52-08:00
 K-SMORZ,BZAM,-ness,3.5 g (Case of 12),276.00,23.0,In Stock,26.99,17,,234.60,41.40,2022-02-17T22:41:36-08:00
-APRICOT JELLY VAPE CARTRIDGE,BZAM,-ness,1 x 1 g  (Case of 12),302.28,25.19,In Stock,,,,256.94,45.34,2022-02-20T20:30:45-08:00
+APRICOT JELLY VAPE CARTRIDGE,BZAM,-ness,1 x 1 g  (Case of 12),302.28,25.19,In Stock,,,,256.94,45.34,2022-02-20T21:36:50-08:00
 NINJA FRUIT VAPE CARTRIDGE,BZAM,-ness,1 x 0.5 g  (Case of 12),168.00,14.0,In Stock,,,,142.80,25.20,2022-02-20T19:37:40-08:00
 MAGIC MELON CARTRIDGE,BZAM,BZAM,1 x 0.5 g  (Case of 12),168.00,14.0,In Stock,,,,142.80,25.20,2022-02-20T18:31:51-08:00
 CBD VAPE 650 CARTRIDGE,Pure Extracts,LoFi,1 x 1 g  (Case of 12),293.52,24.46,In Stock,,,,249.49,44.03,2022-02-20T14:55:50-08:00
 TROPICAL RUSH CHEWS,Supreme,Tweed Xpress,5 x 5 g  (Case of 12),67.44,5.62,In Stock,,,,57.32,10.12,2022-02-20T14:44:35-08:00
-LIMON SPLASHDOWN,DBA Canopy Growth,Deep Space,"1 x 222 ml Lemon, Lime (Case of 12)",57.72,4.81,In Stock,6.99,45,,49.06,8.66,2022-02-20T19:46:45-08:00
+LIMON SPLASHDOWN,DBA Canopy Growth,Deep Space,"1 x 222 ml Lemon, Lime (Case of 12)",57.72,4.81,In Stock,6.99,45,,49.06,8.66,2022-02-20T21:36:50-08:00
 KING PACK REDEES WAPPA PRE-ROLLS,Redecan,Redecan,70 x 0.4 g (Case of 6),552.00,92.0,In Stock,129.99,41,,469.20,82.80,2022-02-20T21:08:51-08:00
 CRYSTAL BALL KUSH PRE-ROLLS,WEED ME,Weed Me,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,14.99,30,,234.60,41.40,2022-02-20T18:31:53-08:00
 91K PRE-ROLL,DBA Canopy Growth,Doja,3 x 0.5 g (Case of 24),288.24,12.01,In Stock,15.99,33,2,245.00,43.24,2022-02-19T16:54:56-08:00
@@ -189,7 +189,7 @@ REDEES WAPPA PRE-ROLLS,Redecan,Redecan,10 x 0.4 g (Case of 30),465.90,15.53,In S
 REDEES COLD CREEK KUSH PRE-ROLL,Redecan,Redecan,10 x 0.4 g (Case of 30),465.90,15.53,In Stock,21.99,42,,396.01,69.88,2022-02-20T21:08:51-08:00
 CHIMP MINTS PRE-ROLLS,Sitka Weed Works,Sitka Micro Collection,3 x 0.5 g (Case of 24),267.84,11.16,In Stock,14.99,34,,227.66,40.18,2022-02-20T18:31:53-08:00
 GAS TANK,Highland Grow,Highland Grow,3.5 g (Case of 12),369.00,30.75,In Stock,39.99,30,,313.65,55.35,2022-02-20T18:57:45-08:00
-FUNKMASTER J'S PRE-ROLLS,Organigram,Shred,14 x 0.5 g (Case of 6),182.88,30.48,In Stock,41.99,38,,155.45,27.43,2022-02-20T20:23:25-08:00
+FUNKMASTER J'S PRE-ROLLS,Organigram,Shred,14 x 0.5 g (Case of 6),182.88,30.48,In Stock,41.99,38,,155.45,27.43,2022-02-20T21:36:50-08:00
 DIAMOND BREATH,Highland Grow,Highland Grow,3.5 g (Case of 12),369.00,30.75,In Stock,39.99,30,,313.65,55.35,2022-02-20T18:31:51-08:00
 LIVE RESIN TERP SAUCE,Thrive Cannabis,Greybeard,1 x 0.5 g  (Case of 12),228.96,19.08,In Stock,,,,194.62,34.34,2022-02-20T20:41:01-08:00
 LIVE RESIN AFGHANI DRIFTER CARTRIDGE,Thrive Cannabis,Greybeard,1 x 0.5 g  (Case of 12),255.72,21.31,In Stock,,,,217.36,38.36,2022-02-20T19:47:10-08:00
@@ -233,7 +233,7 @@ BC HIGHBRID,THC BioMed,THC BioMed,7 g (Case of 12),367.08,30.59,Out of Stock,39.
 DISSOLVABLE THC POWDER,TGOD,Ripple by TGOD,1 x 0.45 g  (Case of 24),84.96,3.54,In Stock,,,,72.22,12.74,2022-02-20T10:24:45-08:00
 BC ORGANIC GELATO CAKE,Rubicon Organics,Simply Bare,3.5 g (Case of 12),366.36,30.53,In Stock,39.99,31,,311.41,54.95,2022-02-15T13:55:45-08:00
 BLOOD ORANGE 1:5 SOFT CHEWS,Dynaleo,Sunshower,10 x 4.6 g Blood Orange (Case of 12),50.28,4.19,In Stock,5.99,43,,42.74,7.54,2022-02-20T19:37:40-08:00
-FIZZ MANGO DRINK,DBA Canopy Growth,Tweed,1 x 355 ml Mango (Case of 12),44.40,3.7,In Stock,4.99,35,,37.74,6.66,2022-02-20T11:31:45-08:00
+FIZZ MANGO DRINK,DBA Canopy Growth,Tweed,1 x 355 ml Mango (Case of 12),44.40,3.7,In Stock,4.99,35,,37.74,6.66,2022-02-20T21:36:50-08:00
 FIZZ WATERMELON DRINK,DBA Canopy Growth,Tweed,1 x 355 ml Watermelon (Case of 12),44.40,3.7,In Stock,4.99,35,,37.74,6.66,2022-02-20T13:26:11-08:00
 OKANAGAN GROWN COLD CREEK KUSH,DBA Canopy Growth,DOJA,3.5 g (Case of 12),332.88,27.74,In Stock,36.99,33,,282.95,49.93,2022-02-18T01:43:20-08:00
 INDIE PALS DRINK,HEXO,Bedfellows,1 x 355 ml  (Case of 12),53.76,4.48,In Stock,,,,45.70,8.06,2022-02-20T20:41:00-08:00
@@ -250,7 +250,7 @@ ROUTE 66,CannTrust,Liiv,7 g (Case of 12),369.48,30.79,In Stock,39.99,30,,314.06,
 SOMETHING ABOUT LARRY,CannTrust,Liiv,3.5 g (Case of 12),201.12,16.76,In Stock,21.99,31,,170.95,30.17,2022-02-20T19:46:45-08:00
 SOMETHING ABOUT LARRY,CannTrust,Liiv,7 g (Case of 12),369.48,30.79,Out of Stock,39.99,30,,314.06,55.42,2022-02-17T08:21:36-08:00
 KUSH PUNCH PRE-ROLL,Tantalus Labs,Tantalus Labs,7 x 0.5 g (Case of 12),199.32,16.61,In Stock,,,,169.42,29.90,2022-02-20T19:47:10-08:00
-SMOKER FARMS KETTLE RIVER KUSH,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),230.04,19.17,In Stock,,,,195.53,34.51,2022-02-19T22:46:35-08:00
+SMOKER FARMS KETTLE RIVER KUSH,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),230.04,19.17,In Stock,,,,195.53,34.51,2022-02-20T21:36:50-08:00
 VENOM OG LIVE ROSIN,Apothecary,EarthWolf Farms,1 x 1 g  (Case of 6),188.16,31.36,Out of Stock,,,,159.94,28.22,2022-02-20T11:52:11-08:00
 WATERMELON MINT BEVERAGE,Emerald Health Therapeutics,HYTN,"1 x 355 ml Watermelon, mint (Case of 12)",49.68,4.14,In Stock,5.99,45,,42.23,7.45,2022-02-20T19:28:00-08:00
 COOMBS KANDY,Western Cannabis,Aaron's BC Bud,3.5 g (Case of 12),262.20,21.85,In Stock,29.99,37,,222.87,39.33,2022-02-13T13:07:40-08:00
@@ -274,7 +274,7 @@ PINK WEDDING CAKE COOKIES,Choice Growers,Choice Growers Cannabis,28 g (Case of 6
 TROPICAL BLENDZ,Dycar Pharmaceuticals,Chuz,4 x 4.5 g Pineapple and Lime (Case of 12),50.40,4.2,In Stock,5.99,43,,42.84,7.56,2022-02-18T10:09:55-08:00
 BERRY BLENDZ,Dycar Pharmaceuticals,Chuz,"4 x 4.5 g Strawberry and Wildberry (Grape, Blueberry, And St (Case of 12)",50.40,4.2,In Stock,,,,42.84,7.56,2022-02-19T01:38:50-08:00
 BAKERS DOZEN,Castle Rock Farms,BC Green,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2022-02-17T16:22:50-08:00
-WATERMELON GUSHERS PRE-ROLL,Castle Rock Farms,BC Green,1 x 0.5 g (Case of 18),69.12,3.84,In Stock,4.99,30,,58.75,10.37,2022-02-20T21:26:20-08:00
+WATERMELON GUSHERS PRE-ROLL,Castle Rock Farms,BC Green,1 x 0.5 g (Case of 18),69.12,3.84,In Stock,4.99,30,,58.75,10.37,2022-02-20T21:36:50-08:00
 SCOTTI'S CAKE PRE-ROLL,Castle Rock Farms,Castle Rock Farms,1 x 0.5 g (Case of 18),69.12,3.84,In Stock,4.99,30,,58.75,10.37,2022-02-20T20:09:55-08:00
 STANKASAURUS PRE-ROLL,Castle Rock Farms,Castle Rock Farms,1 x 0.5 g (Case of 18),69.12,3.84,In Stock,4.99,30,,58.75,10.37,2022-02-20T19:47:10-08:00
 WEDDING POOP PRE-ROLL,Castle Rock Farms,Castle Rock Farms,1 x 0.5 g (Case of 18),69.12,3.84,In Stock,4.99,30,,58.75,10.37,2022-02-20T21:26:20-08:00
@@ -290,7 +290,7 @@ NORTHERN WIDOW SHATTER,Westleaf Labs,Pressed by Qwest,1 x 1 g  (Case of 12),359.
 PINK OG SHATTER,Westleaf Labs,Pressed by Qwest,1 x 1 g  (Case of 12),359.52,29.96,In Stock,,,,305.59,53.93,2022-02-20T18:55:10-08:00
 ORANGE COOKIE OCTANE,Agripharm,Melt,3.5 g (Case of 12),295.20,24.6,In Stock,,,,250.92,44.28,2022-02-20T11:52:10-08:00
 BLACK MAMBA,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,In Stock,24.99,33,,191.05,33.71,2022-02-18T16:19:46-08:00
-DARKEST SIDE OF THE MOON PRE-ROLL,WEED ME,Weed Me,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,14.99,30,,234.60,41.40,2022-02-20T21:26:20-08:00
+DARKEST SIDE OF THE MOON PRE-ROLL,WEED ME,Weed Me,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,14.99,30,,234.60,41.40,2022-02-20T21:36:50-08:00
 BLUE IGUANA,WEED ME,WEED ME,3.5 g (Case of 12),295.20,24.6,In Stock,31.99,30,,250.92,44.28,2022-02-20T18:31:51-08:00
 DO-SI-DOS,WEED ME,WEED ME,3.5 g (Case of 12),295.20,24.6,In Stock,31.99,30,,250.92,44.28,2022-02-20T11:52:10-08:00
 PURPLE CLEMENTINE,Trichome JWC,WAGNERS,3.5 g (Case of 12),230.88,19.24,In Stock,24.99,30,,196.25,34.63,2022-02-20T20:41:00-08:00
@@ -302,12 +302,12 @@ FRUIT LIVE ROSIN,Agripharm,BIG,"1 x 1 g Cherry, Vanilla (Case of 6)",258.78,43.1
 LEMON HAZE - VAPE PEN,HEXO,HEXO,"1 x 0.25 g Sweet, Citrus, Pine, Woody (Case of 12)",125.64,10.47,In Stock,14.99,43,,106.79,18.85,2022-02-20T20:41:01-08:00
 DURBAN - VAPE PEN,HEXO,HEXO,"1 x 0.25 g Fruity, Herbal, Minty (Case of 12)",125.64,10.47,Out of Stock,,,,106.79,18.85,2022-02-18T01:43:55-08:00
 LEE ANNE WOMAC,Alberta Craft Cannabis,BLKMKT,3.5 g (Case of 12),402.96,33.58,In Stock,42.99,28,,342.52,60.44,2022-02-17T15:54:33-08:00
-MACFLURRY PRE-ROLL,Alberta Craft Cannabis,BLKMKT,1 x 1 g (Case of 12),106.56,8.88,In Stock,10.97,24,,90.58,15.98,2022-02-20T20:09:56-08:00
+MACFLURRY PRE-ROLL,Alberta Craft Cannabis,BLKMKT,1 x 1 g (Case of 12),106.56,8.88,In Stock,10.97,24,,90.58,15.98,2022-02-20T21:36:50-08:00
 PAPAYA PRE-ROLL,Supreme,7ACRES,2 x 0.5 g (Case of 24),182.16,7.59,In Stock,8.97,18,,154.84,27.32,2022-02-20T14:48:20-08:00
 ORGANIC BC ROCKSTAR,Whistler Cannabis Co.,Whistler Cannabis Co.,3.5 g (Case of 12),397.44,33.12,In Stock,42.99,30,,337.82,59.62,2022-02-20T11:37:50-08:00
 SCREWHEAD PRE-ROLL,WEED ME,Weed Me,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,14.99,30,,234.60,41.40,2022-02-17T10:16:10-08:00
 BRANDY WINE,WEED ME,WEED ME,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,,,,234.60,41.40,2022-02-18T20:22:25-08:00
-EDISON JOLTS LOZENGES,Organigram,Edison Jolts,10 x 1.18 g Mint (Case of 12),136.68,11.39,In Stock,14.99,32,,116.18,20.50,2022-02-20T19:47:10-08:00
+EDISON JOLTS LOZENGES,Organigram,Edison Jolts,10 x 1.18 g Mint (Case of 12),136.68,11.39,In Stock,14.99,32,,116.18,20.50,2022-02-20T21:36:50-08:00
 CHOCOLATE CHIP COOKIE,Aurora,Drift,1 x 22 g Chocolate (Case of 24),134.16,5.59,In Stock,7.99,43,,114.04,20.12,2022-02-20T15:47:55-08:00
 LEMON MARGY,Organigram,Big Bag O' Buds,28 g (Case of 6),524.40,87.4,In Stock,119.99,37,,445.74,78.66,2022-02-20T20:41:01-08:00
 ORGANIC ROMULAN,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,,224.50,39.62,2022-02-20T21:08:50-08:00
@@ -337,7 +337,7 @@ ANIMAL MINTS PRE-ROLL,Kolab Project Inc,Back Forty,10 x 0.35 g (Case of 24),321.
 WEDDING PIE PRE-ROLL,Kolab Project Inc,Back Forty,10 x 0.35 g (Case of 24),321.60,13.4,In Stock,17.99,34,,273.36,48.24,2022-02-20T20:41:00-08:00
 ANIMAL MINTS,Kolab Project Inc,Back Forty,3.5 g (Case of 12),158.76,13.23,In Stock,19.99,51,,134.95,23.81,2022-02-20T09:30:25-08:00
 ANIMAL MINTS,Kolab Project Inc,Back Forty,28 g (Case of 6),504.00,84.0,In Stock,109.99,31,,428.40,75.60,2022-02-19T11:46:40-08:00
-WEDDING PIE,Kolab Project Inc,Back Forty,3.5 g (Case of 12),158.76,13.23,In Stock,19.99,51,,134.95,23.81,2022-02-20T21:26:20-08:00
+WEDDING PIE,Kolab Project Inc,Back Forty,3.5 g (Case of 12),158.76,13.23,In Stock,19.99,51,,134.95,23.81,2022-02-20T21:36:50-08:00
 WEDDING PIE,Kolab Project Inc,Back Forty,28 g (Case of 6),504.00,84.0,In Stock,109.99,31,,428.40,75.60,2022-02-20T20:09:56-08:00
 LIVE TERP GUAVA X BC BLUEBERRY 510 CART,Valens Agritech,Verse Concentrates,1 x 1 g  (Case of 12),383.40,31.95,In Stock,,,,325.89,57.51,2022-02-20T17:33:50-08:00
 STRAWBERRY MILKSHAKE WHITE CHOCOLATE,Dosecann,Foray,1 x 10 g Strawberry Milkshake (Case of 12),30.36,2.53,In Stock,3.99,58,,25.81,4.55,2022-02-20T21:08:50-08:00
@@ -378,7 +378,7 @@ JET FUEL GELATO,Pure Sunfarms,Pure Sunfarms,3.5 g (Case of 12),202.92,16.91,In S
 JET FUEL GELATO,Pure Sunfarms,Pure Sunfarms,28 g (Case of 6),552.00,92.0,In Stock,119.99,30,2,469.20,82.80,2022-02-20T19:37:40-08:00
 ORANGE MONKEY,CannTrust,Liiv,3.5 g (Case of 12),201.12,16.76,In Stock,21.99,31,,170.95,30.17,2022-02-20T15:16:00-08:00
 ORANGE MONKEY,CannTrust,Liiv,7 g (Case of 12),369.48,30.79,In Stock,39.99,30,,314.06,55.42,2022-02-20T20:41:01-08:00
-I.C.C,Organigram,Big Bag O' Buds,28 g (Case of 6),524.40,87.4,In Stock,119.99,37,,445.74,78.66,2022-02-20T19:57:45-08:00
+I.C.C,Organigram,Big Bag O' Buds,28 g (Case of 6),524.40,87.4,In Stock,119.99,37,,445.74,78.66,2022-02-20T21:36:50-08:00
 FEATHER LIMELIGHT CARTRIDGE,Organigram,Edison,"1 x 1 g Lime, Citrus (Case of 6)",182.88,30.48,In Stock,42.99,41,,155.45,27.43,2022-02-20T11:46:15-08:00
 KUSH MINTS,Broken Coast Cannabis,Broken Coast Cannabis,3.5 g (Case of 12),338.16,28.18,In Stock,,,,287.44,50.72,2022-02-20T18:31:51-08:00
 WEDDING POOP,Castle Rock Farms,BC Green,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2022-02-20T21:08:50-08:00
@@ -390,9 +390,9 @@ DISTILLED 30:30 OIL,Nextleaf Labs,Glacial Gold,28.5 g (Case of 6),207.00,34.5,In
 DISTILLED THC 30 OIL,Nextleaf Labs,Glacial Gold,28.5 g (Case of 6),141.48,23.58,In Stock,31.99,36,,120.26,21.22,2022-02-20T11:37:51-08:00
 SESSION THC VAPE - BERRY LEMONADE,Nextleaf Labs,Glacial Gold,1 x 1 g Berry Lemonade (Case of 6),142.14,23.69,In Stock,34.99,48,,120.82,21.32,2022-02-20T21:08:52-08:00
 SESSION THC VAPE - GLACIAL FRESH MINT,Nextleaf Labs,Glacial Gold,1 x 1 g Glacial Fresh Mint (Case of 6),142.14,23.69,In Stock,34.99,48,,120.82,21.32,2022-02-20T20:23:25-08:00
-ANYTIME 1:1 VAPE - BERRY LEMONADE,Nextleaf Labs,Glacial Gold,1 x 1 g Berry Lemonade (Case of 6),114.54,19.09,In Stock,27.99,47,,97.36,17.18,2022-02-20T20:23:25-08:00
+ANYTIME 1:1 VAPE - BERRY LEMONADE,Nextleaf Labs,Glacial Gold,1 x 1 g Berry Lemonade (Case of 6),114.54,19.09,In Stock,27.99,47,,97.36,17.18,2022-02-20T21:36:50-08:00
 ANYTIME 1:1 VAPE - GLACIAL FRESH MINT,Nextleaf Labs,Glacial Gold,1 x 1 g Glacial Fresh Mint (Case of 6),114.54,19.09,In Stock,,,,97.36,17.18,2022-02-20T21:08:51-08:00
-OG COLA,Peak Processing Solutions,Sweet Justice,1 x 355 ml Cola (Case of 12),50.40,4.2,In Stock,5.99,43,,42.84,7.56,2022-02-20T21:26:20-08:00
+OG COLA,Peak Processing Solutions,Sweet Justice,1 x 355 ml Cola (Case of 12),50.40,4.2,In Stock,5.99,43,,42.84,7.56,2022-02-20T21:36:50-08:00
 DIMENSION CBD SOFTGELS,iNaturally Organic,Emprise Canada,30 capsules (Case of 6),167.70,27.95,In Stock,39.99,43,,142.54,25.15,2022-02-20T19:59:50-08:00
 232 INDICA BLACK CHERRY PUNCH LIVE CARTG,Dosecann,Kolab Project,1 x 0.5 g  (Case of 12),335.88,27.99,In Stock,,,,285.50,50.38,2022-02-20T13:29:26-08:00
 RAINBOW SHERB VAPE CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g fruit, candy (Case of 12)",311.88,25.99,In Stock,36.99,42,,265.10,46.78,2022-02-20T14:26:25-08:00
@@ -410,12 +410,12 @@ BLACK CHERRY PUNCH HIGH THC CARTRIDGE,Pure Sunfarms,Pure Sunfarms,1 x 1 g  (Case
 HIGH THC VAPE CARTRIDGE,Pure Sunfarms,Pure Sunfarms,1 x 1 g  (Case of 12),292.92,24.41,In Stock,,,,248.98,43.94,2022-02-20T20:23:25-08:00
 BANANA KUSH VAPE CARTRIDGE,Aphria,Good Supply,"1 x 1 g Banana, citrus, earthy (Case of 12)",314.52,26.21,In Stock,,,,267.34,47.18,2022-02-20T19:57:45-08:00
 THC KISS ORANGE GUMMIES,THC BioMed,THC Kiss,4 x 3.5 g Orange (Case of 12),33.48,2.79,In Stock,3.99,43,,28.46,5.02,2022-02-20T18:31:51-08:00
-SOUR CHERRY PUNCH GUMMIES,Organigram,SHRED'EMS,"2 x 4.5 g Cherry, fruity, sour (Case of 12)",33.48,2.79,In Stock,3.99,43,,28.46,5.02,2022-02-20T20:23:26-08:00
+SOUR CHERRY PUNCH GUMMIES,Organigram,SHRED'EMS,"2 x 4.5 g Cherry, fruity, sour (Case of 12)",33.48,2.79,In Stock,3.99,43,,28.46,5.02,2022-02-20T21:36:50-08:00
 SOUR MEGAMELON GUMMIES,Organigram,SHRED'EMS,2 x 4.5 g  (Case of 12),33.48,2.79,Out of Stock,,,,28.46,5.02,2022-02-18T09:53:01-08:00
 WILD BERRY BLAZE GUMMIES,Organigram,SHRED'EMS,"4 x 4.5 g berry, sweet (Case of 12)",33.48,2.79,Out of Stock,,,,28.46,5.02,2022-02-18T01:43:45-08:00
 STRAWBERRY FIG BALSAMIC CHEWS,Pure Sunfarms,White Rabbit OG,4 x 4.4 g Strawberry Fig Balsamic (Case of 12),56.64,4.72,In Stock,,,,48.14,8.50,2022-02-20T19:37:40-08:00
-BLACKBERRY MERLOT 1:4 CHEWS,Pure Sunfarms,White Rabbit OG,"4 x 4.05 g Blackberry, cherry, Merlot (Case of 12)",56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-02-20T20:41:00-08:00
-RASPBERRY WHITE CHOCOLATE 1:1 CHEWS,Pure Sunfarms,White Rabbit OG,4 x 4.05 g Raspberry White Chocolate (Case of 12),56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-02-20T21:08:51-08:00
+BLACKBERRY MERLOT 1:4 CHEWS,Pure Sunfarms,White Rabbit OG,"4 x 4.05 g Blackberry, cherry, Merlot (Case of 12)",56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-02-20T21:36:50-08:00
+RASPBERRY WHITE CHOCOLATE 1:1 CHEWS,Pure Sunfarms,White Rabbit OG,4 x 4.05 g Raspberry White Chocolate (Case of 12),56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-02-20T21:36:50-08:00
 ORGANIC SOUR COOKIES,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,,224.50,39.62,2022-02-20T18:31:52-08:00
 BANDWAGON INDICA,Rubicon Organics,Homestead,28 g (Case of 6),450.78,75.13,Out of Stock,114.99,53,3,383.16,67.62,2022-02-20T01:41:16-08:00
 ROYAL DANKNESS,DBA Canopy Growth,Tweed,28 g (Case of 6),565.80,94.3,In Stock,124.99,33,,480.93,84.87,2022-02-20T18:31:50-08:00
@@ -430,7 +430,7 @@ WEDDING MINT,Truro Cannabis,Truro Cannabis,3.5 g (Case of 12),345.00,28.75,In St
 MAGIC MELON CARTRIDGE,BZAM,BZAM,1 x 1 g  (Case of 12),302.28,25.19,In Stock,,,,256.94,45.34,2022-02-20T12:57:31-08:00
 BANANA DAZE CARTRIDGE,BZAM,BZAM,1 x 1 g  (Case of 12),302.28,25.19,In Stock,,,,256.94,45.34,2022-02-20T19:47:10-08:00
 STUFFED FRENCH TOAST PRE-ROLLS,Decibel Cannabis Company,QWEST,2 x 0.5 g (Case of 12),110.76,9.23,In Stock,11.99,30,,94.15,16.61,2022-02-20T21:08:50-08:00
-ULTRA SOUR,Organigram,Big Bag O' Buds,28 g (Case of 6),524.40,87.4,In Stock,,,,445.74,78.66,2022-02-20T21:26:20-08:00
+ULTRA SOUR,Organigram,Big Bag O' Buds,28 g (Case of 6),524.40,87.4,In Stock,,,,445.74,78.66,2022-02-20T21:36:50-08:00
 STUFFED FRENCH TOAST,Decibel Cannabis Company,QWEST,3.5 g (Case of 12),341.40,28.45,In Stock,39.99,41,,290.19,51.21,2022-02-18T10:54:05-08:00
 DRAGON FRUIT CHEW,Olli,Olli,2 x 10 g Dragon Fruit  (Case of 12),51.12,4.26,In Stock,,,,43.45,7.67,2022-02-20T14:49:00-08:00
 RASPBERRY GUMMIES,Olli,Ace Valley,2 x 10 g Raspberry (Case of 12),58.68,4.89,In Stock,6.99,43,,49.88,8.80,2022-02-19T16:20:20-08:00
@@ -449,8 +449,8 @@ BLACK TUNA,Potanicals Green Growers,Benchmark,3.5 g (Case of 12),230.88,19.24,In
 GREEN GELATO,Potanicals Green Growers,Benchmark,3.5 g (Case of 12),230.88,19.24,In Stock,,,,196.25,34.63,2022-02-18T09:36:50-08:00
 FLORIDA CITRUS KUSH,Neptune Wellness,Mood Ring,3.5 g (Case of 12),365.76,30.48,In Stock,39.99,31,,310.90,54.86,2022-02-19T01:38:26-08:00
 PEPPERMINT 75 CBD OIL,Peace Naturals,Peace Naturals,25 ml (Case of 12),462.96,38.58,In Stock,49.99,30,,393.52,69.44,2022-02-17T16:51:33-08:00
-PEACH ORANGE 1:1 SOURZ,Peace Naturals,Spinach,5 x 5 g Peach Orange 1:1 (Case of 12),48.48,4.04,In Stock,5.99,48,,41.21,7.27,2022-02-20T21:08:51-08:00
-BLUE RASPBERRY WATERMELON INDICA SOURZ,Peace Naturals,Spinach,5 x 5 g  Blue Raspberry Watermelon (Case of 12),48.48,4.04,In Stock,5.99,48,,41.21,7.27,2022-02-20T21:26:20-08:00
+PEACH ORANGE 1:1 SOURZ,Peace Naturals,Spinach,5 x 5 g Peach Orange 1:1 (Case of 12),48.48,4.04,In Stock,5.99,48,,41.21,7.27,2022-02-20T21:36:50-08:00
+BLUE RASPBERRY WATERMELON INDICA SOURZ,Peace Naturals,Spinach,5 x 5 g  Blue Raspberry Watermelon (Case of 12),48.48,4.04,In Stock,5.99,48,,41.21,7.27,2022-02-20T21:36:50-08:00
 STRAWBERRY MANGO SATIVA SOURZ,Peace Naturals,Spinach,5 x 5 g Strawberry Mango (Case of 12),48.48,4.04,In Stock,5.99,48,,41.21,7.27,2022-02-20T21:26:21-08:00
 GARLISSIMO #5 HYBRID THCA DIAMONDS,Radient Technologies,TRX,1 x 0.5 g  (Case of 6),169.08,28.18,In Stock,,,,143.72,25.36,2022-02-20T13:29:25-08:00
 HOUSE SHATTER,radient,TRX,1 x 0.5 g  (Case of 6),126.54,21.09,In Stock,,,,107.56,18.98,2022-02-20T20:30:45-08:00
@@ -458,7 +458,7 @@ TROPICAL TUNAAAA DABS,Radient Technologies,TRX,1 x 1 g  (Case of 6),167.88,27.98
 THC DISTIL MANGO LEMONADE VAPE CARTRIDGE,Radient Technologies,TRX,1 x 1 g  (Case of 6),167.70,27.95,In Stock,,,,142.54,25.15,2022-02-20T07:50:25-08:00
 THC INDICA DISTILL TIGER KING VAPE CARTG,Radient Technologies,TRX,1 x 1 g  (Case of 6),167.70,27.95,Out of Stock,,,,142.54,25.15,2022-02-19T13:12:05-08:00
 MOLLO 5 LIME,HEXO,HEXO,1 x 355 ml Lime (Case of 12),40.32,3.36,In Stock,4.99,49,,34.27,6.05,2022-02-20T21:08:51-08:00
-LITTLE VICTORY SPARKLING LEMONADE CAN,HEXO,HEXO,1 x 355 ml Lemonade (Case of 12),33.24,2.77,In Stock,,,,28.25,4.99,2022-02-20T13:27:45-08:00
+LITTLE VICTORY SPARKLING LEMONADE CAN,HEXO,HEXO,1 x 355 ml Lemonade (Case of 12),33.24,2.77,In Stock,,,,28.25,4.99,2022-02-20T21:36:50-08:00
 D BUBBA SHATTER,CannMart,Phyto Extractions,1 x 1 g  (Case of 12),335.88,27.99,In Stock,,,,285.50,50.38,2022-02-20T20:30:45-08:00
 PINK KUSH SHATTER,CannMart,Phyto Extractions,1 x 1 g  (Case of 12),335.88,27.99,In Stock,,,,285.50,50.38,2022-02-20T15:16:00-08:00
 SUNSET SHERBET,Broken Coast Cannabis,Broken Coast Cannabis,3.5 g (Case of 12),338.16,28.18,In Stock,36.99,31,,287.44,50.72,2022-02-20T19:46:46-08:00
@@ -467,7 +467,7 @@ TANGERINE COOKIES,Galaxy Brands,WINK,3.5 g (Case of 12),277.08,23.09,In Stock,,,
 APRICOT KUSH GEMS & JUICE,Westleaf Labs,Pressed by Qwest,1 x 0.5 g  (Case of 12),233.76,19.48,In Stock,,,,198.70,35.06,2022-02-18T15:14:40-08:00
 MACSLURRY,BZAM,BZAM,3.5 g (Case of 12),294.36,24.53,In Stock,,,,250.21,44.15,2022-02-20T20:09:56-08:00
 GARLIC BREATH,BZAM,Table Top,28 g (Case of 6),460.08,76.68,In Stock,,,,391.07,69.01,2022-02-20T16:10:35-08:00
-MANGO HAZE PRE-ROLLS,WeedMD,Color Cannabis,10 x 0.35 g (Case of 18),238.86,13.27,In Stock,17.99,36,,203.03,35.83,2022-02-20T21:26:20-08:00
+MANGO HAZE PRE-ROLLS,WeedMD,Color Cannabis,10 x 0.35 g (Case of 18),238.86,13.27,In Stock,17.99,36,,203.03,35.83,2022-02-20T21:36:50-08:00
 GRAPEFRUIT CBD SELTZER WATER,Tilray Canada,Everie,1 x 355 ml  (Case of 12),44.64,3.72,In Stock,,,,37.94,6.70,2022-02-18T20:11:50-08:00
 PINK BUBBA PRE-ROLLS,Trichome JWC,WAGNERS,3 x 0.5 g (Case of 12),117.36,9.78,In Stock,12.99,33,,99.76,17.60,2022-02-20T11:54:45-08:00
 PINK BUBBA,Trichome JWC,WAGNERS,3.5 g (Case of 12),230.88,19.24,In Stock,24.99,30,,196.25,34.63,2022-02-20T19:37:40-08:00
@@ -506,14 +506,14 @@ MIXTAPE SPECIAL,Heritage,RAD Reefer 20%+,3.5 g (Case of 12),200.52,16.71,In Stoc
 MIXTAPE SPECIAL,Heritage,RAD Reefer 20%+,7 g (Case of 12),364.56,30.38,In Stock,39.99,32,,309.88,54.68,2022-02-19T17:06:25-08:00
 CLEAR CBD 100 OIL,Motif Labs,Floresense,19 g (Case of 12),323.88,26.99,In Stock,36.99,37,,275.30,48.58,2022-02-20T19:18:50-08:00
 KOOTENAY FRUIT LIVE RESIN VAPE CARTRIDGE,Westleaf Labs,General Admission,1 x 0.95 g  (Case of 12),461.88,38.49,In Stock,,,,392.60,69.28,2022-02-20T19:18:51-08:00
-BC GOD BUD,Valens Agritech,Verse Originals,28 g (Case of 6),364.26,60.71,In Stock,99.99,65,,309.62,54.64,2022-02-20T21:08:51-08:00
+BC GOD BUD,Valens Agritech,Verse Originals,28 g (Case of 6),364.26,60.71,In Stock,99.99,65,,309.62,54.64,2022-02-20T21:36:50-08:00
 ICE CREAM SANDWICH CHOCOLATE,LYF Food Technologies,Vacay,2 x 5 g Ice Cream Sandwich  (Case of 12),30.12,2.51,In Stock,,,,25.60,4.52,2022-02-20T20:23:25-08:00
 SCORE! TOFFEE CRUNCH CHOCOLATE,LYF Food Technologies,Vacay,2 x 5 g Toffee Crunch (Case of 12),33.48,2.79,In Stock,3.99,43,,28.46,5.02,2022-02-20T19:47:10-08:00
 ACAI BERRY BURST CHOCOLATE FRUIT CHEW,LYF Food Technologies,Vacay,5 x 5 g Acai Berry Burst  (Case of 12),67.08,5.59,In Stock,,,,57.02,10.06,2022-02-18T20:36:10-08:00
 VERY CHERRY CHOCOLATE FRUIT CHEWS,LYF Food Technologies,Vacay,5 x 5 g Very Cherry (Case of 12),67.08,5.59,Out of Stock,,,,57.02,10.06,2022-02-18T20:36:10-08:00
 NSA DARK CHOCOLATE ALMOND 1:1,LYF Food Technologies,LYF,2 x 6 g NSA Dark Chocolate Almond 1:1 (Case of 12),42.00,3.5,In Stock,,,,35.70,6.30,2022-02-18T14:38:05-08:00
 RASPBERRY ICED TEA,Canopy Growth Corporation,Tweed,1 x 355 ml Raspberry (Case of 12),44.40,3.7,In Stock,,,,37.74,6.66,2022-02-20T11:46:15-08:00
-LEMON ICED TEA,Canopy Growth Corporation,Tweed,1 x 355 ml Lemon (Case of 12),44.40,3.7,In Stock,,,,37.74,6.66,2022-02-20T20:30:45-08:00
+LEMON ICED TEA,Canopy Growth Corporation,Tweed,1 x 355 ml Lemon (Case of 12),44.40,3.7,In Stock,,,,37.74,6.66,2022-02-20T21:36:50-08:00
 HIGH THC OIL,Neptune Wellness,Mood Ring,27.5 g (Case of 12),310.56,25.88,In Stock,34.99,35,,263.98,46.58,2022-02-20T20:09:56-08:00
 CAKE CRASHER,IslandCanna,FRESH,3.5 g (Case of 12),395.40,32.95,In Stock,,,,336.09,59.31,2022-02-15T16:07:31-08:00
 ALIEN COOKIES,IslandCanna,FRESH,3.5 g (Case of 12),395.40,32.95,In Stock,,,,336.09,59.31,2022-02-15T17:07:17-08:00
@@ -561,7 +561,7 @@ CHOCOLATE CAKE SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,
 RAW! 510 CARTRIDGE,Aphria,B!NGO,"1 x 1 g Cannabis, pungent (Case of 12)",372.48,31.04,In Stock,,,,316.61,55.87,2022-02-07T21:18:40-08:00
 LIVE TERP KILLER KUSH CARTRIDGE,Valens Agritech,Verse Concentrates,1 x 1 g Sweet Citrus (Case of 12),383.40,31.95,In Stock,46.99,47,,325.89,57.51,2022-02-20T19:57:46-08:00
 VERSE CONCENTRATES HASH,Valens Agritech,Verse Concentrates,1 x 2 g  (Case of 12),238.80,19.9,In Stock,,,,202.98,35.82,2022-02-19T16:54:55-08:00
-AMP PRE-ROLL,Valens Agritech,Verse Originals,1 x 1 g (Case of 24),110.40,4.6,In Stock,5.99,30,,93.84,16.56,2022-02-20T20:23:25-08:00
+AMP PRE-ROLL,Valens Agritech,Verse Originals,1 x 1 g (Case of 24),110.40,4.6,In Stock,5.99,30,,93.84,16.56,2022-02-20T21:36:51-08:00
 HERER HAZE FULL SPECTRUM 510 CARTRIDGE,Mera Cannabis Corp,Countryside Cannabis,1 x 1 g  (Case of 12),321.36,26.78,In Stock,,,,273.16,48.20,2022-02-20T18:31:51-08:00
 OUTLAW LIVE ROSIN,Mera Cannabis Corp,Avana,1 x 0.5 g  (Case of 12),215.28,17.94,In Stock,,,,182.99,32.29,2022-02-18T22:05:05-08:00
 PEACH NECTAR CBD GUMMIES,Pure Sunfarms,Pure Sunfarms,10 x 4.4 g Peach (Case of 12),157.20,13.1,In Stock,18.99,45,,133.62,23.58,2022-02-20T21:08:51-08:00
@@ -576,7 +576,7 @@ PHENOME OG SPIKE PRE-ROLLS,Decibel Cannabis Company,QWEST,2 x 0.5 g (Case of 12)
 ORGANNICRAFT CHERRY PUNCH PRE-ROLL,Agro Greens Natural,Shelter,2 x 0.5 g (Case of 24),242.88,10.12,In Stock,,,,206.45,36.43,2022-02-20T19:46:46-08:00
 ALL-NATURAL LIP BALM,Tidal Health Solutions,Tidal,1 x 5 g  (Case of 12),67.08,5.59,In Stock,,,,57.02,10.06,2022-02-17T09:52:45-08:00
 BC ORGANIC PLATINUM PUNCH PRE-ROLLS,Rubicon Organics,Simply Bare,3 x 0.5 g (Case of 24),439.20,18.3,In Stock,,,1,373.32,65.88,2022-02-16T13:55:17-08:00
-GRAPEFRUIT SPARKLING WATER,DBA Canopy Growth,Houseplant,4 x 355 ml Grapefruit (Case of 6),64.80,10.8,In Stock,,,,55.08,9.72,2022-02-20T20:41:00-08:00
+GRAPEFRUIT SPARKLING WATER,DBA Canopy Growth,Houseplant,4 x 355 ml Grapefruit (Case of 6),64.80,10.8,In Stock,,,,55.08,9.72,2022-02-20T21:36:50-08:00
 ULTRA SOUR,WeedMD,Saturday,28 g (Case of 4),377.20,94.3,In Stock,119.99,27,,320.62,56.58,2022-02-20T20:09:56-08:00
 GHOST TRAIN HAZE PRE-ROLL,WeedMD,Color Cannabis,10 x 0.35 g (Case of 18),238.86,13.27,In Stock,17.99,36,,203.03,35.83,2022-02-20T21:26:20-08:00
 NO. 427 RETROGRADE,TerrAscend,Haven St. Premium Cannabis,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,,234.60,41.40,2022-02-20T12:57:25-08:00
@@ -707,7 +707,7 @@ SUNSET PEACH 510 CARTRIDGE,Valens Agritech,Verse Originals,1 x 1 g  (Case of 12)
 SUMMER BERRY 510 CARTRIDGE,Valens Agritech,Verse Originals,1 x 1 g  (Case of 12),358.56,29.88,In Stock,,,,304.78,53.78,2022-02-20T19:46:45-08:00
 BLUE NOVA,Sundial,Sundial,3.5 g (Case of 12),230.88,19.24,In Stock,,,,196.25,34.63,2022-02-20T11:40:01-08:00
 BLACKBERRY LEMONADE 1:2 GUMMIES,Pure Sunfarms,White Rabbit OG,4 x 4.4 g Blackberry Lemonade (Case of 12),56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-02-20T19:59:50-08:00
-CRAFT BLUEBERRY GUMMIES,Pure Sunfarms,White Rabbit OG,4 x 4 g Blueberry (Case of 12),56.64,4.72,In Stock,,,,48.14,8.50,2022-02-20T19:46:45-08:00
+CRAFT BLUEBERRY GUMMIES,Pure Sunfarms,White Rabbit OG,4 x 4 g Blueberry (Case of 12),56.64,4.72,In Stock,,,,48.14,8.50,2022-02-20T21:36:50-08:00
 CRAFT SOUR PEACH GUMMIES,Pure Sunfarms,White Rabbit OG,4 x 4.5 g Peach (Case of 12),56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-02-20T19:59:50-08:00
 FROST MONSTER PRE-ROLL,Aphria,Broken Coast Cannabis,1 x 0.5 g (Case of 48),254.40,5.3,In Stock,5.97,13,,216.24,38.16,2022-02-17T16:43:40-08:00
 HEADSTASH PRE-ROLL,Aphria,Broken Coast Cannabis,1 x 0.5 g (Case of 48),254.40,5.3,In Stock,5.97,13,,216.24,38.16,2022-02-18T13:36:10-08:00
@@ -720,15 +720,15 @@ PIPE DREAM,Broken Coast Cannabis,Broken Coast Cannabis,28 g (Case of 2),304.00,1
 GINGER + LIME,Canopy Growth Corporation,QUATREAU,1 x 355 ml Ginger & Lime (Case of 12),32.40,2.7,In Stock,,,,27.54,4.86,2022-02-18T16:05:50-08:00
 BLUEBERRY + ACAI,Canopy Growth Corporation,QUATREAU,1 x 355 ml Blueberry & Acai (Case of 12),32.40,2.7,In Stock,3.99,48,,27.54,4.86,2022-02-20T20:09:55-08:00
 ICE MILK CHOCOLATE,Indiva,Bhang,1 x 10 g Milk Chocolate and Peppermint (Case of 48),132.00,2.75,In Stock,,,,112.20,19.80,2022-02-18T12:34:41-08:00
-KUSH MINT HYBRID CARTRIDGE,Dosecann,Back Forty,1 x 1 g mint (Case of 12),314.52,26.21,In Stock,37.99,45,,267.34,47.18,2022-02-20T20:23:25-08:00
+KUSH MINT HYBRID CARTRIDGE,Dosecann,Back Forty,1 x 1 g mint (Case of 12),314.52,26.21,In Stock,37.99,45,,267.34,47.18,2022-02-20T21:36:50-08:00
 PURE SUN CBD FULL SPECTRUM 510 CARTRIDGE,Pure Sunfarms,Pure Sunfarms,1 x 0.5 g  (Case of 12),196.80,16.4,In Stock,,,,167.28,29.52,2022-02-20T09:17:50-08:00
 PENNYWISE 1:1 FULL SPECTRUM CARTRIDGE,Pure Sunfarms,Pure Sunfarms,1 x 0.5 g  (Case of 12),196.80,16.4,In Stock,,,,167.28,29.52,2022-02-20T19:18:51-08:00
-SAGE N' SOUR FLOWER,TGOD,MTL CANNABIS,3.5 g (Case of 12),269.16,22.43,In Stock,29.99,34,,228.79,40.37,2022-02-20T21:08:50-08:00
+SAGE N' SOUR FLOWER,TGOD,MTL CANNABIS,3.5 g (Case of 12),269.16,22.43,In Stock,29.99,34,,228.79,40.37,2022-02-20T21:36:50-08:00
 SAGE N' SOUR FLOWER,TGOD,MTL CANNABIS,14 g (Case of 6),455.94,75.99,In Stock,99.99,32,,387.55,68.39,2022-02-20T18:31:51-08:00
 GREEN CRUSH 510 CARTRIDGE,Delshen Therapeutics,48North,1 x 0.5 g  (Case of 12),235.80,19.65,In Stock,,,,200.43,35.37,2022-02-10T09:38:50-08:00
 STRAWBERRY CBD 10:1 SOUR GUMMIES,Indiva,WANA,2 x 4.5 g Strawberry  (Case of 24),117.36,4.89,In Stock,,,,99.76,17.60,2022-02-20T17:33:50-08:00
 POMEGRANATE BLUEBERRY ACAI 5:1 SOUR GUMM,Indiva,WANA,2 x 4.5 g Berry (Case of 24),117.36,4.89,Out of Stock,6.99,43,,99.76,17.60,2022-02-19T09:18:55-08:00
-BLUEBERRY INDICA SOUR GUMMIES,Indiva,WANA,2 x 4.5 g Blueberry (Case of 24),117.36,4.89,In Stock,6.99,43,,99.76,17.60,2022-02-20T21:26:20-08:00
+BLUEBERRY INDICA SOUR GUMMIES,Indiva,WANA,2 x 4.5 g Blueberry (Case of 24),117.36,4.89,In Stock,6.99,43,,99.76,17.60,2022-02-20T21:36:50-08:00
 JAPANESE CITRUS YUZU 2:1 SOUR GUMMIES,Indiva,WANA,2 x 4.5 g Citrus (Case of 24),117.36,4.89,In Stock,6.99,43,,99.76,17.60,2022-02-20T21:08:50-08:00
 BIOMED HYBRID,THC BioMed,THC BioMed,15 g (Case of 6),262.20,43.7,In Stock,59.99,37,,222.87,39.33,2022-02-20T13:29:25-08:00
 BIOMED HYBRID,THC BioMed,THC BioMed,28 g (Case of 6),455.76,75.96,Out of Stock,99.99,32,,387.40,68.36,2021-12-09T23:37:35-08:00
@@ -740,8 +740,8 @@ SATIVA 510 VAPE CARTRIDGE,Sundial,Grasslands,1 x 1 g  (Case of 12),377.88,31.49,
 GOLD ISLAND SWEET SKUNK PRE-ROLL,Tilray Canada,Marley Natural,3 x 0.5 g (Case of 48),575.52,11.99,In Stock,15.99,33,,489.19,86.33,2022-02-20T21:08:51-08:00
 INDICA ROSIN,Sundial,Grasslands,1 x 1 g  (Case of 12),461.88,38.49,In Stock,,,,392.60,69.28,2021-12-10T12:45:30-08:00
 SATIVA ROSIN,Sundial,Grasslands,1 x 1 g  (Case of 12),461.88,38.49,In Stock,,,,392.60,69.28,2022-02-01T12:10:50-08:00
-TROPIC THUNDER J'S PRE-ROLLS,Organigram,Shred,14 x 0.5 g (Case of 6),182.88,30.48,In Stock,41.99,38,,155.45,27.43,2022-02-20T21:08:51-08:00
-TROPIC GSC SATIVA VAPE CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g Orange, cirtus, sweet (Case of 12)",311.88,25.99,In Stock,,,,265.10,46.78,2022-02-20T19:57:45-08:00
+TROPIC THUNDER J'S PRE-ROLLS,Organigram,Shred,14 x 0.5 g (Case of 6),182.88,30.48,In Stock,41.99,38,,155.45,27.43,2022-02-20T21:36:50-08:00
+TROPIC GSC SATIVA VAPE CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g Orange, cirtus, sweet (Case of 12)",311.88,25.99,In Stock,,,,265.10,46.78,2022-02-20T21:36:50-08:00
 BERRY G33 INDICA VAPE CARTRIDGE,Westleaf Labs,General Admission,1 x 0.95 g Sweet berry (Case of 12),311.88,25.99,In Stock,,,,265.10,46.78,2022-02-20T19:57:45-08:00
 HIGH CBD OIL,Neptune Wellness,Mood Ring,28.4 g (Case of 12),359.88,29.99,In Stock,39.99,33,,305.90,53.98,2022-02-20T19:46:46-08:00
 SAPPHIRE,Delta 9,Delta 9,1 x 2 g  (Case of 12),138.00,11.5,In Stock,,,,117.30,20.70,2022-02-20T18:31:52-08:00
@@ -749,7 +749,7 @@ STARWALKER KUSH,Aphria,Good Supply,28 g (Case of 12),911.88,75.99,In Stock,99.99
 STARWALKER KUSH,Aphria,Good Supply,3.5 g (Case of 24),401.04,16.71,Out of Stock,21.99,32,,340.88,60.16,2021-12-10T11:21:53-08:00
 PAX ERA PRO,Pax Labs,PAX Labs,Black (Case of 5),277.75,55.55,In Stock,89.99,62,,236.09,41.66,2022-02-17T01:37:45-08:00
 15:15 BALANCE CBD OIL,Voyage Cannabis,purefarma,30 ml (Case of 12),335.76,27.98,In Stock,36.99,32,,285.40,50.36,2022-02-20T21:08:50-08:00
-HEMPLIXIR 30 CBD OIL,Voyage Cannabis,purefarma,30 ml (Case of 12),335.76,27.98,In Stock,36.99,32,,285.40,50.36,2022-02-20T14:48:20-08:00
+HEMPLIXIR 30 CBD OIL,Voyage Cannabis,purefarma,30 ml (Case of 12),335.76,27.98,In Stock,36.99,32,,285.40,50.36,2022-02-20T21:36:50-08:00
 NIGHTFALL INDICA HONEY OIL DROPS,Voyage Cannabis,Pura Vida,30 ml (Case of 12),226.56,18.88,In Stock,24.99,32,,192.58,33.98,2022-02-20T21:08:50-08:00
 DAYBREAK SATIVA HONEY OIL DROPS,Voyage Cannabis,Pura Vida,30 ml (Case of 12),226.56,18.88,In Stock,24.99,32,,192.58,33.98,2022-02-20T20:09:55-08:00
 OG CHEMDAWG LIVE RESIN,Aurora,San Rafael '71,1 g (Case of 12),434.76,36.23,In Stock,,,,369.55,65.21,2022-02-20T21:08:51-08:00
@@ -775,7 +775,7 @@ ICE CREAM CAKE PRE-ROLL,WEED ME,WEED ME,3 x 0.5 g (Case of 24),276.00,11.5,In St
 GRANDPA'S STASH PRE-ROLL,WEED ME,WEED ME,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,,,,234.60,41.40,2022-02-18T23:43:50-08:00
 PEDRO'S SWEET SATIVA PRE-ROLLS,WeedMD,Color Cannabis,2 x 0.35 g (Case of 48),217.92,4.54,In Stock,5.99,32,,185.23,32.69,2022-02-20T14:44:35-08:00
 PEDRO'S SWEET SATIVA PRE-ROLLS,WeedMD,Color Cannabis,10 x 0.35 g (Case of 18),238.86,13.27,In Stock,17.99,36,,203.03,35.83,2022-02-20T21:26:20-08:00
-BASECAMP CBD ICED TEA,Valens Agritech,A1 Cannabis,1 x 355 ml CBD Iced tea (Case of 12),41.64,3.47,In Stock,,,,35.39,6.25,2022-02-20T19:57:45-08:00
+BASECAMP CBD ICED TEA,Valens Agritech,A1 Cannabis,1 x 355 ml CBD Iced tea (Case of 12),41.64,3.47,In Stock,,,,35.39,6.25,2022-02-20T21:36:50-08:00
 SUMMIT 10 LEMONADE ICED TEA,Valens Agritech,A1 Cannabis,1 x 355 ml Lemon iced tea (Case of 12),59.64,4.97,In Stock,6.99,41,,50.69,8.95,2022-02-20T21:26:20-08:00
 CBD EARTH VAPE CARTRIDGE,Voyage Cannabis,Purefarma,1 x 0.5 g  (Case of 12),227.28,18.94,In Stock,,,,193.19,34.09,2022-02-20T19:57:45-08:00
 SATIVA SUN CARTRIDGE,Voyage Cannabis,Purefarma,1 x 0.5 g  (Case of 12),227.28,18.94,Out of Stock,,,,193.19,34.09,2021-11-03T15:05:35-07:00
@@ -807,7 +807,7 @@ INDICA,Zenabis Ltd,Re-Up,28 g (Case of 6),440.16,73.36,In Stock,,,,374.14,66.02,
 FLICKER BUDS,Organigram,Trailblazer,15 g (Case of 6),286.38,47.73,In Stock,64.99,36,,243.42,42.96,2022-02-20T19:57:45-08:00
 SPARK BUDS,Organigram,Trailblazer,15 g (Case of 6),286.38,47.73,In Stock,64.99,36,,243.42,42.96,2022-02-20T13:29:26-08:00
 WATERMELON HYBRID SOUR GUMMIES,Indiva,WANA,2 x 4.5 g Watermelon (Case of 24),117.36,4.89,In Stock,6.99,43,,99.76,17.60,2022-02-20T21:08:51-08:00
-MANGO SATIVA SOUR GUMMIES,Indiva,WANA,2 x 4.5 g Mango (Case of 24),117.36,4.89,In Stock,6.99,43,,99.76,17.60,2022-02-20T21:26:20-08:00
+MANGO SATIVA SOUR GUMMIES,Indiva,WANA,2 x 4.5 g Mango (Case of 24),117.36,4.89,In Stock,6.99,43,,99.76,17.60,2022-02-20T21:36:50-08:00
 HIWAY HASH,Supreme,Blissco,1 x 2 g  (Case of 12),248.40,20.7,In Stock,,,,211.14,37.26,2022-02-20T09:07:30-08:00
 CARAMEL CHOCOLATE 1:1,Indiva,Bhang,1 x 10 g Caramel (Case of 48),132.00,2.75,In Stock,3.99,45,,112.20,19.80,2022-02-20T19:59:50-08:00
 OS.RESERVE SATIVA BLEND,HEXO,HEXO,28 g (Case of 12),800.76,66.73,In Stock,99.99,50,,680.65,120.11,2022-02-20T19:59:51-08:00
@@ -817,9 +817,9 @@ OS.RESERVE SATIVA BLEND,HEXO,HEXO,3.5 g (Case of 24),458.16,19.09,Out of Stock,2
 TROPIC LEMON 510 CARTRIDGE,Valens Agritech,Verse Originals,1 x 0.3 g Citrus (Case of 12),111.96,9.33,In Stock,10.97,18,,95.17,16.79,2022-02-16T22:07:05-08:00
 TROPIC LEMON 510 CARTRIDGE,Valens Agritech,Verse Originals,1 x 1 g Citrus (Case of 12),322.68,26.89,In Stock,39.99,49,,274.28,48.40,2022-02-20T19:46:46-08:00
 SINALOA GOLD,Delta 9,Delta 9,3.5 g (Case of 24),338.16,14.09,In Stock,,,,287.44,50.72,2022-02-20T20:41:01-08:00
-HOUSE OF TERPENES LIMONENE SPARKLG TONIC,HEXO,HEXO,1 x 355 ml Limonene & Sparkling Tonic (Case of 12),48.12,4.01,In Stock,,,,40.90,7.22,2022-02-20T21:26:20-08:00
+HOUSE OF TERPENES LIMONENE SPARKLG TONIC,HEXO,HEXO,1 x 355 ml Limonene & Sparkling Tonic (Case of 12),48.12,4.01,In Stock,,,,40.90,7.22,2022-02-20T21:36:50-08:00
 GAELIC FIRE,Highland Grow,Highland Grow,3.5 g (Case of 12),379.08,31.59,In Stock,39.99,27,,322.22,56.86,2022-02-17T09:43:45-08:00
-GAELIC FIRE,Highland Grow,Highland Grow,14 g (Case of 6),553.80,92.3,In Stock,119.99,30,2,470.73,83.07,2022-02-20T18:31:51-08:00
+GAELIC FIRE,Highland Grow,Highland Grow,14 g (Case of 6),553.80,92.3,In Stock,119.99,30,2,470.73,83.07,2022-02-20T21:36:50-08:00
 BC ORGANIC BLUE DREAM PRE-ROLL,Rubicon Organics,Simply Bare,3 x 0.5 g (Case of 24),402.72,16.78,In Stock,21.99,31,,342.31,60.41,2022-02-20T19:57:45-08:00
 BC ORGANIC SFV OG KUSH PRE-ROLL,Rubicon Organics,Simply Bare,3 x 0.5 g (Case of 24),402.72,16.78,In Stock,,,,342.31,60.41,2022-02-20T17:33:50-08:00
 BC ORGANIC SFV OG KUSH,Rubicon Organics,Simply Bare,3.5 g (Case of 12),393.72,32.81,In Stock,,,,334.66,59.06,2022-02-17T08:45:50-08:00
@@ -865,7 +865,7 @@ HEADBAND PRE-ROLL,Pure Sunfarms,Pure Sunfarms,3 x 0.5 g (Case of 24),176.64,7.36
 CBD 25 REGULAR FORMULA,Medipharm Labs,MediPharm Labs,20 ml (Case of 12),220.80,18.4,Out of Stock,18.97,3,,187.68,33.12,2021-07-15T01:37:00-07:00
 CBD 25 REGULAR FORMULA,Medipharm Labs,MediPharm Labs,28.5 g (Case of 12),259.08,21.59,In Stock,27.99,30,,220.22,38.86,2022-02-18T01:43:21-08:00
 SATIVA,Pure Sunfarms,Pure Sunfarms,28 g (Case of 6),442.14,73.69,In Stock,,,,375.82,66.32,2022-02-20T19:18:51-08:00
-SATIVA,Pure Sunfarms,Pure Sunfarms,14 g (Case of 6),258.78,43.13,In Stock,,,,219.96,38.82,2022-02-20T20:23:25-08:00
+SATIVA,Pure Sunfarms,Pure Sunfarms,14 g (Case of 6),258.78,43.13,In Stock,,,,219.96,38.82,2022-02-20T21:36:50-08:00
 YAWN DROPS,HEXO,VERYVELL,1 x 30 g  (Case of 12),295.20,24.6,Out of Stock,,,,250.92,44.28,2022-02-17T10:57:40-08:00
 JACK HAZE PRE-ROLL,Supreme,7ACRES,2 x 0.5 g (Case of 24),200.16,8.34,In Stock,10.99,32,,170.14,30.02,2022-02-20T21:26:20-08:00
 PACIFIC OG PRE-ROLL,Tantalus Labs,Tantalus Labs,3 x 0.5 g (Case of 24),251.76,10.49,In Stock,13.99,33,,214.00,37.76,2022-02-20T19:47:10-08:00
@@ -933,7 +933,7 @@ SATIVA CARTRIDGE,Dosecann,Kolab Project,1 x 0.5 g  (Case of 12),231.60,19.3,In S
 SATIVA CARTRIDGE,Dosecann,Kolab Project,1 x 1 g  (Case of 12),405.12,33.76,In Stock,,,,344.35,60.77,2022-02-20T18:31:51-08:00
 INDICA 0.5 CARTRIDGE,Dosecann,Kolab Project,1 x 0.5 g  (Case of 12),231.60,19.3,In Stock,,,,196.86,34.74,2022-02-20T01:37:05-08:00
 INDICA 0.5 VAPE CARTRIDGE,Dosecann,Foray,1 x 0.5 g  (Case of 12),198.48,16.54,In Stock,,,,168.71,29.77,2022-02-20T16:35:10-08:00
-BALANCED 0.5 CARTRIDGE,Dosecann,Foray,1 x 0.5 g  (Case of 12),198.48,16.54,In Stock,,,,168.71,29.77,2022-02-20T16:35:10-08:00
+BALANCED 0.5 CARTRIDGE,Dosecann,Foray,1 x 0.5 g  (Case of 12),198.48,16.54,In Stock,,,,168.71,29.77,2022-02-20T21:36:50-08:00
 BALANCED MANGO HAZE DISPOSABLE VAPE PEN,Dosecann,Foray,1 x 0.3 g  (Case of 12),140.52,11.71,In Stock,,,,119.44,21.08,2022-02-20T19:47:10-08:00
 BLUEBERRY DISTILLATE CARTRIDGE,CannMart,PHYTO,1 x 0.5 g BLUEBERRY (Case of 12),262.20,21.85,In Stock,,,,222.87,39.33,2022-02-17T14:05:07-08:00
 PINEAPPLE EXPRESS 510 CARTRIDGE,Aphria,Good Supply,1 x 0.5 g  (Case of 12),173.76,14.48,In Stock,,,,147.70,26.06,2022-02-20T18:31:52-08:00
@@ -943,7 +943,7 @@ XMG MANGO PINEAPPLE,HEXO,HEXO,1 x 236 ml Mango Pineapple (Case of 12),59.04,4.92
 XMG TROPICAL FRUIT,HEXO,HEXO,1 x 236 ml Tropical Fruit (Case of 12),59.04,4.92,In Stock,6.99,42,,50.18,8.86,2022-02-20T20:09:56-08:00
 MOLLO 5,HEXO,HEXO,1 x 355 ml Malt (Case of 12),40.68,3.39,In Stock,4.99,47,,34.58,6.10,2022-02-20T20:30:45-08:00
 VERYVELL LEMON BLACK ICED TEA,HEXO,HEXO,1 x 355 ml Lemon Black Iced Tea (Case of 12),33.48,2.79,In Stock,,,,28.46,5.02,2022-02-17T14:14:30-08:00
-SALTED CARAMEL CHOCOLATE SQUARE,Dosecann,Foray,1 x 10 g  (Case of 12),41.28,3.44,In Stock,,,,35.09,6.19,2022-02-20T19:47:11-08:00
+SALTED CARAMEL CHOCOLATE SQUARE,Dosecann,Foray,1 x 10 g  (Case of 12),41.28,3.44,In Stock,,,,35.09,6.19,2022-02-20T21:36:50-08:00
 PEACH MANGO CHEWS 2 PC,Dosecann,Foray,2 x 5 g  (Case of 12),44.52,3.71,In Stock,,,,37.84,6.68,2022-02-20T10:24:35-08:00
 BAKERSTREET & GINGER,Canopy Growth Corporation,Tweed,1 x 355 ml Bakerstreet Terpenes & Ginger Ale (Case of 12),28.80,2.4,In Stock,3.99,66,,24.48,4.32,2022-02-20T11:54:45-08:00
 HOUNDSTOOTH & SODA,Canopy Growth Corporation,Tweed,1 x 355 ml Houndstooth Terpenes & Soda Water (Case of 12),28.80,2.4,In Stock,,,,24.48,4.32,2022-02-20T07:46:00-08:00
@@ -954,7 +954,7 @@ CUCUMBER + MINT,Canopy Growth Corporation,QUATREAU,1 x 355 ml Cucumber & Mint (C
 PASSIONFRUIT + GUAVA,Canopy Growth Corporation,QUATREAU,1 x 355 ml Passionfruit & Guava (Case of 12),32.40,2.7,In Stock,3.99,48,,27.54,4.86,2022-02-20T20:23:25-08:00
 PEACH SERENE GUMMIES,Aurora,AURORA DRIFT,5 x 4.3 g PEACH (Case of 12),92.28,7.69,In Stock,9.99,30,,78.44,13.84,2022-02-18T22:43:56-08:00
 GEMS 5:5,Redecan,Redecan,30 capsules (Case of 24),579.60,24.15,Out of Stock,24.97,3,,492.66,86.94,2021-04-13T14:18:24-07:00
-GEMS 5:5,Redecan,Redecan,15 capsules (Case of 24),358.80,14.95,In Stock,19.99,34,,304.98,53.82,2022-02-20T21:08:51-08:00
+GEMS 5:5,Redecan,Redecan,15 capsules (Case of 24),358.80,14.95,In Stock,19.99,34,,304.98,53.82,2022-02-20T21:36:50-08:00
 MAC 1,Experion,CITIZEN STASH,3.5 g (Case of 12),355.44,29.62,In Stock,39.99,35,,302.12,53.32,2022-02-20T21:26:20-08:00
 LEMON Z PRE-ROLL,WEED ME,WEED ME,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,14.99,30,,234.60,41.40,2022-02-20T19:46:46-08:00
 LIMELIGHT,Organigram,Edison,7 g (Case of 12),571.32,47.61,Out of Stock,,,,485.62,85.70,2021-07-16T10:32:43-07:00
@@ -990,7 +990,7 @@ SATIVA PRE-ROLL,Canopy Growth Corporation,TWD,1 x 1 g (Case of 48),221.28,4.61,I
 SATIVA PRE-ROLL,Canopy Growth Corporation,TWD,12 x 0.5 g (Case of 12),314.88,26.24,In Stock,31.97,22,,267.65,47.23,2022-02-20T15:16:00-08:00
 INDICA PRE-ROLL,Canopy Growth Corporation,TWD,12 x 0.5 g (Case of 12),314.88,26.24,In Stock,,,,267.65,47.23,2022-02-20T11:46:15-08:00
 INDICA PRE-ROLL,Canopy Growth Corporation,TWD,1 x 1 g (Case of 48),221.28,4.61,In Stock,,,,188.09,33.19,2022-02-20T12:36:26-08:00
-GEMS 5:0,Redecan,Redecan,15 capsules (Case of 24),189.06,7.88,In Stock,10.99,39,,160.70,28.36,2022-02-20T13:09:45-08:00
+GEMS 5:0,Redecan,Redecan,15 capsules (Case of 24),189.06,7.88,In Stock,10.99,39,,160.70,28.36,2022-02-20T21:36:50-08:00
 PINK KUSH SOFTGEL,MedReleaf,San Rafael '71,30 capsules (Case of 12),454.08,37.84,Out of Stock,46.99,24,,385.97,68.11,2022-02-19T08:01:35-08:00
 PEDRO'S SWEET SATIVA,WeedMD,Color Cannabis,3.5 g (Case of 18),393.30,21.85,In Stock,,,,334.31,58.99,2022-02-19T16:54:55-08:00
 MANGO HAZE,WeedMD,Color Cannabis,3.5 g (Case of 18),393.30,21.85,In Stock,,,,334.31,58.99,2022-02-20T19:47:10-08:00
@@ -1010,7 +1010,7 @@ FROST MONSTER,Broken Coast Cannabis,Broken Coast Cannabis,3.5 g (Case of 12),338
 FROST MONSTER,Broken Coast Cannabis,Broken Coast Cannabis,1 g (Case of 24),248.40,10.35,Out of Stock,10.99,6,,211.14,37.26,2022-01-27T15:18:33-08:00
 FROST MONSTER,Broken Coast Cannabis,Broken Coast Cannabis,28 g (Case of 2),304.00,152.0,Out of Stock,199.99,32,3,258.40,45.60,2022-02-03T07:53:00-08:00
 ROLLING TRAY - SMALL,HBI Canada,RAW,1007046 - ROLLING TRAY - SMALL (Case of 10),37.00,3.7,In Stock,,,,31.45,5.55,2022-02-08T09:26:06-08:00
-REIGN DROPS 30:0,Redecan,Redecan,30 ml (Case of 24),552.00,23.0,In Stock,34.99,52,,469.20,82.80,2022-02-20T21:08:50-08:00
+REIGN DROPS 30:0,Redecan,Redecan,30 ml (Case of 24),552.00,23.0,In Stock,34.99,52,,469.20,82.80,2022-02-20T21:36:50-08:00
 REIGN DROPS 30:0,Redecan,Redecan,40 ml (Case of 24),800.40,33.35,Out of Stock,42.99,29,,680.34,120.06,2021-10-28T16:27:36-07:00
 PINK KUSH,Canna Farms,Canna Farms,3.5 g (Case of 12),350.52,29.21,In Stock,,,,297.94,52.58,2022-02-16T10:32:30-08:00
 PINK KUSH,Canna Farms,Canna Farms,28 g (Case of 6),646.02,107.67,In Stock,,,,549.12,96.90,2022-02-18T01:43:50-08:00
@@ -1049,7 +1049,7 @@ NORTHERN LIGHTS HAZE,Broken Coast Cannabis,Broken Coast Cannabis,7 g (Case of 12
 NORTHERN LIGHTS HAZE,Broken Coast Cannabis,Broken Coast Cannabis,3.5 g (Case of 12),338.16,28.18,In Stock,,,,287.44,50.72,2022-02-20T18:31:52-08:00
 NORTHERN LIGHTS HAZE,Broken Coast Cannabis,Broken Coast Cannabis,1 g (Case of 24),207.00,8.62,Out of Stock,,,,175.95,31.05,2022-01-27T15:16:58-08:00
 NORTHERN LIGHTS HAZE,Broken Coast Cannabis,Broken Coast Cannabis,28 g (Case of 2),304.00,152.0,Out of Stock,,,3,258.40,45.60,2022-02-03T07:52:28-08:00
-CBD CANNATONIC PRE-ROLL,Tantalus Labs,Tantalus Labs,3 x 0.5 g (Case of 24),218.40,9.1,In Stock,,,,185.64,32.76,2022-02-20T19:47:10-08:00
+CBD CANNATONIC PRE-ROLL,Tantalus Labs,Tantalus Labs,3 x 0.5 g (Case of 24),218.40,9.1,In Stock,,,,185.64,32.76,2022-02-20T21:36:50-08:00
 SENSI STAR PRE-ROLL,Peace Naturals,Spinach,3 x 0.5 g (Case of 24),242.64,10.11,In Stock,,,,206.24,36.40,2022-02-15T11:53:20-08:00
 SENSI STAR PRE-ROLL,Peace Naturals,Spinach,1 x 1 g (Case of 24),173.52,7.23,Out of Stock,,,,147.49,26.03,2021-06-22T01:37:31-07:00
 CLIPPER PURE BUTANE GAS,HBI Canada,CLIPPER,Yellow (Case of 12),19.25,1.6,In Stock,,,,16.36,2.89,2022-02-18T22:43:57-08:00
@@ -1084,5 +1084,5 @@ REFLECT PRE-ROLL,Peace Naturals,Cove,3 x 0.5 g (Case of 24),248.40,10.35,In Stoc
 BC PINK KUSH,Flowr,Flowr,7 g (Case of 24),1379.52,57.48,Out of Stock,,,,1172.59,206.93,2021-07-16T09:49:04-07:00
 BC PINK KUSH,Flowr,Flowr,3.5 g (Case of 12),268.56,22.38,In Stock,,,,228.28,40.28,2022-02-20T20:23:25-08:00
 TANGERINE DREAM,MedReleaf,San Rafael '71,7 g (Case of 12),452.04,37.67,In Stock,,,,384.23,67.81,2022-02-20T11:37:50-08:00
-TANGERINE DREAM,MedReleaf,San Rafael '71,3.5 g (Case of 24),462.00,19.25,In Stock,,,,392.70,69.30,2022-02-20T11:46:15-08:00
+TANGERINE DREAM,MedReleaf,San Rafael '71,3.5 g (Case of 24),462.00,19.25,In Stock,,,,392.70,69.30,2022-02-20T21:36:50-08:00
 TANGERINE DREAM,MedReleaf,San Rafael '71,1 g (Case of 48),348.48,7.26,Out of Stock,,,,296.21,52.27,2021-10-28T23:51:07-07:00
