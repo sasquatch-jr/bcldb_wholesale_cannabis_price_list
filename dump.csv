@@ -1,6 +1,6 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 ORANGE TINGZ,Joint Venture Craft Cannabis,Pistol and Paris,3.5 g (Case of 12),368.04,30.67,Out of Stock,39.99,30,,312.83,55.21,2022-02-21T14:15:16-08:00
-SUNDAE STRUDEL,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,In Stock,24.99,33,2,191.05,33.71,2022-02-21T21:31:40-08:00
+SUNDAE STRUDEL,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,In Stock,24.99,33,2,191.05,33.71,2022-02-22T01:40:10-08:00
 NITRO COOKIES,Joint Venture Craft Cannabis,Organnicraft,3.5 g (Case of 12),369.12,30.76,In Stock,39.99,30,,313.75,55.37,2022-02-21T15:27:15-08:00
 NITRO COOKIES,Joint Venture Craft Cannabis,Organnicraft,7 g (Case of 6),277.20,46.2,Out of Stock,64.99,41,2,235.62,41.58,2022-02-14T12:18:16-08:00
 PLATINIUM GRAPES,Joint Venture Craft Cannabis,Organnicraft,3.5 g (Case of 12),369.12,30.76,Out of Stock,,,2,313.75,55.37,2022-02-15T09:03:26-08:00
@@ -12,21 +12,21 @@ TROPIC THUNDER CARTRIDGE,Organigram,SHRED X,1 x 4 g  (Case of 12),298.08,24.84,I
 DIAMOND 40 BOMBERS LEMON OG PRE-ROLLS,United Greeneries Ltd,18twelve: Bombers,"2 x 0.5 g lemon, sweet, grapefruit (Case of 12)",186.36,15.53,Out of Stock,,,,158.41,27.95,2022-02-19T02:19:30-08:00
 DIAMOND 40 BOMBERS PRE-ROLLS,United Greeneries Ltd,18twelve,"2 x 0.5 g Woody, spicy, herbal (Case of 12)",186.36,15.53,Out of Stock,,,,158.41,27.95,2022-02-21T09:58:35-08:00
 STRAWBERRY CREAM,Agripharm,WINK,3.5 g (Case of 12),323.28,26.94,In Stock,34.99,30,2,274.79,48.49,2022-02-21T13:18:40-08:00
-JALAPENO WATERMELON FRUIT GEMS,Terra Labs,Rapid by Terra Labs,2 x 3 g Jalapeno Watermelon (Case of 12),33.36,2.78,In Stock,3.99,44,,28.36,5.00,2022-02-21T14:58:30-08:00
-LEMON ELDERFLOWER FRUIT GEMS,Terra Labs,Rapid by Terra Labs,2 x 3 g Lemon Elderflower (Case of 12),33.36,2.78,In Stock,3.99,44,,28.36,5.00,2022-02-21T16:21:46-08:00
-MANGO MERCY FULL SPECTRUM CARTRIDGE,Canveda,DAIZE,1 x 1 g Fruity with earthy undertones (Case of 12),310.56,25.88,In Stock,36.99,43,,263.98,46.58,2022-02-21T15:53:20-08:00
+JALAPENO WATERMELON FRUIT GEMS,Terra Labs,Rapid by Terra Labs,2 x 3 g Jalapeno Watermelon (Case of 12),33.36,2.78,In Stock,3.99,44,,28.36,5.00,2022-02-22T01:40:10-08:00
+LEMON ELDERFLOWER FRUIT GEMS,Terra Labs,Rapid by Terra Labs,2 x 3 g Lemon Elderflower (Case of 12),33.36,2.78,In Stock,3.99,44,,28.36,5.00,2022-02-22T01:40:10-08:00
+MANGO MERCY FULL SPECTRUM CARTRIDGE,Canveda,DAIZE,1 x 1 g Fruity with earthy undertones (Case of 12),310.56,25.88,In Stock,36.99,43,,263.98,46.58,2022-02-22T01:40:05-08:00
 STARDUST PRE-ROLLS,Choice Growers,Choice Growers Cannabis,3 x 0.5 g (Case of 12),108.60,9.05,Out of Stock,11.99,32,2,92.31,16.29,2022-02-21T13:47:20-08:00
-INDICA 30 + INFUSED PRE-ROLL,Aphria,Canaca,3 x 0.5 g  (Case of 24),360.00,15.0,In Stock,,,2,306.00,54.00,2022-02-21T13:47:20-08:00
+INDICA 30 + INFUSED PRE-ROLL,Aphria,Canaca,3 x 0.5 g  (Case of 24),360.00,15.0,In Stock,,,2,306.00,54.00,2022-02-22T01:40:05-08:00
 BUBBA KUSH SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,44.99,35,,170.03,30.01,2022-02-21T12:59:40-08:00
 MANGO CBD 1:1 SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,44.99,35,,170.03,30.01,2022-02-21T16:41:25-08:00
 AK-47 AUTO SEEDS,ANC,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,44.99,35,,170.03,30.01,2022-02-21T15:16:10-08:00
 ORIGINAL COOKIES PRE-ROLLS,Aqualitas Inc,Stewart Farms,3 x 0.5 g (Case of 12),136.68,11.39,Out of Stock,14.99,32,,116.18,20.50,2022-02-18T08:41:10-08:00
 DOSI CAKE,Aqualitas Inc,Stewart Farms,3.5 g (Case of 12),273.24,22.77,In Stock,29.99,32,,232.25,40.99,2022-02-21T13:57:15-08:00
-ORIGINAL COOKIES,Aqualitas Inc,Stewart Farms,3.5 g (Case of 12),227.76,18.98,In Stock,24.99,32,,193.60,34.16,2022-02-21T20:38:30-08:00
+ORIGINAL COOKIES,Aqualitas Inc,Stewart Farms,3.5 g (Case of 12),227.76,18.98,In Stock,24.99,32,,193.60,34.16,2022-02-22T01:40:05-08:00
 QUICKIES CHEMDAWG PRE-ROLLS,DBA Canopy Growth,Tweed,10 x 0.35 g (Case of 24),396.00,16.5,In Stock,,,,336.60,59.40,2022-02-21T15:16:10-08:00
-STRAWNANA VAPE CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g fruit, candy (Case of 12)",311.88,25.99,In Stock,36.99,42,,265.10,46.78,2022-02-21T15:16:10-08:00
-MANDARIN COOKIES,Sitka Weed Works,Sitka Micro Collection,3.5 g (Case of 12),323.28,26.94,In Stock,34.99,30,,274.79,48.49,2022-02-21T16:41:25-08:00
-COLA 1:1 CHEWS,Dynaleo,Pocket Fives,2 x 4.6 g Cola (Case of 12),33.84,2.82,In Stock,3.99,41,,28.76,5.08,2022-02-21T14:58:30-08:00
+STRAWNANA VAPE CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g fruit, candy (Case of 12)",311.88,25.99,In Stock,36.99,42,,265.10,46.78,2022-02-22T01:40:05-08:00
+MANDARIN COOKIES,Sitka Weed Works,Sitka Micro Collection,3.5 g (Case of 12),323.28,26.94,In Stock,34.99,30,,274.79,48.49,2022-02-22T01:40:05-08:00
+COLA 1:1 CHEWS,Dynaleo,Pocket Fives,2 x 4.6 g Cola (Case of 12),33.84,2.82,In Stock,3.99,41,,28.76,5.08,2022-02-22T01:40:05-08:00
 WEST KOOTENAY HAWAIIAN HAMMER,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,,234.60,41.40,2022-02-16T17:13:55-08:00
 STONE GROVE ZKITTLEZ,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),295.32,24.61,In Stock,31.99,30,,251.02,44.30,2022-02-16T20:13:10-08:00
 CHERRY 510 THREAD CARTRIDGE,WEED ME,Weed Me,1 x 1 g Cherry (Case of 12),323.88,26.99,In Stock,,,,275.30,48.58,2022-02-21T13:41:15-08:00
@@ -311,7 +311,7 @@ EDISON JOLTS LOZENGES,Organigram,Edison Jolts,10 x 1.18 g Mint (Case of 12),136.
 CHOCOLATE CHIP COOKIE,Aurora,Drift,1 x 22 g Chocolate (Case of 24),134.16,5.59,In Stock,7.99,43,,114.04,20.12,2022-02-20T15:47:55-08:00
 LEMON MARGY,Organigram,Big Bag O' Buds,28 g (Case of 6),524.40,87.4,In Stock,119.99,37,,445.74,78.66,2022-02-22T01:39:20-08:00
 ORGANIC ROMULAN,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,,224.50,39.62,2022-02-22T01:39:25-08:00
-ORGANIC ROMULAN,Rubicon Organics,1964,14 g (Case of 6),462.36,77.06,In Stock,99.99,30,2,393.01,69.35,2022-02-21T20:56:00-08:00
+ORGANIC ROMULAN,Rubicon Organics,1964,14 g (Case of 6),462.36,77.06,In Stock,99.99,30,2,393.01,69.35,2022-02-22T01:40:05-08:00
 BC ORGANIC SWEET BUBBA,Rubicon Organics,Simply Bare,3.5 g (Case of 12),366.36,30.53,In Stock,39.99,31,,311.41,54.95,2022-02-21T13:47:20-08:00
 BC ORGANIC ISLAND PINK KUSH,Rubicon Organics,Simply Bare,3.5 g (Case of 12),366.36,30.53,In Stock,39.99,31,,311.41,54.95,2022-02-20T19:49:35-08:00
 HYCYCLE HYBRID,Motif Labs,Hycycle,1 x 1 g Citrus Herb (Case of 12),303.24,25.27,In Stock,35.99,42,,257.75,45.49,2022-02-22T01:39:20-08:00
@@ -819,7 +819,7 @@ TROPIC LEMON 510 CARTRIDGE,Valens Agritech,Verse Originals,1 x 1 g Citrus (Case 
 SINALOA GOLD,Delta 9,Delta 9,3.5 g (Case of 24),338.16,14.09,In Stock,,,,287.44,50.72,2022-02-20T20:41:01-08:00
 HOUSE OF TERPENES LIMONENE SPARKLG TONIC,HEXO,HEXO,1 x 355 ml Limonene & Sparkling Tonic (Case of 12),48.12,4.01,In Stock,,,,40.90,7.22,2022-02-21T19:06:45-08:00
 GAELIC FIRE,Highland Grow,Highland Grow,3.5 g (Case of 12),379.08,31.59,In Stock,39.99,27,,322.22,56.86,2022-02-17T09:43:45-08:00
-GAELIC FIRE,Highland Grow,Highland Grow,14 g (Case of 6),553.80,92.3,In Stock,119.99,30,2,470.73,83.07,2022-02-21T20:56:00-08:00
+GAELIC FIRE,Highland Grow,Highland Grow,14 g (Case of 6),553.80,92.3,In Stock,119.99,30,2,470.73,83.07,2022-02-22T01:40:10-08:00
 BC ORGANIC BLUE DREAM PRE-ROLL,Rubicon Organics,Simply Bare,3 x 0.5 g (Case of 24),402.72,16.78,In Stock,21.99,31,,342.31,60.41,2022-02-21T16:41:25-08:00
 BC ORGANIC SFV OG KUSH PRE-ROLL,Rubicon Organics,Simply Bare,3 x 0.5 g (Case of 24),402.72,16.78,In Stock,,,,342.31,60.41,2022-02-20T17:33:50-08:00
 BC ORGANIC SFV OG KUSH,Rubicon Organics,Simply Bare,3.5 g (Case of 12),393.72,32.81,In Stock,,,,334.66,59.06,2022-02-17T08:45:50-08:00
@@ -876,7 +876,7 @@ SPARK,Organigram,Trailblazer,3.5 g (Case of 24),331.20,13.8,In Stock,17.99,30,,2
 SUGARLEAF 1:5 OIL,Supreme,Blissco,30 ml (Case of 12),165.60,13.8,Out of Stock,,,,140.76,24.84,2022-02-20T11:46:15-08:00
 CHERRY BURST,Highland Grow,Highland Grow,3.5 g (Case of 12),277.08,23.09,Out of Stock,29.99,30,,235.52,41.56,2022-02-01T13:45:19-08:00
 CHERRY BURST,Highland Grow,Highland Grow,1 g (Case of 24),222.24,9.26,In Stock,11.99,29,,188.90,33.34,2022-02-21T10:22:40-08:00
-CHERRY BURST,Highland Grow,Highland Grow,14 g (Case of 6),553.80,92.3,In Stock,119.99,30,2,470.73,83.07,2022-02-21T20:48:50-08:00
+CHERRY BURST,Highland Grow,Highland Grow,14 g (Case of 6),553.80,92.3,In Stock,119.99,30,2,470.73,83.07,2022-02-22T01:40:10-08:00
 WHITE LIGHTNING,Highland Grow,Highland Grow,3.5 g (Case of 12),323.64,26.97,In Stock,39.99,48,,275.09,48.55,2022-02-21T15:32:20-08:00
 WHITE LIGHTNING,Highland Grow,Highland Grow,1 g (Case of 24),222.24,9.26,Out of Stock,11.99,29,,188.90,33.34,2021-08-14T01:37:35-07:00
 WEDDING CAKE,WEED ME,WEED ME,1 g (Case of 24),183.60,7.65,In Stock,,,,156.06,27.54,2022-02-21T15:32:21-08:00
