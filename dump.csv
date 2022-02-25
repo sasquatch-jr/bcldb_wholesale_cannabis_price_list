@@ -1,5 +1,5 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
-BLACK KETTLE FARMS PRE-ROLLS,Joint Venture Craft Cannabis,BC Black,3 x 0.5 g (Case of 12),138.00,11.5,In Stock,,,,117.30,20.70,2022-02-25T12:08:40-08:00
+BLACK KETTLE FARMS PRE-ROLLS,Joint Venture Craft Cannabis,BC Black,3 x 0.5 g (Case of 12),138.00,11.5,In Stock,,,,117.30,20.70,2022-02-25T12:48:55-08:00
 SUNDAE STRUDEL,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,In Stock,24.99,33,2,191.05,33.71,2022-02-25T11:04:40-08:00
 REAL FRUIT ELDERBERRY CBN GUMMIES,Indiva,Wyld,2 x 4 g elderberry (Case of 12),58.80,4.9,In Stock,,,3,49.98,8.82,2022-02-25T12:11:15-08:00
 SPIRE MAZZBERRY PRE-ROLLS,Oakum,OAKUM,5 x 0.3 g (Case of 12),117.36,9.78,Out of Stock,,,,99.76,17.60,2022-02-24T09:03:40-08:00
@@ -110,7 +110,7 @@ SCOTTI'S CAKE,Castle Rock Farms,Castle Rock Farms,3.5 g (Case of 12),303.60,25.3
 DEADHEAD,Royalmax,Citoyen,3.5 g (Case of 12),249.12,20.76,In Stock,26.99,30,2,211.75,37.37,2022-02-25T11:57:00-08:00
 CITRUS RUSH,BZAM,Snackbar,3.5 g (Case of 12),276.00,23.0,In Stock,,,,234.60,41.40,2022-02-25T09:26:36-08:00
 CEMENT SHOES,Castle Rock Farms,BC Green,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2022-02-25T10:50:15-08:00
-T.F. ISLAND PINK PRE-ROLLS,7Green Grows,Rocket Chair,14 x 0.5 g (Case of 12),369.48,30.79,In Stock,41.99,36,,314.06,55.42,2022-02-25T12:04:35-08:00
+T.F. ISLAND PINK PRE-ROLLS,7Green Grows,Rocket Chair,14 x 0.5 g (Case of 12),369.48,30.79,In Stock,41.99,36,,314.06,55.42,2022-02-25T12:44:15-08:00
 DESSERTS & SWEETS,Westleaf Labs,General Admission,3.5 g (Case of 12),227.76,18.98,In Stock,24.99,32,,193.60,34.16,2022-02-25T12:08:41-08:00
 KUSH & COOKIES,Westleaf Labs,General Admission,3.5 g (Case of 12),227.76,18.98,In Stock,24.99,32,2,193.60,34.16,2022-02-25T09:28:30-08:00
 OREGON GOLDEN GOAT LIVE RESIN CARTRIDGE,Sundial,Top Leaf,"1 x 0.5 g pine, floral, citrus (Case of 12)",294.00,24.5,In Stock,34.99,43,,249.90,44.10,2022-02-25T08:45:05-08:00
@@ -263,7 +263,7 @@ GRAND DADDY PURPLE PAX POD,Motif Labs,Spherex,1 x 0.5 g  (Case of 12),293.28,24.
 MANGO KUSH PAX POD,Motif Labs,Spherex,1 x 0.5 g  (Case of 12),293.28,24.44,In Stock,,,,249.29,43.99,2022-02-25T01:44:40-08:00
 COCOA BOMBA PRE-ROLLS,Peace Naturals,Spinach,3 x 0.5 g (Case of 12),121.32,10.11,In Stock,12.99,28,,103.12,18.20,2022-02-25T12:08:40-08:00
 ATOMIC SOUR GRAPEFRUIT,Peace Naturals,Spinach,3.5 g (Case of 12),231.48,19.29,In Stock,24.99,30,,196.76,34.72,2022-02-25T08:35:06-08:00
-ROUTE 66 PRE-ROLL,CannTrust,Liiv,1 x 1 g (Case of 12),75.96,6.33,In Stock,6.97,10,,64.57,11.39,2022-02-25T01:44:30-08:00
+ROUTE 66 PRE-ROLL,CannTrust,Liiv,1 x 1 g (Case of 12),75.96,6.33,In Stock,6.97,10,,64.57,11.39,2022-02-25T12:48:55-08:00
 ROUTE 66,CannTrust,Liiv,3.5 g (Case of 12),201.12,16.76,In Stock,21.99,31,,170.95,30.17,2022-02-24T01:38:40-08:00
 ROUTE 66,CannTrust,Liiv,7 g (Case of 12),369.48,30.79,In Stock,39.99,30,,314.06,55.42,2022-02-25T01:45:05-08:00
 SOMETHING ABOUT LARRY,CannTrust,Liiv,3.5 g (Case of 12),201.12,16.76,In Stock,21.99,31,,170.95,30.17,2022-02-25T10:25:55-08:00
@@ -370,7 +370,7 @@ GG4,Choice Growers,Choice Growers Cannabis,3.5 g (Case of 12),203.16,16.93,Out o
 GG4,Choice Growers,Choice Growers Cannabis,28 g (Case of 6),554.28,92.38,In Stock,119.99,30,,471.14,83.14,2022-02-25T10:09:35-08:00
 MOTOR BREATH,Sitka Weed Works,Sitka Micro Collection,3.5 g (Case of 12),323.28,26.94,In Stock,,,,274.79,48.49,2022-02-25T11:34:46-08:00
 FACE PUNCH PRE-ROLLS,Sitka Weed Works,Sitka Micro Collection,3 x 0.5 g (Case of 24),268.56,11.19,In Stock,,,,228.28,40.28,2022-02-23T09:52:46-08:00
-SOUR OG CHEESE PRE-ROLLS,Sitka Weed Works,Sitka Micro Collection,3 x 0.5 g (Case of 24),268.56,11.19,In Stock,,,,228.28,40.28,2022-02-24T17:35:30-08:00
+SOUR OG CHEESE PRE-ROLLS,Sitka Weed Works,Sitka Micro Collection,3 x 0.5 g (Case of 24),268.56,11.19,In Stock,,,,228.28,40.28,2022-02-25T12:48:55-08:00
 SASSAFRAS VAPE CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g  (Case of 6),157.50,26.25,In Stock,,,,133.88,23.62,2022-02-25T10:34:01-08:00
 MINT CHIP VAPE CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g Mint Chip Ice Cream (Case of 6),157.50,26.25,In Stock,36.99,41,,133.88,23.62,2022-02-25T11:34:45-08:00
 CHEM OG,Muskoka Grown,Muskoka Grown,3.5 g (Case of 12),230.88,19.24,In Stock,24.99,30,,196.25,34.63,2022-02-24T01:38:35-08:00
