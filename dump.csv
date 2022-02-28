@@ -1,13 +1,13 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 LYCHEE BUBBLE TEA CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g Lychee (Case of 6),157.50,26.25,Out of Stock,36.99,41,,133.88,23.62,2022-02-28T09:26:00-08:00
-WEDDING CAKE,Peace Naturals,Spinach,28 g (Case of 6),501.90,83.65,In Stock,119.99,43,3,426.61,75.28,2022-02-28T13:22:40-08:00
+WEDDING CAKE,Peace Naturals,Spinach,28 g (Case of 6),501.90,83.65,In Stock,119.99,43,3,426.61,75.28,2022-02-28T13:36:45-08:00
 SUNDAE STRUDEL,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,Out of Stock,24.99,33,2,191.05,33.71,2022-02-28T08:45:30-08:00
 REAL FRUIT ELDERBERRY CBN GUMMIES,Indiva,Wyld,2 x 4 g elderberry (Case of 12),58.80,4.9,In Stock,,,3,49.98,8.82,2022-02-28T12:03:45-08:00
 LEE ANNE WOMAC BLNT PRE-ROLLS,Alberta Craft Cannabis,BLKMKT,1 x 1 g (Case of 12),113.40,9.45,In Stock,12.99,37,,96.39,17.01,2022-02-28T12:54:15-08:00
 SPACEBERRY FUEL CAVIAR CONES,Sundial Growers,TOP LEAF,"4 x 0.5 g sweet, berry, fuel (Case of 12)",377.88,31.49,In Stock,44.99,43,,321.20,56.68,2022-02-28T12:33:30-08:00
 CITRAL KUSH PRE-ROLLS,Pure life Cannabis Corp,Pure Life Cannabis Corp,3 x 0.5 g (Case of 12),138.00,11.5,In Stock,14.99,30,2,117.30,20.70,2022-02-28T12:56:35-08:00
 CHERRY DEATH PRE-ROLLS,Pure life Cannabis Corp,Pure Life Cannabis Corp,3 x 0.5 g (Case of 12),138.00,11.5,In Stock,14.99,30,2,117.30,20.70,2022-02-28T12:56:35-08:00
-FROZEN LEMON JACK PRE-ROLLS,Pure life Cannabis Corp,Pure Life Cannabis Corp,3 x 0.5 g (Case of 12),138.00,11.5,In Stock,14.99,30,2,117.30,20.70,2022-02-28T12:56:35-08:00
+FROZEN LEMON JACK PRE-ROLLS,Pure life Cannabis Corp,Pure Life Cannabis Corp,3 x 0.5 g (Case of 12),138.00,11.5,In Stock,14.99,30,2,117.30,20.70,2022-02-28T13:36:45-08:00
 THC TOFFEE & SALT MILK CHOCOLATE,Indiva,Bhang,1 x 10 g Toffee and Sea Salt (Case of 12),33.00,2.75,In Stock,3.99,45,,28.05,4.95,2022-02-28T11:51:16-08:00
 BLUEBERRY YUM YUM PRE-ROLLS,Tumbleweed Farms,Cake & Caviar by Habitat,3 x 0.5 g (Case of 12),184.56,15.38,In Stock,,,,156.88,27.68,2022-02-28T10:13:20-08:00
 KUSH CAKE,Organigram,Edison,3.5 g (Case of 12),259.44,21.62,In Stock,0.0,-100,2,220.52,38.92,2022-02-28T11:30:05-08:00
@@ -87,7 +87,7 @@ DAILY CBD MULTIPACK SOUR CHERRY,Tidal Health Solutions,TIDAL,25 x 3.2 g Sour Che
 DAILY CBD MULTIPACK-WATERMELON,Tidal Health Solutions,TIDAL,25 x 3.2 g Watermelon (Case of 12),282.96,23.58,In Stock,24.97,6,,240.52,42.44,2022-02-25T00:15:25-08:00
 BLACKBERRY GELATO,TerrAscend,Legend,7 g (Case of 12),404.88,33.74,In Stock,43.99,30,2,344.15,60.73,2022-02-28T12:55:55-08:00
 COOKIES N' CREAM,Abba Medix,MTL CANNABIS,3.5 g (Case of 12),269.16,22.43,In Stock,29.99,34,3,228.79,40.37,2022-02-28T08:42:45-08:00
-GRAPE APE RESIN INFUSED PRE-ROLL,Stigma Grow,Dab Bods,3 x 0.5 g Grape (Case of 12),285.72,23.81,In Stock,32.99,39,3,242.86,42.86,2022-02-28T11:26:30-08:00
+GRAPE APE RESIN INFUSED PRE-ROLL,Stigma Grow,Dab Bods,3 x 0.5 g Grape (Case of 12),285.72,23.81,In Stock,32.99,39,3,242.86,42.86,2022-02-28T13:36:45-08:00
 GSC,Acreage Pharms,Peers,7 g (Case of 12),415.20,34.6,In Stock,44.99,30,2,352.92,62.28,2022-02-28T13:19:00-08:00
 DAIRY CREAM,Agripharm,WINK,3.5 g (Case of 12),323.28,26.94,In Stock,34.99,30,2,274.79,48.49,2022-02-28T12:39:20-08:00
 MK ULTRA,Aurora,Daily Special,3.5 g (Case of 12),193.92,16.16,In Stock,,,2,164.83,29.09,2022-02-28T13:03:40-08:00
@@ -364,7 +364,7 @@ MOTOR BREATH,Sitka Weed Works,Sitka Micro Collection,3.5 g (Case of 12),323.28,2
 FACE PUNCH PRE-ROLLS,Sitka Weed Works,Sitka Micro Collection,3 x 0.5 g (Case of 24),268.56,11.19,In Stock,,,,228.28,40.28,2022-02-26T19:00:06-08:00
 SOUR OG CHEESE PRE-ROLLS,Sitka Weed Works,Sitka Micro Collection,3 x 0.5 g (Case of 24),268.56,11.19,In Stock,,,,228.28,40.28,2022-02-28T11:27:00-08:00
 CHEDDAR BOMB PRE-ROLLS,Sitka Weed Works,Sitka Micro Collection,3 x 0.5 g (Case of 24),268.56,11.19,In Stock,14.99,34,,228.28,40.28,2022-02-28T12:33:31-08:00
-SASSAFRAS VAPE CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g  (Case of 6),157.50,26.25,In Stock,,,,133.88,23.62,2022-02-28T09:18:05-08:00
+SASSAFRAS VAPE CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g  (Case of 6),157.50,26.25,In Stock,,,,133.88,23.62,2022-02-28T13:36:45-08:00
 MINT CHIP VAPE CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g Mint Chip Ice Cream (Case of 6),157.50,26.25,In Stock,36.99,41,,133.88,23.62,2022-02-28T13:16:36-08:00
 CHEM OG,Muskoka Grown,Muskoka Grown,3.5 g (Case of 12),230.88,19.24,In Stock,24.99,30,,196.25,34.63,2022-02-27T23:21:05-08:00
 SHORTBREAD BISCUIT,THC BioMed,THC Kiss,1 x 13.5 g Shortbread (Case of 12),24.96,2.08,In Stock,2.99,44,,21.22,3.74,2022-02-28T10:20:45-08:00
@@ -402,8 +402,8 @@ CHOCOLATE CHEESECAKE,Aphria,Solei,3.5 g (Case of 12),209.64,17.47,In Stock,,,,17
 DISTILLED CBD 50 OIL,Nextleaf Labs,Glacial Gold,28.5 g (Case of 6),124.20,20.7,In Stock,27.99,35,,105.57,18.63,2022-02-28T01:39:10-08:00
 DISTILLED 30:30 OIL,Nextleaf Labs,Glacial Gold,28.5 g (Case of 6),207.00,34.5,In Stock,49.99,45,,175.95,31.05,2022-02-28T12:55:55-08:00
 DISTILLED THC 30 OIL,Nextleaf Labs,Glacial Gold,28.5 g (Case of 6),141.48,23.58,In Stock,31.99,36,,120.26,21.22,2022-02-27T17:46:37-08:00
-SESSION THC VAPE - BERRY LEMONADE,Nextleaf Labs,Glacial Gold,1 x 1 g Berry Lemonade (Case of 6),142.14,23.69,In Stock,34.99,48,,120.82,21.32,2022-02-28T12:33:30-08:00
-SESSION THC VAPE - GLACIAL FRESH MINT,Nextleaf Labs,Glacial Gold,1 x 1 g Glacial Fresh Mint (Case of 6),142.14,23.69,In Stock,34.99,48,,120.82,21.32,2022-02-28T12:33:31-08:00
+SESSION THC VAPE - BERRY LEMONADE,Nextleaf Labs,Glacial Gold,1 x 1 g Berry Lemonade (Case of 6),142.14,23.69,In Stock,34.99,48,,120.82,21.32,2022-02-28T13:36:45-08:00
+SESSION THC VAPE - GLACIAL FRESH MINT,Nextleaf Labs,Glacial Gold,1 x 1 g Glacial Fresh Mint (Case of 6),142.14,23.69,In Stock,34.99,48,,120.82,21.32,2022-02-28T13:36:45-08:00
 ANYTIME 1:1 VAPE - BERRY LEMONADE,Nextleaf Labs,Glacial Gold,1 x 1 g Berry Lemonade (Case of 6),114.54,19.09,In Stock,27.99,47,,97.36,17.18,2022-02-28T12:55:55-08:00
 ANYTIME 1:1 VAPE - GLACIAL FRESH MINT,Nextleaf Labs,Glacial Gold,1 x 1 g Glacial Fresh Mint (Case of 6),114.54,19.09,In Stock,,,,97.36,17.18,2022-02-27T21:55:51-08:00
 APPLE NANO SHOT,Motif Labs,FUSE,1 x 28 ml Sour Apple (Case of 24),102.96,4.29,In Stock,,,,87.52,15.44,2022-02-25T12:08:41-08:00
