@@ -1,11 +1,11 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 ORANGE TINGZ,Joint Venture Craft Cannabis,Pistol and Paris,3.5 g (Case of 12),368.04,30.67,In Stock,39.99,30,,312.83,55.21,2022-03-09T09:10:55-08:00
-PETROCAN,Tantalus Labs,Tantalus Labs,3.5 g (Case of 12),294.00,24.5,In Stock,34.99,43,2,249.90,44.10,2022-03-09T11:18:50-08:00
-PINEAPPLE COCONUT ESCAPE CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g Pina Colada (Case of 6),157.50,26.25,In Stock,,,,133.88,23.62,2022-03-09T11:18:50-08:00
+PETROCAN,Tantalus Labs,Tantalus Labs,3.5 g (Case of 12),294.00,24.5,In Stock,34.99,43,2,249.90,44.10,2022-03-09T11:26:20-08:00
+PINEAPPLE COCONUT ESCAPE CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g Pina Colada (Case of 6),157.50,26.25,In Stock,,,,133.88,23.62,2022-03-09T11:26:20-08:00
 QUICKIES POWDERED DONUTS PRE-ROLLS,DBA Canopy Growth,Tweed,10 x 0.35 g (Case of 24),395.76,16.49,In Stock,21.99,33,2,336.40,59.36,2022-03-09T09:58:10-08:00
 WEDDING CAKE,Peace Naturals,Spinach,28 g (Case of 6),501.90,83.65,In Stock,119.99,43,3,426.61,75.28,2022-03-09T09:21:50-08:00
-MINT COOKIE BLZRD WHITE CHOCOLATE,Dycar Pharmaceuticals,Legend,"1 x 10 g Mint, Oreo Cookie, & White Chocolate (Case of 12)",33.00,2.75,In Stock,0.0,-100,,28.05,4.95,2022-03-09T11:18:50-08:00
-STRAWBERRY LAYERED CAKE MILK CHOCOLATE,Dycar Pharmaceuticals,Legend,1 x 10 g Strawberry & Milk Chocolate (Case of 12),35.04,2.92,In Stock,0.0,-100,,29.78,5.26,2022-03-09T11:18:50-08:00
+MINT COOKIE BLZRD WHITE CHOCOLATE,Dycar Pharmaceuticals,Legend,"1 x 10 g Mint, Oreo Cookie, & White Chocolate (Case of 12)",33.00,2.75,In Stock,0.0,-100,,28.05,4.95,2022-03-09T11:26:20-08:00
+STRAWBERRY LAYERED CAKE MILK CHOCOLATE,Dycar Pharmaceuticals,Legend,1 x 10 g Strawberry & Milk Chocolate (Case of 12),35.04,2.92,In Stock,0.0,-100,,29.78,5.26,2022-03-09T11:26:20-08:00
 REAL FRUIT ELDERBERRY CBN GUMMIES,Indiva,Wyld,2 x 4 g elderberry (Case of 12),58.80,4.9,In Stock,,,3,49.98,8.82,2022-03-09T10:55:25-08:00
 HEMP FLOWER FOR CBD,Apothecary Botanicals,Grown Here Farms,30 g (Case of 6),140.76,23.46,Out of Stock,,,,119.65,21.11,2022-03-09T09:22:35-08:00
 CHOCOLATE SUNDAE,Pure Sunfarms,Pure Sunfarms,7 g (Case of 12),368.52,30.71,In Stock,39.99,30,2,313.24,55.28,2022-03-09T10:12:35-08:00
@@ -128,7 +128,7 @@ OG KUSH,Sundial,Palmetto,3.5 g (Case of 12),203.16,16.93,In Stock,22.99,36,2,172
 GREEN CUSH,Acreage Pharms,Peers,3.5 g (Case of 12),179.40,14.95,In Stock,19.99,34,,152.49,26.91,2022-03-09T09:36:40-08:00
 POWDERED DONUTS,Organigram,Big Bag O' Buds,28 g (Case of 6),524.40,87.4,In Stock,119.99,37,5,445.74,78.66,2022-03-09T01:40:20-08:00
 GRAPE APE HONEY OIL CARTRIDGE,Voyage Cannabis,Pura Vida,"1 x 1 g Sweet, Berry, Skunky (Case of 12)",319.08,26.59,In Stock,37.99,43,,271.22,47.86,2022-03-09T11:12:25-08:00
-PINK STAR FRUIT DIAMONDS,Voyage Cannabis,RAD,"1 x 1 g Fruity, Floral (Case of 12)",402.96,33.58,In Stock,47.99,43,,342.52,60.44,2022-03-09T11:17:31-08:00
+PINK STAR FRUIT DIAMONDS,Voyage Cannabis,RAD,"1 x 1 g Fruity, Floral (Case of 12)",402.96,33.58,In Stock,47.99,43,,342.52,60.44,2022-03-09T11:26:20-08:00
 TROPIC THUNDER HONEY OIL CARTRIDGE,Voyage Cannabis,Pura Vida,"1 x 1 g Citrus, Tropical, Fruity (Case of 12)",319.08,26.59,In Stock,37.99,43,,271.22,47.86,2022-03-09T10:20:01-08:00
 AMETHYST CBD OIL,Voyage Cannabis,Queen of Bud,28.2 g (Case of 12),377.88,31.49,In Stock,41.99,33,,321.20,56.68,2022-02-09T11:43:01-08:00
 CHEMDAWG,Canopy Growth Corporation,Tweed,3.5 g (Case of 12),230.64,19.22,In Stock,24.99,30,,196.04,34.60,2022-03-08T20:38:40-08:00
@@ -142,7 +142,7 @@ CBN DOSI X PURPLE PUNCH VAPE CARTRIDGE,Medipharm Labs,Northbound Cannabis,"1 x 1
 SNOWBALL KUSH,BZAM,Table Top,3.5 g (Case of 12),220.80,18.4,In Stock,24.99,36,,187.68,33.12,2022-03-08T15:41:11-08:00
 REEFERMAN'S ROCKSTAR,Western Cannabis,Aaron's BC Bud,3.5 g (Case of 12),262.20,21.85,In Stock,29.99,37,,222.87,39.33,2022-03-08T14:46:05-08:00
 VANILLA VAPE CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g Vanilla (Case of 6),157.50,26.25,In Stock,36.99,41,,133.88,23.62,2022-03-09T10:45:20-08:00
-STRAWBERRY ALIEN SHATTER,Voyage Cannabis,RAD,"1 x 1 g Fruity, Strawberry, Hints of Cherry (Case of 12)",310.68,25.89,In Stock,,,,264.08,46.60,2022-03-09T11:17:31-08:00
+STRAWBERRY ALIEN SHATTER,Voyage Cannabis,RAD,"1 x 1 g Fruity, Strawberry, Hints of Cherry (Case of 12)",310.68,25.89,In Stock,,,,264.08,46.60,2022-03-09T11:26:20-08:00
 WATERMELON OG DISTILLATE VAPE,Voyage Cannabis,RAD,"1 x 1 g Floral, Sweet, Citrus (Case of 12)",275.88,22.99,In Stock,,,,234.50,41.38,2022-03-09T10:20:01-08:00
 DISTILLED CBD 200 OIL,Nextleaf Labs,Glacial Gold,28.5 g (Case of 6),372.60,62.1,In Stock,79.99,29,,316.71,55.89,2022-03-08T16:22:30-08:00
 DISTILLED CBD 100 OIL,Nextleaf Labs,Glacial Gold,28.5 g (Case of 6),207.00,34.5,In Stock,44.99,30,,175.95,31.05,2022-03-09T09:44:40-08:00
@@ -555,7 +555,7 @@ CBD CREAM,Auxly Charlottetown Inc,Dosecann,1 x 60 ml  (Case of 12),306.24,25.52,
 KEY LIME PIE GUMMIES,Olli,Ace Valley,2 x 10 g Key Lime Pie (Case of 12),58.68,4.89,In Stock,,,,49.88,8.80,2022-03-09T09:08:45-08:00
 PURE CHEWS FIRE BURST,Abba Medix,Pure Chews,5 x 3 g Cinnamon (Case of 24),83.52,3.48,In Stock,4.99,43,,70.99,12.53,2022-03-03T16:17:46-08:00
 MACFLURRY,Alberta Craft Cannabis,BLKMKT,3.5 g (Case of 12),365.04,30.42,In Stock,42.99,41,,310.28,54.76,2022-03-09T10:49:35-08:00
-HASH STICK,Embark,Hazel,1 x 1 g  (Case of 12),226.92,18.91,In Stock,,,,192.88,34.04,2022-03-09T11:18:50-08:00
+HASH STICK,Embark,Hazel,1 x 1 g  (Case of 12),226.92,18.91,In Stock,,,,192.88,34.04,2022-03-09T11:26:20-08:00
 PAPAYA,Supreme,7ACRES,3.5 g (Case of 12),269.16,22.43,In Stock,,,,228.79,40.37,2022-03-06T19:10:10-08:00
 MINT CHOKO CHIP,Acreage Pharms,Tier 1,3.5 g (Case of 12),317.40,26.45,In Stock,,,,269.79,47.61,2022-02-17T18:27:50-08:00
 CRUNCH BERRI,Acreage Pharms,Tier 1,3.5 g (Case of 12),317.40,26.45,In Stock,,,,269.79,47.61,2022-03-03T10:46:47-08:00
