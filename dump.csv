@@ -1,10 +1,10 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 ORANGE TINGZ,Joint Venture Craft Cannabis,Pistol and Paris,3.5 g (Case of 12),368.04,30.67,In Stock,39.99,30,,312.83,55.21,2022-03-10T01:39:10-08:00
-PETROCAN,Tantalus Labs,Tantalus Labs,3.5 g (Case of 12),294.00,24.5,In Stock,34.99,43,2,249.90,44.10,2022-03-10T03:33:25-08:00
+PETROCAN,Tantalus Labs,Tantalus Labs,3.5 g (Case of 12),294.00,24.5,In Stock,34.99,43,2,249.90,44.10,2022-03-10T03:40:40-08:00
 PINEAPPLE COCONUT ESCAPE CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g Pina Colada (Case of 6),157.50,26.25,In Stock,,,,133.88,23.62,2022-03-09T23:21:15-08:00
 QUICKIES POWDERED DONUTS PRE-ROLLS,DBA Canopy Growth,Tweed,10 x 0.35 g (Case of 24),395.76,16.49,In Stock,21.99,33,2,336.40,59.36,2022-03-10T01:40:25-08:00
 WEDDING CAKE,Peace Naturals,Spinach,28 g (Case of 6),501.90,83.65,In Stock,119.99,43,3,426.61,75.28,2022-03-10T01:40:25-08:00
-MINT COOKIE BLZRD WHITE CHOCOLATE,Dycar Pharmaceuticals,Legend,"1 x 10 g Mint, Oreo Cookie, & White Chocolate (Case of 12)",33.00,2.75,In Stock,0.0,-100,,28.05,4.95,2022-03-10T01:40:20-08:00
+MINT COOKIE BLZRD WHITE CHOCOLATE,Dycar Pharmaceuticals,Legend,"1 x 10 g Mint, Oreo Cookie, & White Chocolate (Case of 12)",33.00,2.75,In Stock,0.0,-100,,28.05,4.95,2022-03-10T03:40:40-08:00
 STRAWBERRY LAYERED CAKE MILK CHOCOLATE,Dycar Pharmaceuticals,Legend,1 x 10 g Strawberry & Milk Chocolate (Case of 12),35.04,2.92,In Stock,0.0,-100,,29.78,5.26,2022-03-10T01:40:20-08:00
 REAL FRUIT ELDERBERRY CBN GUMMIES,Indiva,Wyld,2 x 4 g elderberry (Case of 12),58.80,4.9,In Stock,,,3,49.98,8.82,2022-03-09T21:41:16-08:00
 HEMP FLOWER FOR CBD,Apothecary Botanicals,Grown Here Farms,30 g (Case of 6),140.76,23.46,Out of Stock,,,,119.65,21.11,2022-03-09T09:22:35-08:00
@@ -16,7 +16,7 @@ FROZEN LEMON JACK PRE-ROLLS,Pure life Cannabis Corp,Pure Life Cannabis Corp,3 x 
 THC TOFFEE & SALT MILK CHOCOLATE,Indiva,Bhang,1 x 10 g Toffee and Sea Salt (Case of 12),33.00,2.75,In Stock,3.99,45,,28.05,4.95,2022-03-10T01:40:20-08:00
 KUSH CAKE,Organigram,Edison,3.5 g (Case of 12),259.44,21.62,In Stock,,,2,220.52,38.92,2022-03-10T01:40:15-08:00
 CREAM CARAMEL PRE-ROLLS,Zenabis Ltd,Namaste,3 x 0.5 g (Case of 12),113.76,9.48,In Stock,12.99,37,,96.70,17.06,2022-03-09T10:45:26-08:00
-CRAZY CREAM SODA GUMMIES,Organigram,Shred'ems Pop!,4 x 4.5 g Sweet (Case of 24),66.96,2.79,In Stock,3.99,43,,56.92,10.04,2022-03-10T01:40:20-08:00
+CRAZY CREAM SODA GUMMIES,Organigram,Shred'ems Pop!,4 x 4.5 g Sweet (Case of 24),66.96,2.79,In Stock,3.99,43,,56.92,10.04,2022-03-10T03:40:40-08:00
 COLA CHAOS GUMMIES,Organigram,Shred'ems Pop!,4 x 4.5 g  (Case of 24),66.96,2.79,In Stock,,,,56.92,10.04,2022-03-10T01:40:20-08:00
 ROOT BEER BLAST GUMMIES,Organigram,Shred'ems Pop!,4 x 4.5 g Root Beer (Case of 24),66.96,2.79,In Stock,3.99,43,,56.92,10.04,2022-03-10T01:40:20-08:00
 SOUR APPLE SLAP GUMMIES,Organigram,SHRED'EMS,4 x 4.5 g  (Case of 24),66.96,2.79,In Stock,,,,56.92,10.04,2022-03-10T01:40:20-08:00
@@ -42,7 +42,7 @@ MANDARIN COOKIES,Sitka Weed Works,Sitka Micro Collection,3.5 g (Case of 12),323.
 COLA 1:1 CHEWS,Dynaleo,Pocket Fives,2 x 4.6 g Cola (Case of 12),33.84,2.82,In Stock,3.99,41,,28.76,5.08,2022-03-10T01:40:15-08:00
 WEST KOOTENAY HAWAIIAN HAMMER,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,,234.60,41.40,2022-03-07T15:50:26-08:00
 STONE GROVE ZKITTLEZ,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),295.32,24.61,In Stock,31.99,30,,251.02,44.30,2022-03-09T01:40:30-08:00
-BLACK KETTLE FARMS TRIANGLE KUSH,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),321.96,26.83,In Stock,34.99,30,,273.67,48.29,2022-03-10T01:40:15-08:00
+BLACK KETTLE FARMS TRIANGLE KUSH,Joint Venture Craft Cannabis,BC Black,3.5 g (Case of 12),321.96,26.83,In Stock,34.99,30,,273.67,48.29,2022-03-10T03:40:40-08:00
 CHERRY 510 THREAD CARTRIDGE,WEED ME,Weed Me,1 x 1 g Cherry (Case of 12),323.88,26.99,In Stock,,,,275.30,48.58,2022-03-10T01:40:15-08:00
 ORANGE DARK CHOCOLATE,Dycar Pharmaceuticals,Legend,1 x 10 g Orange & Chocolate (Case of 12),33.00,2.75,In Stock,3.99,45,,28.05,4.95,2022-03-09T16:52:06-08:00
 BALANCED ORANGE MILK CHOCOLATE 1:1,Dycar Pharmaceuticals,Legend,1 x 10 g Orange & Chocolate (Case of 12),33.00,2.75,In Stock,3.99,45,,28.05,4.95,2022-03-10T01:40:10-08:00
@@ -291,7 +291,7 @@ TGIF PRE-ROLLS,CannTrust,Xscape,14 x 0.5 g (Case of 12),381.24,31.77,In Stock,42
 FLIX N CHILL PRE-ROLLS,CannTrust,Xscape,14 x 0.5 g (Case of 12),381.24,31.77,In Stock,42.99,35,,324.05,57.19,2022-03-02T01:39:20-08:00
 COOKIE PUSS,Experion,Citizen Stash,3.5 g (Case of 12),273.48,22.79,In Stock,29.99,32,,232.46,41.02,2022-03-09T19:16:55-08:00
 JUNGLE BREATH,Experion,Citizen Stash,3.5 g (Case of 12),273.48,22.79,In Stock,29.99,32,,232.46,41.02,2022-03-09T21:25:01-08:00
-PINK WEDDING CAKE COOKIES,Choice Growers,Choice Growers Cannabis,3.5 g (Case of 12),144.96,12.08,In Stock,17.99,49,,123.22,21.74,2022-03-10T03:33:25-08:00
+PINK WEDDING CAKE COOKIES,Choice Growers,Choice Growers Cannabis,3.5 g (Case of 12),144.96,12.08,In Stock,17.99,49,,123.22,21.74,2022-03-10T03:40:40-08:00
 PINK WEDDING CAKE COOKIES,Choice Growers,Choice Growers Cannabis,28 g (Case of 6),554.46,92.41,Out of Stock,119.99,30,,471.29,83.17,2022-03-04T09:21:25-08:00
 TROPICAL BLENDZ,Dycar Pharmaceuticals,Chuz,4 x 4.5 g Pineapple and Lime (Case of 12),50.40,4.2,In Stock,5.99,43,,42.84,7.56,2022-03-10T01:39:30-08:00
 BERRY BLENDZ,Dycar Pharmaceuticals,Chuz,"4 x 4.5 g Strawberry and Wildberry (Grape, Blueberry, And St (Case of 12)",50.40,4.2,In Stock,,,,42.84,7.56,2022-03-09T17:46:45-08:00
@@ -502,7 +502,7 @@ MAC-1,Organigram,Edison,3.5 g (Case of 12),259.44,21.62,In Stock,,,,220.52,38.92
 BLUEBERRY MOUNTAIN RUSH LIVE RESIN VAPE,Stigma Grow,White NGL,1 x 0.5 g  (Case of 12),277.08,23.09,In Stock,,,,235.52,41.56,2022-03-08T16:50:31-08:00
 WEDDING CAKE PRE-ROLLS,Peace Naturals,Spinach,3 x 0.5 g (Case of 24),239.76,9.99,In Stock,11.69,17,,203.80,35.96,2022-03-08T14:46:09-08:00
 CHEM HINDU GLUE,Choice Growers,Choice Growers Cannabis,28 g (Case of 6),554.28,92.38,In Stock,119.99,30,,471.14,83.14,2022-03-10T01:39:20-08:00
-CHEM HINDU GLUE,Choice Growers,Choice Growers Cannabis,3.5 g (Case of 12),144.96,12.08,In Stock,17.99,49,,123.22,21.74,2022-03-10T03:33:25-08:00
+CHEM HINDU GLUE,Choice Growers,Choice Growers Cannabis,3.5 g (Case of 12),144.96,12.08,In Stock,17.99,49,,123.22,21.74,2022-03-10T03:40:40-08:00
 THC SELECT PACK PRE-ROLL,Agripharm,AHLOT,3 x 0.5 g (Case of 24),268.80,11.2,In Stock,,,,228.48,40.32,2022-02-28T19:30:00-08:00
 D. BUBBA PRE-ROLLS,Pure Sunfarms,Pure Sunfarms,10 x 0.3 g (Case of 24),270.00,11.25,In Stock,19.99,78,,229.50,40.50,2022-03-10T01:39:01-08:00
 BLUE DREAM,Pure Sunfarms,Pure Sunfarms,3.5 g (Case of 24),369.12,15.38,In Stock,,,,313.75,55.37,2022-03-09T15:01:01-08:00
