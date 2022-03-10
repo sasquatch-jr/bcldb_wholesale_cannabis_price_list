@@ -1,11 +1,11 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 ORANGE TINGZ,Joint Venture Craft Cannabis,Pistol and Paris,3.5 g (Case of 12),368.04,30.67,In Stock,39.99,30,,312.83,55.21,2022-03-10T01:39:10-08:00
-PETROCAN,Tantalus Labs,Tantalus Labs,3.5 g (Case of 12),294.00,24.5,In Stock,34.99,43,2,249.90,44.10,2022-03-10T07:39:55-08:00
+PETROCAN,Tantalus Labs,Tantalus Labs,3.5 g (Case of 12),294.00,24.5,In Stock,34.99,43,2,249.90,44.10,2022-03-10T08:16:10-08:00
 PINEAPPLE COCONUT ESCAPE CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g Pina Colada (Case of 6),157.50,26.25,In Stock,,,,133.88,23.62,2022-03-10T07:39:15-08:00
 QUICKIES POWDERED DONUTS PRE-ROLLS,DBA Canopy Growth,Tweed,10 x 0.35 g (Case of 24),395.76,16.49,In Stock,21.99,33,2,336.40,59.36,2022-03-10T01:40:25-08:00
 WEDDING CAKE,Peace Naturals,Spinach,28 g (Case of 6),501.90,83.65,In Stock,119.99,43,3,426.61,75.28,2022-03-10T07:39:55-08:00
 MINT COOKIE BLZRD WHITE CHOCOLATE,Dycar Pharmaceuticals,Legend,"1 x 10 g Mint, Oreo Cookie, & White Chocolate (Case of 12)",33.00,2.75,In Stock,0.0,-100,,28.05,4.95,2022-03-10T03:40:40-08:00
-STRAWBERRY LAYERED CAKE MILK CHOCOLATE,Dycar Pharmaceuticals,Legend,1 x 10 g Strawberry & Milk Chocolate (Case of 12),35.04,2.92,In Stock,0.0,-100,,29.78,5.26,2022-03-10T01:40:20-08:00
+STRAWBERRY LAYERED CAKE MILK CHOCOLATE,Dycar Pharmaceuticals,Legend,1 x 10 g Strawberry & Milk Chocolate (Case of 12),35.04,2.92,In Stock,0.0,-100,,29.78,5.26,2022-03-10T08:16:10-08:00
 REAL FRUIT ELDERBERRY CBN GUMMIES,Indiva,Wyld,2 x 4 g elderberry (Case of 12),58.80,4.9,In Stock,,,5,49.98,8.82,2022-03-10T08:09:51-08:00
 HEMP FLOWER FOR CBD,Apothecary Botanicals,Grown Here Farms,30 g (Case of 6),140.76,23.46,Out of Stock,,,,119.65,21.11,2022-03-09T09:22:35-08:00
 CHOCOLATE SUNDAE,Pure Sunfarms,Pure Sunfarms,7 g (Case of 12),368.52,30.71,In Stock,39.99,30,2,313.24,55.28,2022-03-10T01:40:21-08:00
@@ -110,7 +110,7 @@ CITRUS RUSH,BZAM,Snackbar,3.5 g (Case of 12),276.00,23.0,In Stock,,,,234.60,41.4
 CBN 1:2 NIGHTTIME FORMULA,Medipharm Labs,MediPharm Labs,28.5 g (Case of 12),335.64,27.97,In Stock,36.99,32,2,285.29,50.35,2022-03-10T01:39:50-08:00
 QUICK CBN MIDNIGHT BERRY INDICA GUMMIES,Indiva,Wana,2 x 4.5 g sweet berry (Case of 12),67.08,5.59,In Stock,7.99,43,2,57.02,10.06,2022-03-10T01:39:50-08:00
 CEMENT SHOES,Castle Rock Farms,BC Green,3.5 g (Case of 12),277.08,23.09,In Stock,29.99,30,,235.52,41.56,2022-03-09T21:59:15-08:00
-T.F. ISLAND PINK PRE-ROLLS,7Green Grows,Rocket Chair,14 x 0.5 g (Case of 12),369.48,30.79,In Stock,41.99,36,,314.06,55.42,2022-03-10T01:40:06-08:00
+T.F. ISLAND PINK PRE-ROLLS,7Green Grows,Rocket Chair,14 x 0.5 g (Case of 12),369.48,30.79,In Stock,41.99,36,,314.06,55.42,2022-03-10T08:11:55-08:00
 UP IN THE SKY LIQUID WAX CARTRIDGE,Aphria,Broken Coast,1 x 0.5 g  (Case of 12),314.52,26.21,In Stock,,,,267.34,47.18,2022-03-09T23:58:50-08:00
 DESSERTS & SWEETS,Westleaf Labs,General Admission,3.5 g (Case of 12),227.76,18.98,In Stock,24.99,32,,193.60,34.16,2022-03-10T01:40:05-08:00
 KUSH & COOKIES,Westleaf Labs,General Admission,3.5 g (Case of 12),227.76,18.98,In Stock,24.99,32,,193.60,34.16,2022-03-08T01:41:35-08:00
