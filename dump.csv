@@ -1,7 +1,7 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 NITRO COOKIES,Joint Venture Craft Cannabis,Organnicraft,3.5 g (Case of 12),369.12,30.76,In Stock,39.99,30,,313.75,55.37,2022-03-15T01:42:05-07:00
 PLATINIUM GRAPES SMALLS,Joint Venture Craft Cannabis,Organnicraft,7 g (Case of 6),277.20,46.2,In Stock,64.99,41,,235.62,41.58,2022-03-15T01:42:00-07:00
-NITRO COOKIES SMALLS,Joint Venture Craft Cannabis,Organnicraft,7 g (Case of 6),277.20,46.2,In Stock,64.99,41,,235.62,41.58,2022-03-15T01:42:05-07:00
+NITRO COOKIES SMALLS,Joint Venture Craft Cannabis,Organnicraft,7 g (Case of 6),277.20,46.2,In Stock,64.99,41,,235.62,41.58,2022-03-15T02:08:50-07:00
 BC ORGANIC SECRET STRAWBERRY LIVE ROSIN,Rubicon Organics,Simply Bare,1 x 1 g  (Case of 6),264.06,44.01,Out of Stock,,,,224.45,39.61,2022-03-14T09:22:20-07:00
 ORANGE TINGZ,Joint Venture Craft Cannabis,Pistol and Paris,3.5 g (Case of 12),368.04,30.67,In Stock,39.99,30,,312.83,55.21,2022-03-14T20:44:10-07:00
 BACIO PUNCH #8,OGEN,OGEN,3.5 g (Case of 12),265.20,22.1,In Stock,29.99,36,3,225.42,39.78,2022-03-15T01:42:15-07:00
@@ -39,7 +39,7 @@ INDICA 30 + INFUSED PRE-ROLL,Aphria,Canaca,3 x 0.5 g  (Case of 24),360.00,15.0,I
 BUBBA KUSH SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,44.99,35,,170.03,30.01,2022-03-14T01:40:41-07:00
 MANGO CBD 1:1 SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,44.99,35,,170.03,30.01,2022-03-14T11:40:00-07:00
 AK-47 AUTO SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,44.99,35,,170.03,30.01,2022-03-14T15:17:20-07:00
-BLUE DREAM BK CHOCO MULTIPK BATH BOMB,Aqualitas Inc,Stewart Farms,3 x 130 g  (Case of 10),178.30,17.83,In Stock,,,1,151.56,26.75,2022-03-15T01:42:05-07:00
+BLUE DREAM BK CHOCO MULTIPK BATH BOMB,Aqualitas Inc,Stewart Farms,3 x 130 g  (Case of 10),178.30,17.83,In Stock,,,1,151.56,26.75,2022-03-15T02:08:50-07:00
 BLUE DREAM BATH BOMB,Aqualitas Inc,Stewart Farms,1 x 130 g  (Case of 8),59.84,7.48,In Stock,,,2,50.86,8.98,2022-03-15T01:42:05-07:00
 PURPLEFARM GENETICS SOUR GLUE,Indiva,Artisan Batch,3.5 g (Case of 12),270.48,22.54,In Stock,29.99,33,2,229.91,40.57,2022-03-14T07:41:56-07:00
 KRFT CEREAL MILK,Indiva,Artisan Batch,3.5 g (Case of 12),270.48,22.54,In Stock,29.99,33,2,229.91,40.57,2022-03-13T14:05:35-07:00
