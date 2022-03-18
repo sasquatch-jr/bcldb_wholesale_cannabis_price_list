@@ -2,7 +2,7 @@ name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,orde
 NITRO COOKIES,Joint Venture Craft Cannabis,Organnicraft,3.5 g (Case of 12),369.12,30.76,In Stock,39.99,30,,313.75,55.37,2022-03-17T15:11:16-07:00
 PLATINIUM GRAPES SMALLS,Joint Venture Craft Cannabis,Organnicraft,7 g (Case of 6),277.20,46.2,Out of Stock,,,,235.62,41.58,2022-03-17T01:41:20-07:00
 NITRO COOKIES SMALLS,Joint Venture Craft Cannabis,Organnicraft,7 g (Case of 6),277.20,46.2,In Stock,64.99,41,,235.62,41.58,2022-03-18T05:55:45-07:00
-BC ORGANIC LIME MI'JITO PRE-ROLLS,Rubicon Organics,Simply Bare,3 x 0.5 g (Case of 24),402.72,16.78,In Stock,22.99,37,2,342.31,60.41,2022-03-18T01:41:15-07:00
+BC ORGANIC LIME MI'JITO PRE-ROLLS,Rubicon Organics,Simply Bare,3 x 0.5 g (Case of 24),402.72,16.78,Out of Stock,22.99,37,2,342.31,60.41,2022-03-18T08:29:50-07:00
 ORANGE TINGZ,Joint Venture Craft Cannabis,Pistol and Paris,3.5 g (Case of 12),368.04,30.67,In Stock,39.99,30,,312.83,55.21,2022-03-18T01:40:05-07:00
 RNTZ LIVE RESIN,Trichome JWC,Dymonds Conc,1 x 1 g  (Case of 6),168.00,28.0,In Stock,,,,142.80,25.20,2022-03-18T01:41:15-07:00
 SOPHIE'S BREATH LIVE RESIN,Trichome JWC,Dymonds Conc,1 x 1 g  (Case of 6),168.00,28.0,In Stock,,,,142.80,25.20,2022-03-18T01:41:15-07:00
@@ -313,11 +313,11 @@ LA KUSH CAKE PRE-ROLLS,Sundial,TOP LEAF,3 x 0.5 g (Case of 12),166.20,13.85,In S
 BC ORGANIC GELATO CAKE PRE-ROLLS,Rubicon Organics,Simply Bare,3 x 0.5 g (Case of 24),402.72,16.78,In Stock,,,,342.31,60.41,2022-03-17T21:09:40-07:00
 BC ORGANIC PINK KUSH PRE-ROLLS,Rubicon Organics,Simply Bare,3 x 0.5 g (Case of 24),402.72,16.78,In Stock,,,,342.31,60.41,2022-03-15T15:15:10-07:00
 RESPITE XTRA CBD OIL,Northern Green Canada,Joints,57 g (Case of 12),442.68,36.89,In Stock,49.99,36,,376.28,66.40,2022-03-15T19:32:25-07:00
-WAFFLE BITES PRE-ROLL,Tumbleweed Farms,Cake & Caviar by Habitat,3 x 0.5 g (Case of 12),184.56,15.38,In Stock,20.99,36,,156.88,27.68,2022-03-17T20:01:36-07:00
+WAFFLE BITES PRE-ROLL,Tumbleweed Farms,Cake & Caviar by Habitat,3 x 0.5 g (Case of 12),184.56,15.38,In Stock,20.99,36,,156.88,27.68,2022-03-18T08:29:50-07:00
 LEMON OG,Apothecary,Pemberton Craft Cannabis,3.5 g (Case of 12),317.40,26.45,In Stock,,,,269.79,47.61,2022-03-16T21:02:55-07:00
 BLACKBERRY GELATO PRE-ROLL,Agro Greens Natural,Wildlife,10 x 0.3 g (Case of 12),182.88,15.24,In Stock,,,,155.45,27.43,2022-03-17T22:03:25-07:00
 BLACKBERRY GELATO PRE-ROLL,Agro Greens Natural,Wildlife,14 x 0.5 g (Case of 12),369.48,30.79,Out of Stock,,,2,314.06,55.42,2022-02-14T14:14:27-08:00
-SUN COUNTY KUSH PRE-ROLL,Agro Greens Natural,Wildlife,10 x 0.3 g (Case of 12),182.88,15.24,In Stock,,,,155.45,27.43,2022-03-17T18:42:00-07:00
+SUN COUNTY KUSH PRE-ROLL,Agro Greens Natural,Wildlife,10 x 0.3 g (Case of 12),182.88,15.24,In Stock,,,,155.45,27.43,2022-03-18T08:29:50-07:00
 EXTRA STRENGTH BODY CREAM,Delshen Therapeutics,Apothecanna,1 x 236 g  (Case of 6),235.92,39.32,In Stock,,,,200.53,35.39,2022-03-17T15:57:20-07:00
 TGIF PRE-ROLLS,CannTrust,Xscape,14 x 0.5 g (Case of 12),381.24,31.77,In Stock,42.99,35,,324.05,57.19,2022-03-17T16:05:55-07:00
 FLIX N CHILL PRE-ROLLS,CannTrust,Xscape,14 x 0.5 g (Case of 12),381.24,31.77,In Stock,,,,324.05,57.19,2022-03-17T16:05:55-07:00
