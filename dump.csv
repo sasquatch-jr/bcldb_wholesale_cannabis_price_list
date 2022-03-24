@@ -103,7 +103,7 @@ BC ORGANIC PEMBERTON PINK,Coast Mountain,COAST MOUNTAIN CANNABIS,3.5 g (Case of 
 KUSH COOKIES,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,In Stock,24.99,33,,191.05,33.71,2022-03-24T01:40:40-07:00
 KUSH COOKIES,Greentone,3Saints,28 g (Case of 6),629.64,104.94,In Stock,139.99,33,3,535.19,94.45,2022-03-24T02:26:40-07:00
 KUSH COOKIES,Greentone,3Saints,1 g (Case of 24),166.08,6.92,Out of Stock,0.0,-100,2,141.17,24.91,2022-03-21T10:58:41-07:00
-MOON ROCK KIEF,Canngroup Development,Okanagan,1 x 1.5 g  (Case of 10),276.00,27.6,In Stock,,,,234.60,41.40,2022-03-24T01:40:40-07:00
+MOON ROCK KIEF,Canngroup Development,Okanagan,1 x 1.5 g  (Case of 10),276.00,27.6,Out of Stock,,,,234.60,41.40,2022-03-24T04:42:15-07:00
 PINEAPPLE CHUNK,BZAM,-ness,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,,234.60,41.40,2022-03-23T01:43:00-07:00
 SECRET GARDEN REBEL SOUR,BZAM,-ness,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,,234.60,41.40,2022-03-24T01:40:40-07:00
 ESPRESSO SPICE DRINK,Vortex Cannabis,Canajo,1 x 355 ml Coffee (Case of 12),57.36,4.78,In Stock,6.99,46,,48.76,8.60,2022-03-24T01:40:40-07:00
@@ -230,7 +230,7 @@ BLOOD ORANGE 20:1 CBD HYBRID SOUR GUMMIE,Indiva,WANA,10 x 4.5 g Blood Orange (Ca
 STRAWBERRY 10:1 CBD HYBRID SOUR GUMMIES,Indiva,WANA,10 x 4.5 g Strawberry (Case of 12),177.48,14.79,In Stock,,,,150.86,26.62,2022-03-23T18:22:11-07:00
 DOSI MELON PRE-ROLLS,Good Buds Company,Good Buds Company,2 x 0.5 g (Case of 24),165.60,6.9,In Stock,,,2,140.76,24.84,2022-03-23T18:22:11-07:00
 GLUERANGUTAN PRE-ROLLS,Good Buds Company,Good Buds Company,2 x 0.5 g (Case of 24),144.96,6.04,In Stock,,,,123.22,21.74,2022-03-23T19:52:10-07:00
-BLUE SKZ INFUSED BLUNT,Voyage Cannabis,RAD,"1 x 0.5 g Tart, Citrus, Sweet (Case of 12)",100.80,8.4,In Stock,11.99,43,,85.68,15.12,2022-03-24T02:57:45-07:00
+BLUE SKZ INFUSED BLUNT,Voyage Cannabis,RAD,"1 x 0.5 g Tart, Citrus, Sweet (Case of 12)",100.80,8.4,In Stock,11.99,43,,85.68,15.12,2022-03-24T04:42:15-07:00
 REDEES WAPPA PRE-ROLLS,Redecan,Redecan,10 x 0.4 g (Case of 30),465.90,15.53,In Stock,21.99,42,,396.01,69.88,2022-03-24T01:40:20-07:00
 REDEES COLD CREEK KUSH PRE-ROLL,Redecan,Redecan,10 x 0.4 g (Case of 30),465.90,15.53,In Stock,21.99,42,,396.01,69.88,2022-03-24T01:40:20-07:00
 CHIMP MINTS PRE-ROLLS,Sitka Weed Works,Sitka Micro Collection,3 x 0.5 g (Case of 24),267.84,11.16,In Stock,14.99,34,,227.66,40.18,2022-03-24T01:40:20-07:00
@@ -458,10 +458,10 @@ SOUR CHERRY PUNCH GUMMIES,Organigram,SHRED'EMS,"2 x 4.5 g Cherry, fruity, sour (
 SOUR MEGAMELON GUMMIES,Organigram,SHRED'EMS,2 x 4.5 g  (Case of 12),33.48,2.79,In Stock,,,,28.46,5.02,2022-03-24T01:39:55-07:00
 WILD BERRY BLAZE GUMMIES,Organigram,SHRED'EMS,"4 x 4.5 g berry, sweet (Case of 12)",33.48,2.79,In Stock,3.99,43,,28.46,5.02,2022-03-24T01:39:55-07:00
 STRAWBERRY FIG BALSAMIC CHEWS,Pure Sunfarms,White Rabbit OG,4 x 4.4 g Strawberry Fig Balsamic (Case of 12),56.64,4.72,In Stock,,,,48.14,8.50,2022-03-23T17:02:15-07:00
-BLACKBERRY MERLOT 1:4 CHEWS,Pure Sunfarms,White Rabbit OG,"4 x 4.05 g Blackberry, cherry, Merlot (Case of 12)",56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-03-24T01:39:55-07:00
-RASPBERRY WHITE CHOCOLATE 1:1 CHEWS,Pure Sunfarms,White Rabbit OG,4 x 4.05 g Raspberry White Chocolate (Case of 12),56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-03-24T01:39:55-07:00
+BLACKBERRY MERLOT 1:4 CHEWS,Pure Sunfarms,White Rabbit OG,"4 x 4.05 g Blackberry, cherry, Merlot (Case of 12)",56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-03-24T04:42:15-07:00
+RASPBERRY WHITE CHOCOLATE 1:1 CHEWS,Pure Sunfarms,White Rabbit OG,4 x 4.05 g Raspberry White Chocolate (Case of 12),56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-03-24T04:42:15-07:00
 ORGANIC SOUR COOKIES,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,,224.50,39.62,2022-03-24T01:39:56-07:00
-BANDWAGON INDICA,Rubicon Organics,Homestead,28 g (Case of 6),450.78,75.13,In Stock,114.99,53,1,383.16,67.62,2022-03-24T04:39:35-07:00
+BANDWAGON INDICA,Rubicon Organics,Homestead,28 g (Case of 6),450.78,75.13,In Stock,114.99,53,1,383.16,67.62,2022-03-24T04:42:15-07:00
 ROYAL DANKNESS,DBA Canopy Growth,Tweed,28 g (Case of 6),553.80,92.3,In Stock,124.99,35,,470.73,83.07,2022-03-23T15:59:50-07:00
 GUAVA CHEMDAWG LIVE RESIN CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g Gas, Fruit, Tropical (Case of 12)",461.88,38.49,In Stock,,,,392.60,69.28,2022-03-23T16:35:55-07:00
 SWEET VENOM,Dykstra Greenhouses,Dykstra Greenhouses,3.5 g (Case of 12),217.32,18.11,In Stock,24.99,38,,184.72,32.60,2022-03-24T01:39:50-07:00
@@ -722,7 +722,7 @@ CHERRY BURST PRE-ROLLS,Highland Grow,Highland Grow,3 x 0.5 g (Case of 24),242.88
 SUNSET PEACH 510 CARTRIDGE,Valens Agritech,Verse Originals,1 x 1 g  (Case of 12),334.32,27.86,In Stock,,,,284.17,50.15,2022-03-23T14:10:31-07:00
 SUMMER BERRY 510 CARTRIDGE,Valens Agritech,Verse Originals,1 x 1 g  (Case of 12),334.32,27.86,In Stock,,,,284.17,50.15,2022-03-23T15:25:30-07:00
 BLACKBERRY LEMONADE 1:2 GUMMIES,Pure Sunfarms,White Rabbit OG,4 x 4.4 g Blackberry Lemonade (Case of 12),56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-03-24T01:39:01-07:00
-CRAFT SOUR PEACH GUMMIES,Pure Sunfarms,White Rabbit OG,4 x 4.5 g Peach (Case of 12),56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-03-24T01:39:00-07:00
+CRAFT SOUR PEACH GUMMIES,Pure Sunfarms,White Rabbit OG,4 x 4.5 g Peach (Case of 12),56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-03-24T04:42:15-07:00
 FROST MONSTER PRE-ROLL,Aphria,Broken Coast Cannabis,1 x 0.5 g (Case of 48),254.40,5.3,In Stock,5.97,13,,216.24,38.16,2022-03-22T16:45:40-07:00
 HEADSTASH PRE-ROLL,Aphria,Broken Coast Cannabis,1 x 0.5 g (Case of 48),254.40,5.3,In Stock,,,,216.24,38.16,2022-03-23T23:53:55-07:00
 TUTTI FRUTTI PRE-ROLL,WEED ME,WEED ME,3 x 0.5 g (Case of 24),276.00,11.5,In Stock,14.99,30,,234.60,41.40,2022-03-24T01:39:01-07:00
