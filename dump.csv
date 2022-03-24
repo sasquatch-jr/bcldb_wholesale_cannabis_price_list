@@ -1,7 +1,7 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 NITRO COOKIES,Joint Venture Craft Cannabis,Organnicraft,3.5 g (Case of 12),369.12,30.76,In Stock,39.99,30,,313.75,55.37,2022-03-23T16:49:26-07:00
 NITRO COOKIES SMALLS,Joint Venture Craft Cannabis,Organnicraft,7 g (Case of 6),277.20,46.2,In Stock,64.99,41,,235.62,41.58,2022-03-23T15:25:30-07:00
-LEMON DIESEL,BZAM,Table Top,28 g (Case of 6),455.76,75.96,In Stock,99.99,32,3,387.40,68.36,2022-03-23T16:49:25-07:00
+LEMON DIESEL,BZAM,Table Top,28 g (Case of 6),455.76,75.96,In Stock,99.99,32,3,387.40,68.36,2022-03-23T16:51:00-07:00
 JUNGLE CAKE,BZAM,Table Top,28 g (Case of 6),455.76,75.96,In Stock,99.99,32,3,387.40,68.36,2022-03-23T16:49:26-07:00
 BANANA RNTZ,Castle Rock Farms,BC Green,3 x 0.5 g (Case of 12),137.88,11.49,In Stock,14.99,30,,117.20,20.68,2022-03-23T16:49:25-07:00
 GUAVA BISCOTTI PRE-ROLLS,Canadian Clinical Cannabanoids,The Loud Plug,3 x 0.5 g (Case of 12),165.60,13.8,In Stock,19.99,45,,140.76,24.84,2022-03-23T16:49:25-07:00
@@ -398,7 +398,7 @@ CHEDDAR BOMB PRE-ROLLS,Sitka Weed Works,Sitka Micro Collection,3 x 0.5 g (Case o
 SASSAFRAS VAPE CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g  (Case of 6),157.50,26.25,In Stock,,,,133.88,23.62,2022-03-23T16:49:25-07:00
 MINT CHIP VAPE CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g Mint Chip Ice Cream (Case of 6),157.50,26.25,In Stock,36.99,41,,133.88,23.62,2022-03-23T16:49:26-07:00
 WEDDING CAKE,Freedom,Freedom Cannabis,28 g (Case of 6),504.42,84.07,Out of Stock,119.99,43,,428.76,75.66,2022-03-23T12:43:20-07:00
-SLURRICANE,Freedom,Freedom Cannabis,28 g (Case of 6),504.42,84.07,In Stock,119.99,43,,428.76,75.66,2022-03-23T13:33:20-07:00
+SLURRICANE,Freedom,Freedom Cannabis,28 g (Case of 6),504.42,84.07,In Stock,119.99,43,,428.76,75.66,2022-03-23T16:51:00-07:00
 CHEM OG,Muskoka Grown,Muskoka Grown,3.5 g (Case of 12),230.88,19.24,In Stock,24.99,30,,196.25,34.63,2022-03-23T15:01:26-07:00
 SHORTBREAD BISCUIT,THC BioMed,THC Kiss,1 x 13.5 g Shortbread (Case of 12),24.96,2.08,In Stock,2.99,44,,21.22,3.74,2022-03-23T01:42:15-07:00
 CINNAMON BISCUIT,THC BioMed,THC Kiss,1 x 13.5 g Cinnamon (Case of 12),24.96,2.08,In Stock,2.99,44,,21.22,3.74,2022-03-23T12:23:10-07:00
@@ -547,8 +547,8 @@ PENNYWISE 1:1,Pure Sunfarms,Pure Sunfarms,3.5 g (Case of 12),184.56,15.38,In Sto
 CAKE CRASHER,IslandCanna,FRESH,3.5 g (Case of 12),395.40,32.95,In Stock,,,,336.09,59.31,2022-03-15T19:32:25-07:00
 ALIEN COOKIES,IslandCanna,FRESH,3.5 g (Case of 12),395.40,32.95,In Stock,,,,336.09,59.31,2022-03-15T19:32:26-07:00
 GOOD OL' HASH,Aphria,Good Supply,"2 x 1 g Pungent, diesel, cirtus (Case of 12)",231.72,19.31,In Stock,27.99,45,,196.96,34.76,2022-03-23T16:49:26-07:00
-ALL PURPOSE FLOWER SATIVA,HEXO,Bake Sale,28 g (Case of 12),587.88,48.99,In Stock,,,,499.70,88.18,2022-03-23T16:13:15-07:00
-ALL PURPOSE FLOWER INDICA,HEXO,Bake Sale,28 g (Case of 12),587.88,48.99,In Stock,,,,499.70,88.18,2022-03-23T16:23:35-07:00
+ALL PURPOSE FLOWER SATIVA,HEXO,Bake Sale,28 g (Case of 12),587.88,48.99,In Stock,,,,499.70,88.18,2022-03-23T16:51:00-07:00
+ALL PURPOSE FLOWER INDICA,HEXO,Bake Sale,28 g (Case of 12),587.88,48.99,In Stock,,,,499.70,88.18,2022-03-23T16:51:00-07:00
 OS. HASH SATIVA,HEXO,Original Stash,"1 x 2 g Earthy, Woody (Case of 12)",238.32,19.86,In Stock,27.99,41,,202.57,35.75,2022-03-23T16:07:35-07:00
 POWDERED DONUTS PRE-ROLLS,BZAM,-ness,7 x 0.5 g (Case of 12),230.04,19.17,In Stock,,,,195.53,34.51,2022-03-23T14:59:12-07:00
 NINJA FRUIT VAPE CARTRIDGE,BZAM,-ness,1 x 1 g  (Case of 12),302.28,25.19,In Stock,,,,256.94,45.34,2022-03-23T16:49:26-07:00
