@@ -2,7 +2,7 @@ name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,orde
 NITRO COOKIES,Joint Venture Craft Cannabis,Organnicraft,3.5 g (Case of 12),369.12,30.76,In Stock,39.99,30,,313.75,55.37,2022-03-25T01:44:25-07:00
 NITRO COOKIES SMALLS,Joint Venture Craft Cannabis,Organnicraft,7 g (Case of 6),277.20,46.2,Out of Stock,,,,235.62,41.58,2022-03-24T11:18:05-07:00
 BC ORGANIC ORANGE ANIMAL,Rubicon Organics,Simply Bare,14 g (Case of 4),384.48,96.12,Out of Stock,,,,326.81,57.67,2022-03-24T10:26:25-07:00
-ZOMBIE KUSH,BZAM,Table Top,7 g (Case of 12),404.88,33.74,In Stock,44.99,33,2,344.15,60.73,2022-03-25T11:40:05-07:00
+ZOMBIE KUSH,BZAM,Table Top,7 g (Case of 12),404.88,33.74,In Stock,44.99,33,2,344.15,60.73,2022-03-25T12:11:20-07:00
 CAKE CRASHER,BZAM,BZAM x Dunn,3.5 g (Case of 12),337.08,28.09,In Stock,37.99,35,2,286.52,50.56,2022-03-25T11:12:35-07:00
 LEMON DIESEL,BZAM,Table Top,28 g (Case of 6),455.76,75.96,In Stock,99.99,32,3,387.40,68.36,2022-03-25T09:53:10-07:00
 JUNGLE CAKE,BZAM,Table Top,28 g (Case of 6),455.76,75.96,In Stock,99.99,32,3,387.40,68.36,2022-03-25T09:53:10-07:00
@@ -27,7 +27,7 @@ LYCHEE BUBBLE TEA CARTRIDGE,Dycar Pharmaceuticals,Lamplighter,1 x 1 g Lychee (Ca
 WEDDING CAKE,Peace Naturals,Spinach,28 g (Case of 6),501.90,83.65,In Stock,114.99,37,3,426.61,75.28,2022-03-25T09:19:10-07:00
 SOUR CHERRY LIVE RESIN GUMMIES,Aurora,San Rafael '71,"4 x 4.75 g sweet, sour, cherry, tangy  (Case of 12)",50.28,4.19,In Stock,,,,42.74,7.54,2022-03-25T10:22:10-07:00
 SOUR BLUEBERRY LIVE RESIN GUMMIES,Aurora,San Rafael '71,"4 x 4.75 g blueberry, sour, tangy (Case of 12)",50.28,4.19,In Stock,5.99,43,,42.74,7.54,2022-03-25T10:22:10-07:00
-HYCYCLE 1:1 VAPE,Motif Labs,Hycycle,1 x 1 g  (Case of 12),222.00,18.5,In Stock,,,,188.70,33.30,2022-03-25T01:44:35-07:00
+HYCYCLE 1:1 VAPE,Motif Labs,Hycycle,1 x 1 g  (Case of 12),222.00,18.5,In Stock,,,,188.70,33.30,2022-03-25T12:11:20-07:00
 SUNDAE STRUDEL,Greentone,3Saints,3.5 g (Case of 12),224.76,18.73,In Stock,24.99,33,2,191.05,33.71,2022-03-25T01:44:35-07:00
 REAL FRUIT ELDERBERRY CBN GUMMIES,Indiva,Wyld,2 x 4 g elderberry (Case of 12),58.80,4.9,In Stock,,,,49.98,8.82,2022-03-25T11:05:40-07:00
 SPIRE MAZZBERRY PRE-ROLLS,Oakum,OAKUM,5 x 0.3 g (Case of 12),117.36,9.78,In Stock,,,,99.76,17.60,2022-03-25T11:40:05-07:00
@@ -38,7 +38,7 @@ LIVE RESIN CARTRIDGE,Thrive Cannabis,Greybeard,"1 x 1 g Sweet, Citrus, Floral (C
 PURE LIVE ROSIN CARTRIDGE,Thrive Cannabis,Greybeard,1 x 0.5 g Gassy (Case of 12),282.60,23.55,In Stock,32.99,40,,240.21,42.39,2022-03-25T09:12:30-07:00
 CITRAL KUSH PRE-ROLLS,Pure life Cannabis Corp,Pure Life Cannabis Corp,3 x 0.5 g (Case of 12),138.00,11.5,In Stock,14.99,30,2,117.30,20.70,2022-03-25T01:44:35-07:00
 THC TOFFEE & SALT MILK CHOCOLATE,Indiva,Bhang,1 x 10 g Toffee and Sea Salt (Case of 12),33.00,2.75,In Stock,3.99,45,,28.05,4.95,2022-03-24T18:55:30-07:00
-BLUEBERRY YUM YUM PRE-ROLLS,Tumbleweed Farms,Cake & Caviar by Habitat,3 x 0.5 g (Case of 12),184.56,15.38,In Stock,,,,156.88,27.68,2022-03-25T11:13:45-07:00
+BLUEBERRY YUM YUM PRE-ROLLS,Tumbleweed Farms,Cake & Caviar by Habitat,3 x 0.5 g (Case of 12),184.56,15.38,In Stock,,,,156.88,27.68,2022-03-25T12:11:20-07:00
 KUSH CAKE,Organigram,Edison,3.5 g (Case of 12),259.44,21.62,In Stock,29.99,39,,220.52,38.92,2022-03-25T09:08:45-07:00
 MILK BONE PRE-ROLLS,Castle Rock Farms,Castle Rock Farms,14 x 0.5 g (Case of 12),364.56,30.38,In Stock,39.99,32,2,309.88,54.68,2022-03-25T05:29:35-07:00
 CEMENT SHOES PRE-ROLLS,Castle Rock Farms,BC Green,3 x 0.5 g (Case of 18),206.82,11.49,In Stock,14.99,30,2,175.80,31.02,2022-03-25T09:21:10-07:00
@@ -57,7 +57,7 @@ INDICA 30 + INFUSED PRE-ROLL,Aphria,Canaca,3 x 0.5 g  (Case of 24),360.00,15.0,I
 BUBBA KUSH SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,44.99,35,,170.03,30.01,2022-03-25T09:52:10-07:00
 MANGO CBD 1:1 SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,44.99,35,,170.03,30.01,2022-03-24T17:38:00-07:00
 AK-47 AUTO SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,44.99,35,,170.03,30.01,2022-03-23T12:26:15-07:00
-BRITNEY'S FROZEN LEMONS PRE-ROLLS,Aqualitas Inc,Stewart Farms,3 x 0.5 g (Case of 12),136.68,11.39,In Stock,15.99,40,2,116.18,20.50,2022-03-25T11:40:05-07:00
+BRITNEY'S FROZEN LEMONS PRE-ROLLS,Aqualitas Inc,Stewart Farms,3 x 0.5 g (Case of 12),136.68,11.39,In Stock,15.99,40,2,116.18,20.50,2022-03-25T12:11:15-07:00
 PURPLEFARM GENETICS SOUR GLUE,Indiva,Artisan Batch,3.5 g (Case of 12),270.48,22.54,In Stock,29.99,33,,229.91,40.57,2022-03-25T08:27:16-07:00
 KRFT CEREAL MILK,Indiva,Artisan Batch,3.5 g (Case of 12),270.48,22.54,In Stock,29.99,33,,229.91,40.57,2022-03-24T12:12:56-07:00
 QUICKIES CHEMDAWG PRE-ROLLS,DBA Canopy Growth,Tweed,10 x 0.35 g (Case of 24),396.00,16.5,In Stock,,,,336.60,59.40,2022-03-24T12:08:45-07:00
@@ -122,8 +122,8 @@ PINK SPARKLER DRINK,Vortex Cannabis,Via Regal,1 x 355 ml Grape (Case of 12),76.0
 DAILY CBD MULTIPACK SOUR CHERRY,Tidal Health Solutions,TIDAL,25 x 3.2 g Sour Cherry (Case of 12),226.32,18.86,In Stock,24.97,32,,192.37,33.95,2022-03-24T09:47:50-07:00
 DAILY CBD MULTIPACK-WATERMELON,Tidal Health Solutions,TIDAL,25 x 3.2 g Watermelon (Case of 12),226.32,18.86,In Stock,24.97,32,,192.37,33.95,2022-03-25T01:44:20-07:00
 COOKIES N' CREAM,Abba Medix,MTL CANNABIS,3.5 g (Case of 12),269.16,22.43,In Stock,29.99,34,,228.79,40.37,2022-03-25T01:44:16-07:00
-GSC,Acreage Pharms,Peers,7 g (Case of 12),415.20,34.6,In Stock,44.99,30,,352.92,62.28,2022-03-23T18:54:00-07:00
-GSC,Acreage Pharms,Peers,28 g (Case of 12),1107.60,92.3,In Stock,119.99,30,,941.46,166.14,2022-03-24T09:18:30-07:00
+GSC,Acreage Pharms,Peers,7 g (Case of 12),415.20,34.6,In Stock,44.99,30,,352.92,62.28,2022-03-25T12:18:45-07:00
+GSC,Acreage Pharms,Peers,28 g (Case of 12),1107.60,92.3,In Stock,119.99,30,,941.46,166.14,2022-03-25T12:19:58-07:00
 MK ULTRA,Aurora,Daily Special,3.5 g (Case of 12),193.92,16.16,In Stock,,,,164.83,29.09,2022-03-24T21:04:46-07:00
 MK ULTRA,Aurora,Daily Special,7 g (Case of 12),342.00,28.5,In Stock,,,,290.70,51.30,2022-03-25T01:44:10-07:00
 MK ULTRA,Aurora,Daily Special,15 g (Case of 12),618.96,51.58,Out of Stock,,,,526.12,92.84,2022-03-04T09:43:15-08:00
