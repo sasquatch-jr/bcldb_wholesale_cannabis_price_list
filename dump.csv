@@ -1,6 +1,6 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 NITRO COOKIES,Joint Venture Craft Cannabis,Organnicraft,3.5 g (Case of 12),369.12,30.76,In Stock,39.99,30,,313.75,55.37,2022-03-28T13:22:30-07:00
-HONEYDEW BOBA PREFILLED VAPE CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g Melon, Fresh, Sweet (Case of 12)",311.88,25.99,In Stock,36.99,42,,265.10,46.78,2022-03-28T16:21:05-07:00
+HONEYDEW BOBA PREFILLED VAPE CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g Melon, Fresh, Sweet (Case of 12)",311.88,25.99,In Stock,36.99,42,,265.10,46.78,2022-03-28T16:34:40-07:00
 ZOMBIE KUSH,BZAM,Table Top,7 g (Case of 12),404.88,33.74,In Stock,44.99,33,2,344.15,60.73,2022-03-28T16:23:40-07:00
 CAKE CRASHER,BZAM,BZAM x Dunn,3.5 g (Case of 12),337.08,28.09,In Stock,37.99,35,2,286.52,50.56,2022-03-28T16:08:27-07:00
 JUNGLE CAKE,BZAM,Table Top,28 g (Case of 6),455.76,75.96,In Stock,99.99,32,3,387.40,68.36,2022-03-28T16:11:40-07:00
@@ -12,9 +12,9 @@ ROOTY B CARTRDIGE,Motif Labs,Sticky Greens,1 x 1 g Rootbeer Float (Case of 12),2
 MAX THC (INDICA) CANNABIS OIL,DBA Canopy Growth,TWD,28.5 g (Case of 12),240.00,20.0,In Stock,26.99,35,,204.00,36.00,2022-03-28T12:46:51-07:00
 MAX THC (SATIVA) CANNABIS OIL,DBA Canopy Growth,TWD,28.5 g (Case of 12),240.00,20.0,In Stock,26.99,35,,204.00,36.00,2022-03-28T16:05:45-07:00
 BLACK PEARL PRE-ROLLS,Tumbleweed Farms,Cake & Caviar by Habitat,3 x 0.5 g (Case of 12),184.56,15.38,In Stock,,,,156.88,27.68,2022-03-28T16:08:27-07:00
-RASPBERRY KUSH DISTILLATE VAPE CARTRIDGE,Sundial Growers,Palmetto,1 x 1 g RASPBERRY (Case of 12),294.00,24.5,In Stock,34.99,43,,249.90,44.10,2022-03-28T16:08:25-07:00
+RASPBERRY KUSH DISTILLATE VAPE CARTRIDGE,Sundial Growers,Palmetto,1 x 1 g RASPBERRY (Case of 12),294.00,24.5,In Stock,34.99,43,,249.90,44.10,2022-03-28T16:34:40-07:00
 BC ORGANIC SECRET STRAWBERRY LIVE ROSIN,Rubicon Organics,Simply Bare,1 x 1 g  (Case of 6),264.06,44.01,Out of Stock,,,,224.45,39.61,2022-03-28T10:15:01-07:00
-SOUR FRUIT BURST CARTRIDGE,Motif Labs,Sticky Greens,1 x 1 g Strawberry-citrus (Case of 12),296.76,24.73,In Stock,34.99,41,,252.25,44.51,2022-03-28T16:23:40-07:00
+SOUR FRUIT BURST CARTRIDGE,Motif Labs,Sticky Greens,1 x 1 g Strawberry-citrus (Case of 12),296.76,24.73,In Stock,34.99,41,,252.25,44.51,2022-03-28T16:34:40-07:00
 ORANGE TINGZ,Joint Venture Craft Cannabis,Pistol and Paris,3.5 g (Case of 12),368.04,30.67,In Stock,39.99,30,,312.83,55.21,2022-03-28T16:29:25-07:00
 DSD SHATTER,Trichome JWC,Dymonds Concentrates,1 x 1 g  (Case of 12),310.56,25.88,In Stock,,,,263.98,46.58,2022-03-28T13:32:10-07:00
 TANGIE SHATTER,Trichome JWC,Dymonds Concentrates,1 x 1 g  (Case of 12),310.56,25.88,In Stock,,,,263.98,46.58,2022-03-28T16:21:05-07:00
@@ -267,7 +267,7 @@ SATIVA CAPSULES,Indiva,Indiva,15 capsules (Case of 12),138.36,11.53,In Stock,14.
 INDICA CAPSULES,Indiva,Indiva,15 capsules (Case of 12),138.36,11.53,In Stock,14.99,30,,117.61,20.75,2022-03-28T15:20:15-07:00
 GROWER'S STASH #003 PRE-ROLLS,Aurora,San Rafael '71,3 x 0.5 g (Case of 12),157.08,13.09,In Stock,17.99,37,,133.52,23.56,2022-03-28T12:00:10-07:00
 ATOMIC SOUR GRAPEFRUIT CARTRIDGE,Peace Naturals,Spinach,1 x 1 g Grapefruit (Case of 12),264.36,22.03,In Stock,31.99,45,,224.71,39.65,2022-03-28T15:58:00-07:00
-PINEAPPLE PARADISE CARTRIDGE,Peace Naturals,Spinach,1 x 1 g Pineapple (Case of 12),264.36,22.03,In Stock,31.99,45,,224.71,39.65,2022-03-28T16:08:26-07:00
+PINEAPPLE PARADISE CARTRIDGE,Peace Naturals,Spinach,1 x 1 g Pineapple (Case of 12),264.36,22.03,In Stock,31.99,45,,224.71,39.65,2022-03-28T16:32:15-07:00
 PINE TAR KUSH,Pure Sunfarms,Pure Sunfarms,3.5 g (Case of 12),156.72,13.06,In Stock,21.99,68,,133.21,23.51,2022-03-28T15:01:55-07:00
 BANANA PURPLE PUNCH,TerrAscend,Haven St. Premium Cannabis,3.5 g (Case of 12),276.00,23.0,In Stock,29.99,30,,234.60,41.40,2022-03-28T09:26:50-07:00
 SUNNY CITRUS CBD GUMMIES,Organigram,Monjour,"30 x 4.5 g Orange, Lemon and lime (Case of 12)",251.88,20.99,In Stock,29.99,43,,214.10,37.78,2022-03-28T14:13:40-07:00
