@@ -1,6 +1,6 @@
 name,lp,brand,size,price,price_per_item,in_stock,retail_price,retail_markup,order_limit,lp_cut,bcldb_cut,last_updated
 NITRO COOKIES,Joint Venture Craft Cannabis,Organnicraft,3.5 g (Case of 12),369.12,30.76,In Stock,39.99,30,,313.75,55.37,2022-03-29T16:40:31-07:00
-BC ORGANIC ORANGE ANIMAL,Rubicon Organics,Simply Bare,14 g (Case of 4),384.48,96.12,In Stock,,,,326.81,57.67,2022-03-29T16:24:15-07:00
+BC ORGANIC ORANGE ANIMAL,Rubicon Organics,Simply Bare,14 g (Case of 4),384.48,96.12,In Stock,,,,326.81,57.67,2022-03-29T17:10:55-07:00
 HONEYDEW BOBA PREFILLED VAPE CARTRIDGE,Westleaf Labs,General Admission,"1 x 0.95 g Melon, Fresh, Sweet (Case of 12)",311.88,25.99,In Stock,36.99,42,,265.10,46.78,2022-03-29T16:08:05-07:00
 ZOMBIE KUSH,BZAM,Table Top,7 g (Case of 12),404.88,33.74,In Stock,44.99,33,2,344.15,60.73,2022-03-29T16:33:50-07:00
 CAKE CRASHER,BZAM,BZAM x Dunn,3.5 g (Case of 12),337.08,28.09,In Stock,37.99,35,2,286.52,50.56,2022-03-29T15:45:10-07:00
@@ -473,7 +473,7 @@ WILD BERRY BLAZE GUMMIES,Organigram,SHRED'EMS,"4 x 4.5 g berry, sweet (Case of 1
 STRAWBERRY FIG BALSAMIC CHEWS,Pure Sunfarms,White Rabbit OG,4 x 4.4 g Strawberry Fig Balsamic (Case of 12),56.64,4.72,In Stock,,,,48.14,8.50,2022-03-28T14:49:11-07:00
 BLACKBERRY MERLOT 1:4 CHEWS,Pure Sunfarms,White Rabbit OG,"4 x 4.05 g Blackberry, cherry, Merlot (Case of 12)",56.64,4.72,In Stock,6.99,48,,48.14,8.50,2022-03-29T15:45:10-07:00
 RASPBERRY WHITE CHOCOLATE 1:1 CHEWS,Pure Sunfarms,White Rabbit OG,4 x 4.05 g Raspberry White Chocolate (Case of 12),56.64,4.72,In Stock,,,,48.14,8.50,2022-03-29T01:37:10-07:00
-BANDWAGON SATIVA,Rubicon Organics,Homestead,28 g (Case of 6),450.78,75.13,In Stock,114.99,53,1,383.16,67.62,2022-03-29T16:08:05-07:00
+BANDWAGON SATIVA,Rubicon Organics,Homestead,28 g (Case of 6),450.78,75.13,In Stock,114.99,53,1,383.16,67.62,2022-03-29T17:10:55-07:00
 ORGANIC SOUR COOKIES,Rubicon Organics,1964,3.5 g (Case of 12),264.12,22.01,In Stock,29.99,36,,224.50,39.62,2022-03-29T15:21:05-07:00
 BANDWAGON INDICA,Rubicon Organics,Homestead,28 g (Case of 6),450.78,75.13,Out of Stock,114.99,53,1,383.16,67.62,2022-03-29T10:22:30-07:00
 ROYAL DANKNESS,DBA Canopy Growth,Tweed,28 g (Case of 6),553.80,92.3,In Stock,124.99,35,,470.73,83.07,2022-03-29T15:07:26-07:00
@@ -870,7 +870,7 @@ MONKEY GLUE,Aphria,Good Supply,28 g (Case of 12),911.88,75.99,In Stock,99.99,32,
 MONKEY GLUE,Aphria,Good Supply,3.5 g (Case of 24),364.56,15.19,Out of Stock,21.99,45,,309.88,54.68,2022-01-28T14:39:26-08:00
 MAC 1 PRE ROLL,Experion,CITIZEN STASH,2 x 0.5 g (Case of 24),280.80,11.7,In Stock,14.99,28,,238.68,42.12,2022-03-28T10:43:15-07:00
 REDEE OUTLAW PRE-ROLL,Redecan,Redees,10 x 0.35 g (Case of 30),362.40,12.08,In Stock,,,,308.04,54.36,2022-03-29T15:03:56-07:00
-HEADBAND PRE-ROLL,Pure Sunfarms,Pure Sunfarms,3 x 0.5 g (Case of 24),134.88,5.62,In Stock,,,,114.65,20.23,2022-03-29T16:40:36-07:00
+HEADBAND PRE-ROLL,Pure Sunfarms,Pure Sunfarms,3 x 0.5 g (Case of 24),134.88,5.62,In Stock,,,,114.65,20.23,2022-03-29T17:10:55-07:00
 CBD 25 REGULAR FORMULA,Medipharm Labs,MediPharm Labs,20 ml (Case of 12),220.80,18.4,Out of Stock,18.97,3,,187.68,33.12,2021-07-15T01:37:00-07:00
 CBD 25 REGULAR FORMULA,Medipharm Labs,MediPharm Labs,28.5 g (Case of 12),259.08,21.59,In Stock,27.99,30,,220.22,38.86,2022-03-27T20:41:00-07:00
 SATIVA,Pure Sunfarms,Pure Sunfarms,28 g (Case of 6),442.14,73.69,In Stock,,,,375.82,66.32,2022-03-29T14:11:15-07:00
@@ -916,7 +916,7 @@ TWD INDICA,Canopy Growth Corporation,TWD,7 g (Case of 12),304.80,25.4,In Stock,,
 TWD INDICA,Canopy Growth Corporation,TWD,28 g (Case of 6),461.88,76.98,Out of Stock,,,,392.60,69.28,2022-03-11T18:36:50-08:00
 SPARK CARTRIDGE,Organigram,Trailblazer,"1 x 0.5 g Mango, Pineapple, Tropical (Case of 12)",255.36,21.28,Out of Stock,,,,217.06,38.30,2021-09-28T11:41:40-07:00
 SPARK CARTRIDGE,Organigram,Trailblazer,"1 x 1 g Mango, Pineapple, Tropical (Case of 6)",149.04,24.84,In Stock,,,,126.68,22.36,2022-03-29T16:33:50-07:00
-WHITE RHINO PRE-ROLL,Pure Sunfarms,Pure Sunfarms,3 x 0.5 g (Case of 24),134.88,5.62,In Stock,9.99,78,,114.65,20.23,2022-03-29T16:40:36-07:00
+WHITE RHINO PRE-ROLL,Pure Sunfarms,Pure Sunfarms,3 x 0.5 g (Case of 24),134.88,5.62,In Stock,9.99,78,,114.65,20.23,2022-03-29T17:10:55-07:00
 PAX ERA,Pax Labs,PAX Labs,Slate (Case of 6),86.28,14.38,Out of Stock,24.99,74,,73.34,12.94,2022-03-29T01:35:45-07:00
 SPINACH BATTERY PACK,Peace Naturals,SPINACH,1017995 (Case of 12),89.76,7.48,In Stock,9.99,34,,76.30,13.46,2022-03-29T16:33:50-07:00
 CHOWIE WOWIE THC WATERMELON GUMMIES,Tilray Canada,CHOWIE WOWIE,4 x 2.5 g WATERMELON (Case of 12),43.56,3.63,In Stock,4.99,37,,37.03,6.53,2022-03-29T16:40:35-07:00
