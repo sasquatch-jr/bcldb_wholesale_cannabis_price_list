@@ -9,7 +9,7 @@ ZOMBIE KUSH,BZAM,Table Top,7 g (Case of 12),404.88,33.74,In Stock,44.99,33,2,344
 CAKE CRASHER,BZAM,BZAM x Dunn,3.5 g (Case of 12),337.08,28.09,In Stock,37.99,35,2,286.52,50.56,2022-04-02T19:01:05-07:00
 JUNGLE CAKE,BZAM,Table Top,28 g (Case of 6),455.76,75.96,Out of Stock,99.99,32,3,387.40,68.36,2022-04-01T10:14:05-07:00
 ZIG-ZAG WHITE 1 1/4 CONES,Recreation Marketing,ZIG-ZAG,6 x ZIG-ZAG WHITE 1 1/4 CONES (Case of 24),63.84,2.66,In Stock,4.99,88,,54.26,9.58,2022-03-31T01:40:25-07:00
-LEMON ROYALE,Sundial Growers,PALMETTO,3.5 g (Case of 12),203.16,16.93,In Stock,22.99,36,3,172.69,30.47,2022-04-03T20:45:50-07:00
+LEMON ROYALE,Sundial Growers,PALMETTO,3.5 g (Case of 12),203.16,16.93,In Stock,22.99,36,3,172.69,30.47,2022-04-03T21:15:00-07:00
 SUNSHINE PINE AUTO FLOWER SEEDS,Tricanna Industries,Weathered Islands Craft Cannabis,5 seeds (Case of 6),134.58,22.43,Out of Stock,,,,114.39,20.19,2022-04-02T09:04:15-07:00
 GUAVA BISCOTTI PRE-ROLLS,Canadian Clinical Cannabanoids,The Loud Plug,3 x 0.5 g (Case of 12),165.60,13.8,In Stock,19.99,45,,140.76,24.84,2022-04-03T20:23:15-07:00
 ROOTY B CARTRDIGE,Motif Labs,Sticky Greens,1 x 1 g Rootbeer Float (Case of 12),296.76,24.73,Out of Stock,,,,252.25,44.51,2022-04-02T19:01:05-07:00
@@ -76,7 +76,7 @@ STARDUST PRE-ROLLS,Choice Growers,Choice Growers Cannabis,3 x 0.5 g (Case of 12)
 INDICA 30 + INFUSED PRE-ROLL,Aphria,Canaca,3 x 0.5 g  (Case of 24),360.00,15.0,In Stock,,,,306.00,54.00,2022-04-03T17:42:00-07:00
 BUBBA KUSH SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,44.99,35,,170.03,30.01,2022-04-01T17:36:10-07:00
 MANGO CBD 1:1 SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,44.99,35,,170.03,30.01,2022-04-01T17:36:10-07:00
-AK-47 AUTO SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,44.99,35,,170.03,30.01,2022-04-03T13:47:30-07:00
+AK-47 AUTO SEEDS,Anc Inc,34 Street Seed Co,5 seeds (Case of 6),200.04,33.34,In Stock,44.99,35,,170.03,30.01,2022-04-03T21:15:00-07:00
 HUMBOLDT COUNTY,Western Cannabis,Backwoods BC Bud,3.5 g (Case of 12),277.20,23.1,In Stock,29.99,30,,235.62,41.58,2022-04-03T15:29:50-07:00
 PURPLEFARM GENETICS SOUR GLUE,Indiva,Artisan Batch,3.5 g (Case of 12),270.48,22.54,In Stock,29.99,33,,229.91,40.57,2022-04-03T15:29:51-07:00
 QUICKIES CHEMDAWG PRE-ROLLS,DBA Canopy Growth,Tweed,10 x 0.35 g (Case of 24),396.00,16.5,In Stock,,,,336.60,59.40,2022-04-03T13:58:25-07:00
@@ -97,7 +97,7 @@ ORANGE DARK CHOCOLATE,Dycar Pharmaceuticals,Legend,1 x 10 g Orange & Chocolate (
 COOL MINT CRUSH CHOCOLATE,Dycar Pharmaceuticals,Legend,1 x 10 g Peppermint & Chocolate (Case of 12),33.00,2.75,In Stock,3.99,45,,28.05,4.95,2022-04-03T13:47:30-07:00
 RASPBERRY MILK CHOCOLATE,Dycar Pharmaceuticals,Legend,1 x 10 g Raspberry & Chocolate (Case of 12),33.00,2.75,In Stock,3.99,45,,28.05,4.95,2022-04-03T15:29:51-07:00
 BALANCED ORANGE MILK CHOCOLATE 1:1,Dycar Pharmaceuticals,Legend,1 x 10 g Orange & Chocolate (Case of 12),33.00,2.75,In Stock,3.99,45,,28.05,4.95,2022-04-03T20:23:15-07:00
-THC DARK CHOCOLATE,Dycar Pharmaceuticals,Legend,1 x 10 g Dark Chocolate (Case of 12),33.00,2.75,In Stock,3.99,45,,28.05,4.95,2022-04-03T15:29:52-07:00
+THC DARK CHOCOLATE,Dycar Pharmaceuticals,Legend,1 x 10 g Dark Chocolate (Case of 12),33.00,2.75,In Stock,3.99,45,,28.05,4.95,2022-04-03T21:15:00-07:00
 THC MILK CHOCOLATE,Dycar Pharmaceuticals,Legend,1 x 10 g Milk Chocolate (Case of 12),33.00,2.75,In Stock,3.99,45,,28.05,4.95,2022-04-03T14:31:45-07:00
 SOUR TANGIE DIAMOND INFUSED PRE-ROLLS,Westleaf Labs,QWEST,3 x 0.5 g Sour Citrus (Case of 24),480.00,20.0,In Stock,,,,408.00,72.00,2022-04-03T14:31:46-07:00
 D BUBBA SHATTER VAPE CARTRIDGE,CannMart,Phyto Extractions,1 x 1 g  (Case of 12),380.16,31.68,In Stock,,,,323.14,57.02,2022-04-03T12:13:51-07:00
@@ -957,7 +957,7 @@ TWD INDICA,Canopy Growth Corporation,TWD,15 g (Case of 6),286.38,47.73,In Stock,
 TWD INDICA,Canopy Growth Corporation,TWD,7 g (Case of 12),287.88,23.99,In Stock,,,,244.70,43.18,2022-04-03T10:11:35-07:00
 TWD INDICA,Canopy Growth Corporation,TWD,28 g (Case of 6),461.88,76.98,Out of Stock,,,,392.60,69.28,2022-03-31T15:21:41-07:00
 FLICKER CARTRIDGE,Organigram,Trailblazer,"1 x 0.5 g Grape, Blueberry (Case of 12)",255.36,21.28,Out of Stock,,,,217.06,38.30,2021-09-15T10:46:06-07:00
-FLICKER CARTRIDGE,Organigram,Trailblazer,"1 x 1 g Grape, Blueberry (Case of 6)",149.04,24.84,In Stock,,,,126.68,22.36,2022-04-02T07:38:05-07:00
+FLICKER CARTRIDGE,Organigram,Trailblazer,"1 x 1 g Grape, Blueberry (Case of 6)",149.04,24.84,In Stock,,,,126.68,22.36,2022-04-03T21:15:00-07:00
 SPARK CARTRIDGE,Organigram,Trailblazer,"1 x 0.5 g Mango, Pineapple, Tropical (Case of 12)",255.36,21.28,Out of Stock,,,,217.06,38.30,2021-09-28T11:41:40-07:00
 SPARK CARTRIDGE,Organigram,Trailblazer,"1 x 1 g Mango, Pineapple, Tropical (Case of 6)",149.04,24.84,In Stock,,,,126.68,22.36,2022-03-31T15:31:59-07:00
 WHITE RHINO PRE-ROLL,Pure Sunfarms,Pure Sunfarms,3 x 0.5 g (Case of 24),176.64,7.36,In Stock,9.99,36,,150.14,26.50,2022-04-03T15:29:51-07:00
