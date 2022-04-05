@@ -12,7 +12,7 @@ ZOMBIE KUSH,BZAM,Table Top,7 g (Case of 12),404.88,33.74,In Stock,44.99,33,2,344
 CAKE CRASHER,BZAM,BZAM x Dunn,3.5 g (Case of 12),337.08,28.09,In Stock,37.99,35,2,286.52,50.56,2022-04-04T13:15:05-07:00
 ZIG-ZAG WHITE 1 1/4 CONES,Recreation Marketing,ZIG-ZAG,6 x ZIG-ZAG WHITE 1 1/4 CONES (Case of 24),63.84,2.66,In Stock,4.99,88,,54.26,9.58,2022-03-31T01:40:25-07:00
 CNDYLND,Valens Agritech,Contraband,3.5 g (Case of 12),306.24,25.52,In Stock,34.99,37,2,260.30,45.94,2022-04-04T19:07:26-07:00
-LEMON ROYALE,Sundial Growers,PALMETTO,3.5 g (Case of 12),203.16,16.93,In Stock,22.99,36,3,172.69,30.47,2022-04-04T17:57:21-07:00
+LEMON ROYALE,Sundial Growers,PALMETTO,3.5 g (Case of 12),203.16,16.93,In Stock,22.99,36,3,172.69,30.47,2022-04-04T20:49:10-07:00
 GUAVA BISCOTTI PRE-ROLLS,Canadian Clinical Cannabanoids,The Loud Plug,3 x 0.5 g (Case of 12),165.60,13.8,Out of Stock,19.99,45,,140.76,24.84,2022-04-04T16:16:25-07:00
 MAX THC (INDICA) CANNABIS OIL,DBA Canopy Growth,TWD,28.5 g (Case of 12),240.00,20.0,In Stock,26.99,35,,204.00,36.00,2022-04-04T14:36:50-07:00
 MAX THC (SATIVA) CANNABIS OIL,DBA Canopy Growth,TWD,28.5 g (Case of 12),240.00,20.0,In Stock,26.99,35,,204.00,36.00,2022-04-04T14:36:50-07:00
@@ -154,7 +154,7 @@ LEMON HAZE,Aurora,Daily Special,7 g (Case of 12),342.00,28.5,Out of Stock,36.99,
 LEMON HAZE,Aurora,Daily Special,3.5 g (Case of 12),193.92,16.16,In Stock,21.99,36,,164.83,29.09,2022-04-04T16:39:40-07:00
 BC ORGANIC WHITE RNTZ,Rubicon Organics,Simply Bare,3.5 g (Case of 12),366.36,30.53,In Stock,39.99,31,,311.41,54.95,2022-04-04T19:07:26-07:00
 BC ORGANIC WHITE RNTZ,Rubicon Organics,Simply Bare,28 g (Case of 3),510.66,170.22,In Stock,224.99,32,2,434.06,76.60,2022-04-04T09:52:25-07:00
-CHERRY COLA,Peak Processing Solutions,Sweet Justice,"1 x 355 ml Cola, cherry (Case of 12)",66.36,5.53,In Stock,7.99,44,,56.41,9.95,2022-04-04T19:52:20-07:00
+CHERRY COLA,Peak Processing Solutions,Sweet Justice,"1 x 355 ml Cola, cherry (Case of 12)",66.36,5.53,In Stock,7.99,44,,56.41,9.95,2022-04-04T20:49:10-07:00
 BLACK KETTLE FARMS PRE-ROLLS,Joint Venture Craft Cannabis,BC Black,3 x 0.5 g (Case of 12),138.00,11.5,In Stock,,,,117.30,20.70,2022-04-04T14:22:40-07:00
 BLACK KETTLE FARMS PRE-ROLLS,Joint Venture Craft Cannabis,BC Black,3 x 0.5 g (Case of 12),138.00,11.5,In Stock,,,,117.30,20.70,2022-04-04T14:22:40-07:00
 BENNY BLUNTO PRE-ROLL,Canadian Clinical Cannabanoids,The Loud Plug,1 x 1 g (Case of 12),110.76,9.23,In Stock,12.99,41,,94.15,16.61,2022-04-04T20:29:20-07:00
@@ -288,7 +288,7 @@ SUNNY CITRUS CBD GUMMIES,Organigram,Monjour,"30 x 4.5 g Orange, Lemon and lime (
 BERRY GOOD DAY CBD GUMMIES,Organigram,Monjour,"30 x 4.5 g Blueberry, Strawberry and Wild Berry (Case of 12)",209.88,17.49,In Stock,29.99,71,,178.40,31.48,2022-04-04T19:07:25-07:00
 BC ORGANIC ISLAND PINK KUSH HASH,Rubicon Organics,Simply Bare,1 x 2 g  (Case of 6),150.90,25.15,In Stock,,,,128.27,22.64,2022-04-04T14:14:00-07:00
 ORGANIC HASH,Rubicon Organics,1964,1 x 3.5 g  (Case of 12),374.40,31.2,In Stock,,,,318.24,56.16,2022-04-04T16:22:55-07:00
-AFGHANI DRIFTER PRE-ROLLS,Thrive Cannabis,Greybeard,5 x 0.5 g (Case of 12),220.80,18.4,In Stock,24.99,36,,187.68,33.12,2022-04-04T17:57:20-07:00
+AFGHANI DRIFTER PRE-ROLLS,Thrive Cannabis,Greybeard,5 x 0.5 g (Case of 12),220.80,18.4,In Stock,24.99,36,,187.68,33.12,2022-04-04T20:49:10-07:00
 PLATINUM CK CARTRIDGE,Sundial,Palmetto,1 x 1 g  (Case of 12),352.68,29.39,In Stock,,,,299.78,52.90,2022-04-04T19:07:25-07:00
 GRAPEFRUIT KUSH CRUMBLE,Voyage Cannabis,RAD,"1 x 1 g Grapefruit, Tart (Case of 12)",310.68,25.89,In Stock,36.99,43,,264.08,46.60,2022-04-04T09:34:15-07:00
 SOUR DIESEL SHATTER,Voyage Cannabis,RAD,"1 x 1 g Gasoline, Orange (Case of 12)",310.68,25.89,In Stock,36.99,43,,264.08,46.60,2022-04-04T13:42:16-07:00
@@ -348,7 +348,7 @@ BC ORGANIC PINK KUSH PRE-ROLLS,Rubicon Organics,Simply Bare,3 x 0.5 g (Case of 2
 RESPITE XTRA CBD OIL,Northern Green Canada,Joints,57 g (Case of 12),442.68,36.89,In Stock,49.99,36,,376.28,66.40,2022-04-04T15:11:55-07:00
 WAFFLE BITES PRE-ROLL,Tumbleweed Farms,Cake & Caviar by Habitat,3 x 0.5 g (Case of 12),184.56,15.38,In Stock,20.99,36,,156.88,27.68,2022-04-04T19:52:20-07:00
 SUN COUNTY KUSH PRE-ROLL,Agro Greens Natural,Wildlife,10 x 0.3 g (Case of 12),182.88,15.24,In Stock,,,,155.45,27.43,2022-04-04T17:57:20-07:00
-EXTRA STRENGTH BODY CREAM,HEXO,Apothecanna,1 x 236 g  (Case of 6),235.92,39.32,In Stock,,,,200.53,35.39,2022-04-04T16:22:55-07:00
+EXTRA STRENGTH BODY CREAM,HEXO,Apothecanna,1 x 236 g  (Case of 6),235.92,39.32,In Stock,,,,200.53,35.39,2022-04-04T20:49:10-07:00
 TGIF PRE-ROLLS,CannTrust,Xscape,14 x 0.5 g (Case of 12),381.24,31.77,In Stock,,,,324.05,57.19,2022-04-04T08:54:16-07:00
 FLIX N CHILL PRE-ROLLS,CannTrust,Xscape,14 x 0.5 g (Case of 12),381.24,31.77,In Stock,,,,324.05,57.19,2022-04-04T08:54:16-07:00
 COOKIE PUSS,Experion,Citizen Stash,3.5 g (Case of 12),273.48,22.79,In Stock,29.99,32,,232.46,41.02,2022-04-04T14:46:45-07:00
@@ -541,7 +541,7 @@ CHERRY JAM PRE-ROLLS,Trichome JWC,WAGNERS,3 x 0.5 g (Case of 12),117.36,9.78,In 
 CHERRY JAM,Trichome JWC,WAGNERS,3.5 g (Case of 12),230.88,19.24,In Stock,24.99,30,,196.25,34.63,2022-04-04T16:44:55-07:00
 ARTIST SERIES HEAVY DUTY FRUITY 510 CART,Motif Labs,Floresense,"1 x 0.5 g Fruity, berry & pine flavour profile (Case of 12)",234.60,19.55,In Stock,,,,199.41,35.19,2022-04-04T09:44:25-07:00
 CRAFT SELECT PACK PRE-ROLL,Safari Flower Company,AHLOT,3 x 0.5 g (Case of 24),179.04,7.46,In Stock,,,,152.18,26.86,2022-04-04T09:33:20-07:00
-FLO PRE-ROLL,Emblem Cannabis,Divvy,12 x 0.35 g (Case of 12),197.88,16.49,In Stock,21.99,33,,168.20,29.68,2022-04-04T19:31:15-07:00
+FLO PRE-ROLL,Emblem Cannabis,Divvy,12 x 0.35 g (Case of 12),197.88,16.49,In Stock,21.99,33,,168.20,29.68,2022-04-04T20:49:10-07:00
 MAC-1,Organigram,Edison,3.5 g (Case of 12),201.24,16.77,In Stock,,,,171.05,30.19,2022-04-04T19:07:25-07:00
 BLUEBERRY MOUNTAIN RUSH LIVE RESIN VAPE,Stigma Grow,White NGL,1 x 0.5 g  (Case of 12),277.08,23.09,In Stock,,,,235.52,41.56,2022-04-03T23:24:10-07:00
 WEDDING CAKE PRE-ROLLS,Peace Naturals,Spinach,3 x 0.5 g (Case of 24),215.76,8.99,In Stock,,,,183.40,32.36,2022-04-03T13:58:26-07:00
